@@ -21,6 +21,7 @@
 2. 访问 http://localhost:4000 查看
 
 ## 收录站点
+- [聪明方格](https://cn.newdoku.com/)
 - [今日数独](https://cn.sudoku.today/)
 - [欧泊颗](https://www.oubk.com/)
 - [三思](https://www.12634.com/)
