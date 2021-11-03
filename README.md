@@ -23,4 +23,5 @@
 ## 收录站点
 - [欧泊颗](https://www.oubk.com/)
 - [三思](https://www.12634.com/)
+- [异形数独](https://cn.puzzle-jigsaw-sudoku.com/)
 - [Daily Killer Sudoku](https://www.dailykillersudoku.com/)
