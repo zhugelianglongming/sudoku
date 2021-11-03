@@ -28,5 +28,6 @@
 - [数独](https://cn.puzzle-sudoku.com/)
 - [武士数独](https://cn.samuraisudoku.com/)
 - [异形数独](https://cn.puzzle-jigsaw-sudoku.com/)
+- [有一个数独](https://shudu.one/)
 - [Daily Killer Sudoku](https://www.dailykillersudoku.com/)
 - [Futoshiki](https://cn.puzzle-futoshiki.com/)
