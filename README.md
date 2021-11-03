@@ -10,7 +10,7 @@
 
 访问 [数独资源与分类](http://naotu.baidu.com/file/825e8b6bb24556bf904887a36158afcd?token=2739364acfe6d714)
 
-###Gitbook
+### Gitbook
 
 1. clone 代码，并启动 gitbook
     ```shell
@@ -22,6 +22,7 @@
 
 ## 收录站点
 - [聪明方格](https://cn.newdoku.com/)
+- [独·数之道](http://www.sudokufans.org.cn/)
 - [今日数独](https://cn.sudoku.today/)
 - [欧泊颗](https://www.oubk.com/)
 - [三思](https://www.12634.com/)
