@@ -22,3 +22,4 @@
 
 ## 收录站点
 - [欧泊颗](https://www.oubk.com/)
+- [Daily Killer Sudoku](https://www.dailykillersudoku.com/)
