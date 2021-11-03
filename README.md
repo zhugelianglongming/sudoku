@@ -24,6 +24,7 @@
 - [欧泊颗](https://www.oubk.com/)
 - [三思](https://www.12634.com/)
 - [杀手数独](https://cn.puzzle-killer-sudoku.com/)
+- [数独](https://cn.puzzle-sudoku.com/)
 - [异形数独](https://cn.puzzle-jigsaw-sudoku.com/)
 - [Daily Killer Sudoku](https://www.dailykillersudoku.com/)
 - [Futoshiki](https://cn.puzzle-futoshiki.com/)
