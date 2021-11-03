@@ -1,5 +1,5 @@
 ## 题库
-- [今日数独](https://cn.sudoku.today/dailysudoku/) 【选题困难】
+- [今日数独](https://cn.sudoku.today/dailysudoku/) 【选题不便】
 
 ## 扩展题型
 - [前X数和+半标连续数独](../混合类/前X数和+半标连续数独.md)
