@@ -32,6 +32,7 @@
 - [三思](https://www.12634.com/)
 - [杀手数独](https://cn.puzzle-killer-sudoku.com/)
 - [数独 puzzle-sudoku.com](https://cn.puzzle-sudoku.com/)
+- [数独 sudoku.name](https://www.sudoku.name/index-cn.php)
 - [数独 Sudoku Game](http://www.sudokugame.org/)
 - [武士数独](https://cn.samuraisudoku.com/)
 - [异形数独](https://cn.puzzle-jigsaw-sudoku.com/)
