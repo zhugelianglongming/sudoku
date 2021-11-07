@@ -2,7 +2,7 @@
 
 ## 题库
 - [独·数之道](http://www.sudokufans.org.cn/lx/game.index.php?type=xsum) 【需要登录】
-- [今日数独](https://cn.sudoku.today/dailysudoku/) 【选题不便】
+- [今日数独](https://cn.sudoku.today/g-x-sums-sudoku/) 【选题不便】
 
 ## 扩展题型
 - [前X数和+全标连续数独](../混合类/前X数和+全标连续数独.md)
