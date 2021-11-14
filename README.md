@@ -40,3 +40,4 @@
 - [Daily Killer Sudoku](https://www.dailykillersudoku.com/)
 - [Futoshiki](https://cn.puzzle-futoshiki.com/)
 - [Sudoku Puzzle](https://cn.sudokupuzzle.org/)
+- [Logic Masters Deutschland e.V.](https://logic-masters.de/)
