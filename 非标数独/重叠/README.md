@@ -25,5 +25,5 @@
   - 9+1 数独
     - [无趣数独 1](https://cn.samuraisudoku.com/g-clueless-sudoku-1/)
     - [无趣数独 2](https://cn.samuraisudoku.com/g-clueless-sudoku-2/)
-- 今日数独 【选题不便】
-  - [重影数独](https://cn.sudoku.today/g-duodoku/)
+- 多源
+  - [重影数独](重影数独.md)
