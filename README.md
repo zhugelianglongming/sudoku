@@ -25,6 +25,10 @@
 2. 访问 http://localhost:4000 查看
 
 ## 收录站点
+- 博客
+  - [谜者老芦的博客](http://blog.sina.com.cn/u/1752936301)
+  - [逍遥的博客](http://blog.sina.com.cn/iae3ng)
+  - [真笑天天的博客](http://blog.sina.com.cn/zhenxiaott)
 - [聪明方格](https://cn.newdoku.com/)
 - [独·数之道](http://www.sudokufans.org.cn/)
 - [今日数独](https://cn.sudoku.today/)
@@ -37,7 +41,6 @@
 - [武士数独](https://cn.samuraisudoku.com/)
 - [异形数独](https://cn.puzzle-jigsaw-sudoku.com/)
 - [有一个数独](https://shudu.one/)
-- [真笑天天的博客](http://blog.sina.com.cn/zhenxiaott)
 - [Daily Killer Sudoku](https://www.dailykillersudoku.com/)
 - [Futoshiki](https://cn.puzzle-futoshiki.com/)
 - [Sudoku Puzzle](https://cn.sudokupuzzle.org/)
