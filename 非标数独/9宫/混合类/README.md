@@ -8,6 +8,12 @@
 - [0-9黑白点][]
 - [0-9边框和][]
 
+# 10-in-9
+> [LMD](https://logic-masters.de/Raetselportal/Suche/erweitert.php?tag_id=9401)
+
+## 159
+> [159数独](../额外区域类/绝对区域/159数独.md)
+
 ## 四则运算
 - [数学数独][]
 ### 加法
