@@ -29,8 +29,6 @@
   - [谜者老芦的博客](http://blog.sina.com.cn/u/1752936301)
   - [逍遥的博客](http://blog.sina.com.cn/iae3ng)
   - [真笑天天的博客](http://blog.sina.com.cn/zhenxiaott)
-- 知乎
-  - [小向的标准数独技巧教程](https://www.zhihu.com/column/SunnieSudoku)
 - [聪明方格](https://cn.newdoku.com/)
 - [独·数之道](http://www.sudokufans.org.cn/)
 - [今日数独](https://cn.sudoku.today/)
