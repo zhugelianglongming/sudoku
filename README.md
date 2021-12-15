@@ -16,13 +16,15 @@
 
 ### Gitbook
 
-1. clone 代码，并启动 gitbook
-    ```shell
-    git clone git@github.com:zhugelianglongming/sudoku.git
-    cd sudoku
-    gitbook serve
-    ```
-2. 访问 http://localhost:4000 查看
+- [在线版](https://zhugelianglongming.gitbook.io/shu-du/)
+- 离线版
+  1. clone 代码，并启动 gitbook
+      ```shell
+      git clone git@github.com:zhugelianglongming/sudoku.git
+      cd sudoku
+      gitbook serve
+      ```
+  2. 访问 http://localhost:4000 查看
 
 ## 收录站点
 - 博客
