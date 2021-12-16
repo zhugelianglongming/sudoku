@@ -8,7 +8,7 @@
 - [0-9黑白点][]
 - [0-9边框和][]
 
-# 10-in-9
+## 10-in-9
 > [LMD](https://logic-masters.de/Raetselportal/Suche/erweitert.php?tag_id=9401)
 
 ## 159
