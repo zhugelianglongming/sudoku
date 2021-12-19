@@ -1,5 +1,8 @@
 ![](https://cn.sudoku.today/pic/xvall/17844_179080.png)
 
+## 别名
+- XV Sudoku
+
 ## 题库
 - [独·数之道](http://www.sudokufans.org.cn/lx/game.index.php?type=vxa) 【需要登录】
 - [今日数独](https://cn.sudoku.today/g-xv-sudoku-2/) 【选题不便】
