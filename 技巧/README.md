@@ -1,11 +1,11 @@
 # 数独技巧
 
 ## 入门级
-- 排除法 / 摒除法 / [Hidden Single]
+- 摒除法 / 排除法 / [Hidden Single]
   - 宫摒除 / [Hidden Single in Box][] `参考难度系数`1.2
   - 行列摒除 / [Hidden Single in Row/Column] `参考难度系数`1.5
   > [练习](https://www.12634.com/learning/hs/index)
-- 唯一数 / 唯一法 / 唯余法 / Last Value / [Naked Single][] `参考难度系数`2.3
+- 唯余法 / 唯一数 / 唯一法 / Last Value / [Naked Single][] `参考难度系数`2.3
   > [练习](http://www.sudokufans.org.cn/tools/finder.php)
 
 ## 初级
@@ -120,6 +120,8 @@
 - [Hidden Unique Rectangle](http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=1059)
 - [Unique Rectangle 6-cell](http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=1114)
 
+> [技巧分类](分类/README.md)
+
 # 流派
 - 竞速（面向比赛） 
 - 技巧（面向数独难题） 
@@ -153,7 +155,7 @@
 [Direct Pointing]: https://sunnieshine.gitbook.io/sudoku-tutorial/004-locked-candidates#part-1-gong-qu-kuai-pointing
 [Claiming]: https://sunnieshine.gitbook.io/sudoku-tutorial/008-candidate-introduction#22-hang-lie-qu-kuai-claiming
 [Direct Claiming]: https://sunnieshine.gitbook.io/sudoku-tutorial/004-locked-candidates#part-2-hang-lie-pai-chu-claiming
-[Cascading Locked Candidates]: https://sunnieshine.gitbook.io/sudoku-tutorial/004-locked-candidates#ji-qiao-xin-xi
+[Cascading Locked Candidates]: https://sunnieshine.gitbook.io/sudoku-tutorial/004-locked-candidates#part-3-zu-he-qu-kuai-ji-lian-qu-kuai-cascading-locked-candidates
 [Hidden Subset]: https://sunnieshine.gitbook.io/sudoku-tutorial/005-hidden-subsets
 [Hidden Pair]: https://sunnieshine.gitbook.io/sudoku-tutorial/008-candidate-introduction#321-yin-xing-shu-dui-hidden-pair
 [Direct Hidden Pair]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5178
