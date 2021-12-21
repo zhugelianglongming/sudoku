@@ -1,5 +1,9 @@
 # 数独技巧
 
+> [技巧图谱](https://www.processon.com/embed/61c17b5f0791290c9efaf141)
+> 
+> ![](http://assets.processon.com/chart_image/61c17b5f0791290c9efaf145.png)
+
 ## 入门级
 - 摒除法 / 排除法 / [Hidden Single]
   - 宫摒除 / [Hidden Single in Box][] `参考难度系数`1.2
@@ -35,12 +39,12 @@
     - 显性三数组 / 显性三数集 / [Naked Triple][] `参考难度系数`3.6
       > [练习](https://www.12634.com/learning/naked-triplet/index)
     - 显性四数组 / [Naked Quadruple][] `参考难度系数`5.0
-  - 死锁数组 / [Locked Subset][]
+  - 死锁数组 / 割补数组 / [Locked Subset][]
     - 死锁数对 `参考难度系数`2.0
     - 死锁三数组 `参考难度系数`2.5
 
 ## 高级
-- 区块数组 / Naked Subset With Locked Candidates / Naked Subset+
+- 区块数组 / Naked Subset With Locked Candidates / [Naked Subset+][]
   - 区块三数组 `参考难度系数`3.7
   - 区块四数组 `参考难度系数`5.1
 - 鱼 / 链列 / [Fish][]
@@ -49,21 +53,23 @@
       > [练习](https://www.12634.com/learning/x-wing/index)
     - 三阶鱼 / 剑鱼 / 三链列 / [Swordfish][] `参考难度系数`3.8
     - 四阶鱼 / 水母 / 四链列 / [Jellyfish][] `参考难度系数`5.2
-  - 带鳍鱼 / [Finned Fish][]
+  - 带鳍鱼 / 外鳍鱼 / [Finned Fish][]
     - 带鳍二阶鱼 / [Finned X-Wing][] `参考难度系数`3.4
     - 带鳍三阶鱼 / [Finned Swordfish][] `参考难度系数`4.0
     - 带鳍四阶鱼 / [Finned Jellyfish][] `参考难度系数`5.4
   - 宫内鱼 / Franken Fish
-    - [外鳍宫内鱼](https://zhuanlan.zhihu.com/p/34808058)
+    - [标准宫内鱼][宫内鱼]
       - 宫内二阶鱼 / 宫内二阶鱼 /  Franken X-Wing
       - 宫内三阶鱼 / Franken Swordfish
       - 宫内四阶鱼 / Franken Jellyfish
-    - 内鳍宫内鱼 / [Endo-finned Franken Fish](https://zhuanlan.zhihu.com/p/35126174)
-      - 内鳍宫内三阶鱼 / Endo-finned Franken Swordfish
-      - 内鳍宫内四阶鱼 / Endo-finned Franken Jellyfish
-    - 自噬鳍宫内鱼 / [Cannibal-finned Franken Fish](https://zhuanlan.zhihu.com/p/35180765)
-      - 自噬鳍宫内三阶鱼
-      - 自噬鳍宫内四阶鱼
+    - 带鳍宫内鱼
+      - [外鳍宫内鱼][宫内鱼]
+      - 内鳍宫内鱼 / [Endo-finned Franken Fish](https://zhuanlan.zhihu.com/p/35126174)
+        - 内鳍宫内三阶鱼 / Endo-finned Franken Swordfish
+        - 内鳍宫内四阶鱼 / Endo-finned Franken Jellyfish
+      - 自噬鳍宫内鱼 / [Cannibal-finned Franken Fish](https://zhuanlan.zhihu.com/p/35180765)
+        - 自噬鳍宫内三阶鱼
+        - 自噬鳍宫内四阶鱼
   - 交叉鱼 / [Mutant Fish](https://zhuanlan.zhihu.com/p/35245385)
     - 标准交叉鱼
       - 交叉三阶鱼 / Mutant Swordfish
@@ -78,6 +84,7 @@
       - 自噬鳍交叉鱼
         - 自噬鳍交叉三阶鱼
         - 自噬鳍交叉四阶鱼
+  - [复杂鱼](https://zhuanlan.zhihu.com/p/35348865)
 - [XY-Wing](http://www.sudokufans.org.cn/forums/topic/48/?do=findComment&comment=211)
   > [练习](https://www.12634.com/learning/xy-wing/index)
 - [XYZ-Wing](http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=203)
@@ -95,6 +102,54 @@
   > [练习](https://www.12634.com/learning/forcing-chain/index)
 
 ## 骨灰级
+- 致命结构
+  - 唯一矩形 / UR / [Unique Rectangle][]
+    - 普通唯一矩形
+      - 标准型 / [UR Type 1][UR Type 1] `参考难度系数`4.5
+        > [练习](https://www.12634.com/learning/unique-rectangle-type-1/index)
+      - 待定数型 / 区块组型 / [UR Type 2][UR Type 2]
+        - UR Type 2A `参考难度系数`4.6
+        - 对角待定数型 / UR Type 2B / UR Type 5 `参考难度系数`4.6
+      - 待定数组型 / [UR Type 3][UR Type 3]
+        - UR Type 3A `参考难度系数`4.4+
+        - UR Type 3B `参考难度系数`4.5+
+      - 共轭对型 / [UR Type 4][UR Type 4]
+        - UR Type 4A  `参考难度系数`4.6
+        - 平行共轭对型 / UR Type 4B / UR Type 6 `参考难度系数`4.6
+        - 正交共轭对型 / UR Type 4C / UR Type 7 / Hidden UR `参考难度系数`4.8
+    - 残缺唯一矩形 / [Incomplete UR][]
+      - 标准型 / Incomplete UR Type 1
+      - 待定数型 / Incomplete UR Type 2
+        - Incomplete UR Type 2A
+        - 对角待定数型 / Incomplete UR Type 2B
+      - 待定数组型 / Incomplete UR Type 3
+        - Incomplete UR Type 3A
+        - Incomplete UR Type 3B
+      - 共轭对型 / Incomplete UR Type 4
+        - Incomplete UR Type 4A
+        - 平行共轭对型 / Incomplete UR Type 4B
+        - 正交共轭对型 / Incomplete UR Type 4C
+    - 强制唯一矩形 / [Forcing UR][活用唯一矩形]
+      - 星座强制唯一矩形 / Constellation
+        - 水瓶座 / `UR + 2 / 1 CP` / Aquarius
+        - 天鹅座 / `UR + 3 / 2 CP` / Cygnus
+        - 飞马座 / `UR + 4 / 3 CP` / Pegasus
+      - 普通强制唯一矩形 / Basic Forcing UR
+      - 残缺强制唯一矩形 / Incomplete Forcing UR
+    - 死锁唯一矩形 / [Locked UR][活用唯一矩形]
+      - 标准型 / Locked UR Type 1
+      - 待定数组型 / Locked UR Type 2
+    - [构造唯一矩形][活用唯一矩形]
+    - 直推唯一矩形 / [Direct Inference UR][活用唯一矩形]
+    - 超链置唯一矩形 / [Hyper AIC With UR][活用唯一矩形]
+  - [Unique Loop][]
+  - 全双值坟墓 / BUG / [Bivalue Universal Grave][]
+    - type 1: 标准型
+      > [练习](https://www.12634.com/learning/bug-type-1/index)
+    - type 2: 待定数型
+      > [练习](https://www.12634.com/learning/bug-type-2/index)
+    - type 3: 待定数组型
+    - type 4: 共轭对型
 - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
 - [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
 - 远程数对 / [Remote Pairs][]
@@ -102,25 +157,11 @@
 - [Y-Wing/W-Wing](http://www.sudokufans.org.cn/forums/topic/83/?do=findComment&comment=625)
 - [M-Wing](http://www.sudokufans.org.cn/forums/topic/111/?do=findComment&comment=857)
 - ALS / [Almost Locked Subset][]
-- 全双值坟墓 / BUG / [Bivalue Universal Grave][]
-  - type 1: 标准型
-    > [练习](https://www.12634.com/learning/bug-type-1/index)
-  - type 2: 待定数型
-    > [练习](https://www.12634.com/learning/bug-type-2/index)
-  - type 3: 待定数组型
-  - type 4: 共轭对型
-- 唯一矩形 / UR / Unique Rectangle
-  - [type 1][UR type 1]
-    > [练习](https://www.12634.com/learning/unique-rectangle-type-1/index)
-  - [type 2][UR type 2]
-  - [type 3][UR type 3]
-  - [type 4][UR type 4]
-- [Unique Loop][]
 - [Double Loop](http://www.sudokufans.org.cn/forums/topic/1660/)
 - [Hidden Unique Rectangle](http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=1059)
 - [Unique Rectangle 6-cell](http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=1114)
 
-> [技巧分类](分类/README.md)
+> - [技巧分类](分类/README.md)
 
 # 流派
 - 竞速（面向比赛） 
@@ -163,11 +204,13 @@
 [Direct Hidden Triple]: https://sunnieshine.gitbook.io/sudoku-tutorial/005-hidden-subsets#part-2-yin-xing-san-shu-zu-hidden-triple
 [Hidden Quadruple]: https://sunnieshine.gitbook.io/sudoku-tutorial/005-hidden-subsets#part-3-yin-xing-si-shu-zu-hidden-quadruple
 [Naked Subset]: https://sunnieshine.gitbook.io/sudoku-tutorial/006-naked-subsets
+[Naked Subset+]: https://sunnieshine.gitbook.io/sudoku-tutorial/006-naked-subsets#part-6-yin-cang-zai-xian-xing-shu-zu-nei-bu-de-qu-kuai
 [Naked Pair]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5193
 [Naked Triple]: https://sunnieshine.gitbook.io/sudoku-tutorial/006-naked-subsets#part-2-xian-xing-san-shu-zu-naked-triple
 [Naked Quadruple]: https://sunnieshine.gitbook.io/sudoku-tutorial/006-naked-subsets#part-3-xian-xing-si-shu-zu-naked-quadruple
 [Locked Subset]: https://sunnieshine.gitbook.io/sudoku-tutorial/006-naked-subsets#part-7-si-suo-shu-zu-he-ge-bu-shu-zu-locked-subset
 [Fish]: https://sunnieshine.gitbook.io/sudoku-tutorial/009-normal-fish
+[宫内鱼]: https://zhuanlan.zhihu.com/p/34808058
 [X-Wing]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5196
 [Swordfish]: https://sunnieshine.gitbook.io/sudoku-tutorial/009-normal-fish#part-3-san-lian-lie-jian-yu-swordfish
 [Jellyfish]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5198
@@ -176,10 +219,13 @@
 [Finned Swordfish]: https://sunnieshine.gitbook.io/sudoku-tutorial/011-fin-1-normal-fin#part-2-dai-yu-qi-de-san-jie-yu-finned-swordfish
 [Finned Jellyfish]: https://sunnieshine.gitbook.io/sudoku-tutorial/011-fin-1-normal-fin#part-3-dai-yu-qi-de-si-jie-yu-finned-jellyfish
 [Bivalue Universal Grave]: https://zhuanlan.zhihu.com/p/33546333
-[UR type 1]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=685
-[UR type 2]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=706
-[UR type 3]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=803
-[UR type 4]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=883
+[Unique Rectangle]: https://zhuanlan.zhihu.com/p/33282261
+[Incomplete UR]: https://zhuanlan.zhihu.com/p/34240377
+[活用唯一矩形]: https://zhuanlan.zhihu.com/p/34319844
+[UR Type 1]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=685
+[UR Type 2]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=706
+[UR Type 3]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=803
+[UR Type 4]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=883
 [Unique Loop]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=690
 [Skyscraper]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5213
 [Two Strings Kite]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5214
