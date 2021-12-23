@@ -152,13 +152,13 @@
     - 区块组性 / Type 2
     - 待定数组型 / Type 3
     - 正交共轭对型 / 隐形可规避矩形 / AR Type 4C / Hidden AR
-  - 全双值坟墓 / BUG / [Bivalue Universal Grave][]
-    - type 1: 标准型
+  - 全双值坟墓 / BUG / [Bivalue Universal Grave][]  `参考难度系数`5.4+
+    - 标准型 / Type 1
       > [练习](https://www.12634.com/learning/bug-type-1/index)
-    - type 2: 待定数型
+    - 待定数型 / Type 2
       > [练习](https://www.12634.com/learning/bug-type-2/index)
-    - type 3: 待定数组型
-    - type 4: 共轭对型
+    - 待定数组型 / Type 3 
+    - 共轭对型 / Type 4 
 - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
 - [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
 - 远程数对 / [Remote Pairs][]
