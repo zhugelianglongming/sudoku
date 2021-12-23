@@ -119,7 +119,7 @@
       - 共轭对型 / [UR Type 4][UR Type 4]
         - UR Type 4A  `参考难度系数`4.6
         - 平行共轭对型 / UR Type 4B / UR Type 6 `参考难度系数`4.6
-        - 正交共轭对型 / UR Type 4C / UR Type 7 / Hidden UR `参考难度系数`4.8
+        - 正交共轭对型 / UR Type 4C / UR Type 7 / HUR / Hidden UR `参考难度系数`4.8
     - 残缺唯一矩形 / [Incomplete UR][]
       - 标准型 / Incomplete UR Type 1
       - 待定数型 / Incomplete UR Type 2
@@ -147,6 +147,11 @@
     - 超链置唯一矩形 / [Hyper AIC With UR][活用唯一矩形]
   - 唯一环 / UL / [Unique Loop][] `参考难度系数`4.3+
   - 拓展矩形 / [Extended Rectangle][Unique Loop] `参考难度系数`4.3+
+  - 可规避矩形 / AR / [Avoidable Rectangle][] `参考难度系数`4.5+
+    - 标准型 / Type 1
+    - 区块组性 / Type 2
+    - 待定数组型 / Type 3
+    - 正交共轭对型 / 隐形可规避矩形 / AR Type 4C / Hidden AR
   - 全双值坟墓 / BUG / [Bivalue Universal Grave][]
     - type 1: 标准型
       > [练习](https://www.12634.com/learning/bug-type-1/index)
@@ -231,6 +236,7 @@
 [UR Type 3]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=803
 [UR Type 4]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=883
 [Unique Loop]: https://zhuanlan.zhihu.com/p/33444291
+[Avoidable Rectangle]: https://zhuanlan.zhihu.com/p/33521739
 [Skyscraper]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5213
 [Two Strings Kite]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5214
 [Turbot Fish]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5215
