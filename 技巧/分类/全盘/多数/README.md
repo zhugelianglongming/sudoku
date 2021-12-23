@@ -25,6 +25,7 @@
     - 死锁唯一矩形 / [Locked UR][活用唯一矩形]
       - Locked UR Type 1
       - Locked UR Type 2
+  - 唯一环
 
 ## 3 个数
 - 致命结构
@@ -37,6 +38,7 @@
       - Incomplete UR Type 2
         - Incomplete UR Type 2A
         - Incomplete UR Type 2B
+  - 拓展矩形
 
 ## 多个数
 - 致命结构
@@ -52,6 +54,7 @@
     - 构造唯一矩形
     - 直推唯一矩形
     - 超链置唯一矩形
+  - 拓展矩形
 
 > - [技巧索引](../../../README.md)
 > - [技巧分类](../../README.md)

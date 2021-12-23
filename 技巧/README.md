@@ -1,6 +1,9 @@
 # 数独技巧
 
 > [技巧图谱](https://www.processon.com/embed/61c17b5f0791290c9efaf141)
+> - 绿色虚线：技巧演进-分析数扩展
+> - 蓝色虚线：技巧演进-分析区域扩展
+> - 红色虚线：技巧组合
 > 
 > ![](http://assets.processon.com/chart_image/61c17b5f0791290c9efaf145.png)
 
@@ -84,7 +87,7 @@
       - 自噬鳍交叉鱼
         - 自噬鳍交叉三阶鱼
         - 自噬鳍交叉四阶鱼
-  - [复杂鱼](https://zhuanlan.zhihu.com/p/35348865)
+  - 复杂鱼 / [Complex Fish](https://zhuanlan.zhihu.com/p/35348865)
 - [XY-Wing](http://www.sudokufans.org.cn/forums/topic/48/?do=findComment&comment=211)
   > [练习](https://www.12634.com/learning/xy-wing/index)
 - [XYZ-Wing](http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=203)
@@ -142,7 +145,8 @@
     - [构造唯一矩形][活用唯一矩形]
     - 直推唯一矩形 / [Direct Inference UR][活用唯一矩形]
     - 超链置唯一矩形 / [Hyper AIC With UR][活用唯一矩形]
-  - [Unique Loop][]
+  - 唯一环 / UL / [Unique Loop][] `参考难度系数`4.3+
+  - 拓展矩形 / [Extended Rectangle][Unique Loop] `参考难度系数`4.3+
   - 全双值坟墓 / BUG / [Bivalue Universal Grave][]
     - type 1: 标准型
       > [练习](https://www.12634.com/learning/bug-type-1/index)
@@ -226,7 +230,7 @@
 [UR Type 2]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=706
 [UR Type 3]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=803
 [UR Type 4]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=883
-[Unique Loop]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=690
+[Unique Loop]: https://zhuanlan.zhihu.com/p/33444291
 [Skyscraper]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5213
 [Two Strings Kite]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5214
 [Turbot Fish]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5215
