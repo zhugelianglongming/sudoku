@@ -88,10 +88,15 @@
         - 自噬鳍交叉三阶鱼
         - 自噬鳍交叉四阶鱼
   - 复杂鱼 / [Complex Fish](https://zhuanlan.zhihu.com/p/35348865)
-- [XY-Wing](http://www.sudokufans.org.cn/forums/topic/48/?do=findComment&comment=211)
-  > [练习](https://www.12634.com/learning/xy-wing/index)
-- [XYZ-Wing](http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=203)
-  > [练习](https://www.12634.com/learning/xyz-wing/index)
+- 链
+  - 标准链 / AIC
+    - [规则 Wing](https://zhuanlan.zhihu.com/p/33087864)
+      - 双分支匹配法 / Y-Wing / [XY-Wing][] `参考难度系数`4.2
+        > [练习](https://www.12634.com/learning/xy-wing/index)
+      - 三分支匹配法 / [XYZ-Wing][] `参考难度系数`4.4
+        > [练习](https://www.12634.com/learning/xyz-wing/index)
+      - 四分支匹配法 / WXYZ-Wing `参考难度系数`4.6
+      - 五分支匹配法 / VWXYZ-Wing `参考难度系数`4.85
 - 摩天楼 / [Skyscraper][]
   > [练习](https://www.12634.com/learning/skyscraper/index)
 - 双线风筝 / [Two Strings Kite][]
@@ -237,6 +242,8 @@
 [UR Type 4]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=883
 [Unique Loop]: https://zhuanlan.zhihu.com/p/33444291
 [Avoidable Rectangle]: https://zhuanlan.zhihu.com/p/33521739
+[XY-Wing]: http://www.sudokufans.org.cn/forums/topic/48/?do=findComment&comment=211
+[XYZ-Wing]: http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=203
 [Skyscraper]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5213
 [Two Strings Kite]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5214
 [Turbot Fish]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5215
