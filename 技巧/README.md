@@ -92,15 +92,14 @@
   - 欠一数组 / ALC / [Almost Locked Candidates](https://zhuanlan.zhihu.com/p/33612543)
     - 欠一数对 / [Almost Locked Pair][] `参考难度系数`4.5
     - 欠一三数组 / Almost Locked Triple `参考难度系数`5.2
-  - 融合式待定数组 / SDC / SdC / [Sue de Coq](https://zhuanlan.zhihu.com/p/33615105)
-    - 无公共数型 / 基本融合版本 `参考难度系数`4.8+
-    - 共享公共数型 / 带有交互数字的融合版本 `参考难度系数`4.9+
-    - 独占公共数型 / 自噬SDC / Cannibalistic SDC `参考难度系数`4.9+
   - 伪数组 / ESP / [Extended Subset Principle][伪数组和跨区数组] `参考难度系数`7.5
   - 跨区数组 / DDS / [Distributed Disjointed Subset][伪数组和跨区数组] `参考难度系数`7.0
-    - 双区域分布式跨区数组
+    - 融合式待定数组 / 双区域分布式跨区数组 / SDC / SdC / [Sue de Coq](https://zhuanlan.zhihu.com/p/33615105)
+      - 无公共数型 / 基本融合版本 `参考难度系数`4.8+
+      - 共享公共数型 / 带有交互数字的融合版本 `参考难度系数`4.9+
+      - 独占公共数型 / 自噬SDC / Cannibalistic SDC `参考难度系数`4.9+
 - 链
-  - 标准链 / AIC
+  - 标准链 / AIC / Alternating Inference Chain
     - [规则 Wing](https://zhuanlan.zhihu.com/p/33087864)
       - 双分支匹配法 / Y-Wing / [XY-Wing][] `参考难度系数`4.2
         > [练习](https://www.12634.com/learning/xy-wing/index)
@@ -112,11 +111,11 @@
       - ~~七分支匹配法 / TUVWXYZ-Wing~~
       - ~~八分支匹配法 / STUVWXYZ-Wing~~
       - ~~九分支匹配法 / RSTUVWXYZ-Wing~~
-- 摩天楼 / [Skyscraper][]
-  > [练习](https://www.12634.com/learning/skyscraper/index)
-- 双线风筝 / [Two Strings Kite][]
+    - 双强链 / 多宝鱼 / [Turbot Fish][] `参考难度系数`4.2
+      - 摩天楼 / 孪生二链列 / [Skyscraper][] `参考难度系数`4.05
+        > [练习](https://www.12634.com/learning/skyscraper/index)
+      - 双线风筝 / [Two Strings Kite][] `参考难度系数`4.1
 - 空矩形 / [Empty Rectangle][]
-- 多宝鱼 / [Turbot Fish][]
 - X链 / [X-Chain][]
 - X环 / [X-Cycle][]
 - 守护者/ [Guardians][]
@@ -260,7 +259,7 @@
 [伪数组和跨区数组]: https://zhuanlan.zhihu.com/p/33632335
 [Skyscraper]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5213
 [Two Strings Kite]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5214
-[Turbot Fish]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5215
+[Turbot Fish]: https://zhuanlan.zhihu.com/p/33677126
 [X-Chain]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5226
 [X-Cycle]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5225
 [Guardians]: http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=247
