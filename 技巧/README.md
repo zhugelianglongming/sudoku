@@ -88,8 +88,18 @@
         - 自噬鳍交叉三阶鱼
         - 自噬鳍交叉四阶鱼
   - 复杂鱼 / [Complex Fish](https://zhuanlan.zhihu.com/p/35348865)
+- 待定数组（标准） / ALS / Almost Locked Subset
+  - 欠一数组 / ALC / [Almost Locked Candidates](https://zhuanlan.zhihu.com/p/33612543)
+    - 欠一数对 / [Almost Locked Pair][] `参考难度系数`4.5
+    - 欠一三数组 / Almost Locked Triple `参考难度系数`5.2
+  - 伪数组 / ESP / [Extended Subset Principle][伪数组和跨区数组] `参考难度系数`7.5
+  - 跨区数组 / DDS / [Distributed Disjointed Subset][伪数组和跨区数组] `参考难度系数`7.0
+    - 融合式待定数组 / 双区域分布式跨区数组 / SDC / SdC / [Sue de Coq](https://zhuanlan.zhihu.com/p/33615105)
+      - 无公共数型 / 基本融合版本 `参考难度系数`4.8+
+      - 共享公共数型 / 带有交互数字的融合版本 `参考难度系数`4.9+
+      - 独占公共数型 / 自噬SDC / Cannibalistic SDC `参考难度系数`4.9+
 - 链
-  - 标准链 / AIC
+  - 标准链 / AIC / Alternating Inference Chain
     - [规则 Wing](https://zhuanlan.zhihu.com/p/33087864)
       - 双分支匹配法 / Y-Wing / [XY-Wing][] `参考难度系数`4.2
         > [练习](https://www.12634.com/learning/xy-wing/index)
@@ -97,11 +107,15 @@
         > [练习](https://www.12634.com/learning/xyz-wing/index)
       - 四分支匹配法 / WXYZ-Wing `参考难度系数`4.6
       - 五分支匹配法 / VWXYZ-Wing `参考难度系数`4.85
-- 摩天楼 / [Skyscraper][]
-  > [练习](https://www.12634.com/learning/skyscraper/index)
-- 双线风筝 / [Two Strings Kite][]
+      - ~~六分支匹配法 / UVWXYZ-Wing~~
+      - ~~七分支匹配法 / TUVWXYZ-Wing~~
+      - ~~八分支匹配法 / STUVWXYZ-Wing~~
+      - ~~九分支匹配法 / RSTUVWXYZ-Wing~~
+    - 双强链 / 多宝鱼 / [Turbot Fish][] `参考难度系数`4.2
+      - 摩天楼 / 孪生二链列 / [Skyscraper][] `参考难度系数`4.05
+        > [练习](https://www.12634.com/learning/skyscraper/index)
+      - 双线风筝 / [Two Strings Kite][] `参考难度系数`4.1
 - 空矩形 / [Empty Rectangle][]
-- 多宝鱼 / [Turbot Fish][]
 - X链 / [X-Chain][]
 - X环 / [X-Cycle][]
 - 守护者/ [Guardians][]
@@ -124,7 +138,7 @@
       - 共轭对型 / [UR Type 4][UR Type 4]
         - UR Type 4A  `参考难度系数`4.6
         - 平行共轭对型 / UR Type 4B / UR Type 6 `参考难度系数`4.6
-        - 正交共轭对型 / UR Type 4C / UR Type 7 / HUR / Hidden UR `参考难度系数`4.8
+        - 正交共轭对型 / UR Type 4C / UR Type 7 / HUR / Hidden UR / [Hidden Unique Rectangle][] `参考难度系数`4.8
     - 残缺唯一矩形 / [Incomplete UR][]
       - 标准型 / Incomplete UR Type 1
       - 待定数型 / Incomplete UR Type 2
@@ -167,12 +181,9 @@
 - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
 - [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
 - 远程数对 / [Remote Pairs][]
-- 欠一数对/ [Almost Locked Pair][]
 - [Y-Wing/W-Wing](http://www.sudokufans.org.cn/forums/topic/83/?do=findComment&comment=625)
 - [M-Wing](http://www.sudokufans.org.cn/forums/topic/111/?do=findComment&comment=857)
-- ALS / [Almost Locked Subset][]
 - [Double Loop](http://www.sudokufans.org.cn/forums/topic/1660/)
-- [Hidden Unique Rectangle](http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=1059)
 - [Unique Rectangle 6-cell](http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=1114)
 
 > - [技巧分类](分类/README.md)
@@ -240,17 +251,18 @@
 [UR Type 2]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=706
 [UR Type 3]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=803
 [UR Type 4]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=883
+[Hidden Unique Rectangle]: http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=1059
 [Unique Loop]: https://zhuanlan.zhihu.com/p/33444291
 [Avoidable Rectangle]: https://zhuanlan.zhihu.com/p/33521739
 [XY-Wing]: http://www.sudokufans.org.cn/forums/topic/48/?do=findComment&comment=211
 [XYZ-Wing]: http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=203
+[伪数组和跨区数组]: https://zhuanlan.zhihu.com/p/33632335
 [Skyscraper]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5213
 [Two Strings Kite]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5214
-[Turbot Fish]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5215
+[Turbot Fish]: https://zhuanlan.zhihu.com/p/33677126
 [X-Chain]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5226
 [X-Cycle]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5225
 [Guardians]: http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=247
 [Empty Rectangle]: http://www.sudokufans.org.cn/forums/topic/1053/?do=findComment&comment=4859
 [Remote Pairs]: http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=471
 [Almost Locked Pair]: http://www.sudokufans.org.cn/forums/topic/57/?do=findComment&comment=360
-[Almost Locked Subset]: http://www.sudokufans.org.cn/forums/topic/255/
