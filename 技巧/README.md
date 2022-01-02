@@ -96,6 +96,9 @@
     - 无公共数型 / 基本融合版本 `参考难度系数`4.8+
     - 共享公共数型 / 带有交互数字的融合版本 `参考难度系数`4.9+
     - 独占公共数型 / 自噬SDC / Cannibalistic SDC `参考难度系数`4.9+
+  - 伪数组 / ESP / [Extended Subset Principle][伪数组和跨区数组] `参考难度系数`7.5
+  - 跨区数组 / DDS / [Distributed Disjointed Subset][伪数组和跨区数组] `参考难度系数`7.0
+    - 双区域分布式跨区数组
 - 链
   - 标准链 / AIC
     - [规则 Wing](https://zhuanlan.zhihu.com/p/33087864)
@@ -254,6 +257,7 @@
 [Avoidable Rectangle]: https://zhuanlan.zhihu.com/p/33521739
 [XY-Wing]: http://www.sudokufans.org.cn/forums/topic/48/?do=findComment&comment=211
 [XYZ-Wing]: http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=203
+[伪数组和跨区数组]: https://zhuanlan.zhihu.com/p/33632335
 [Skyscraper]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5213
 [Two Strings Kite]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5214
 [Turbot Fish]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5215
