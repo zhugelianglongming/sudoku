@@ -98,6 +98,9 @@
       - 无公共数型 / 基本融合版本 `参考难度系数`4.8+
       - 共享公共数型 / 带有交互数字的融合版本 `参考难度系数`4.9+
       - 独占公共数型 / 自噬SDC / Cannibalistic SDC `参考难度系数`4.9+
+  - [均衡性数组][]
+    - 均衡性数对 / Aligned Pair Exclusion `参考难度系数`6.2
+    - 均衡性三数组 / Aligned Triple Exclusion `参考难度系数`7.5
 - 链
   - 标准链 / AIC / Alternating Inference Chain
     - [规则 Wing](https://zhuanlan.zhihu.com/p/33087864)
@@ -257,6 +260,7 @@
 [XY-Wing]: http://www.sudokufans.org.cn/forums/topic/48/?do=findComment&comment=211
 [XYZ-Wing]: http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=203
 [伪数组和跨区数组]: https://zhuanlan.zhihu.com/p/33632335
+[均衡性数组]: https://zhuanlan.zhihu.com/p/33661648
 [Skyscraper]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5213
 [Two Strings Kite]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5214
 [Turbot Fish]: https://zhuanlan.zhihu.com/p/33677126
