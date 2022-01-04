@@ -102,7 +102,7 @@
     - 均衡性数对 / Aligned Pair Exclusion `参考难度系数`6.2
     - 均衡性三数组 / Aligned Triple Exclusion `参考难度系数`7.5
 - 链
-  - 标准链 / AIC / Alternating Inference Chain
+  - 标准链 / AIC / [Alternating Inference Chain][Common Types Chain] `参考难度系数`5.7+
     - [规则 Wing](https://zhuanlan.zhihu.com/p/33087864)
       - 双分支匹配法 / Y-Wing / [XY-Wing][] `参考难度系数`4.2
         > [练习](https://www.12634.com/learning/xy-wing/index)
@@ -114,15 +114,30 @@
       - ~~七分支匹配法 / TUVWXYZ-Wing~~
       - ~~八分支匹配法 / STUVWXYZ-Wing~~
       - ~~九分支匹配法 / RSTUVWXYZ-Wing~~
-    - 双强链 / 多宝鱼 / [Turbot Fish][] `参考难度系数`4.2
-      - 摩天楼 / 孪生二链列 / [Skyscraper][] `参考难度系数`4.05
-        > [练习](https://www.12634.com/learning/skyscraper/index)
-      - 双线风筝 / [Two Strings Kite][] `参考难度系数`4.1
-- 空矩形 / [Empty Rectangle][]
-- X链 / [X-Chain][]
+    - [不规则 Wing](https://zhuanlan.zhihu.com/p/33730739)
+      - Y-Wing 拓展构型 / Y-Wing Style
+        - 首尾格内对匹配法 / [W-Wing][] `参考难度系数`4.4
+      - 隔一格内对匹配法 / [M-Wing][]  `参考难度系数`4.5
+      - 分裂匹配法 / Split-Wing `参考难度系数`5.9
+      - 拐角匹配法 / Local-Wing `参考难度系数`5.9
+      - 杂合匹配法 / Hybrid-Wing `参考难度系数`5.9
+    - 同数链 / X链 / [X-Chain][] `参考难度系数`4.0+
+      - 双强链 / 多宝鱼 / [Turbot Fish][] `参考难度系数`4.2
+        - 摩天楼 / 孪生二链列 / [Skyscraper][] `参考难度系数`4.05
+          > [练习](https://www.12634.com/learning/skyscraper/index)
+        - 双线风筝 / [Two Strings Kite][] `参考难度系数`4.1
+    - 双值格链 / 双值格标准链 / [XY-Chain][] `参考难度系数`4.0+
+      - 远程数对 / [Remote Pairs][] `参考难度系数`4.5+
+    - 首尾异数链 / 首尾异数标准链 / [XY-X-Chain][Common Types Chain] `参考难度系数`5.7+
+    - 自噬链 / [Cannibalistic AIC][Common Types Chain]
+    - 不连续环 / [Discontinuous (Nice) Loop][Common Types Chain] `参考难度系数`5.7+
+    - 守护者 / [Guardians][] `参考难度系数`6.6+
+    - 死环 / Guardian Pair / [Dead Loop][]
+    - [区块组链](https://zhuanlan.zhihu.com/p/33748094)
+      - 空矩形 / [Empty Rectangle][] `参考难度系数`4.8
+      - 区块链 / Grouped AIC
+      - 区块不连续环 / Grouped Disc. (Nice) Loop
 - X环 / [X-Cycle][]
-- 守护者/ [Guardians][]
-- [XY-Chain](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=210)
 - Forcing Chain
   > [练习](https://www.12634.com/learning/forcing-chain/index)
 
@@ -169,6 +184,7 @@
     - 超链置唯一矩形 / [Hyper AIC With UR][活用唯一矩形]
   - 唯一环 / UL / [Unique Loop][] `参考难度系数`4.3+
   - 拓展矩形 / [Extended Rectangle][Unique Loop] `参考难度系数`4.3+
+    - [Unique Rectangle 6-cell](http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=1114)
   - 可规避矩形 / AR / [Avoidable Rectangle][] `参考难度系数`4.5+
     - 标准型 / Type 1
     - 区块组性 / Type 2
@@ -176,18 +192,14 @@
     - 正交共轭对型 / 隐形可规避矩形 / AR Type 4C / Hidden AR
   - 全双值坟墓 / BUG / [Bivalue Universal Grave][]  `参考难度系数`5.4+
     - 标准型 / Type 1
-      > [练习](https://www.12634.com/learning/bug-type-1/index)
+  > [练习](https://www.12634.com/learning/bug-type-1/index)
     - 待定数型 / Type 2
-      > [练习](https://www.12634.com/learning/bug-type-2/index)
+  > [练习](https://www.12634.com/learning/bug-type-2/index)
     - 待定数组型 / Type 3 
     - 共轭对型 / Type 4 
 - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
 - [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
-- 远程数对 / [Remote Pairs][]
-- [Y-Wing/W-Wing](http://www.sudokufans.org.cn/forums/topic/83/?do=findComment&comment=625)
-- [M-Wing](http://www.sudokufans.org.cn/forums/topic/111/?do=findComment&comment=857)
 - [Double Loop](http://www.sudokufans.org.cn/forums/topic/1660/)
-- [Unique Rectangle 6-cell](http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=1114)
 
 > - [技巧分类](分类/README.md)
 
@@ -264,7 +276,12 @@
 [Skyscraper]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5213
 [Two Strings Kite]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5214
 [Turbot Fish]: https://zhuanlan.zhihu.com/p/33677126
+[Common Types Chain]: https://zhuanlan.zhihu.com/p/33703144
 [X-Chain]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5226
+[XY-Chain]: http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=210
+[W-Wing]: http://www.sudokufans.org.cn/forums/topic/83/?do=findComment&comment=625
+[M-Wing]: http://www.sudokufans.org.cn/forums/topic/111/?do=findComment&comment=857
+[Dead Loop]: https://zhuanlan.zhihu.com/p/33741146
 [X-Cycle]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5225
 [Guardians]: http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=247
 [Empty Rectangle]: http://www.sudokufans.org.cn/forums/topic/1053/?do=findComment&comment=4859
