@@ -163,10 +163,13 @@
 #### 超标准链
 - 超标准链 / 超链 / Hyper AIC
   - ALS超链 / 超链+ALS / 超链置ALS / Hyper AIC With ALS
-    - ALS-双强链 / 双强显性待定数组链 / ALS-XZ  `参考难度系数`7.5
+    - ALS-双强链 / 双强显性待定数组链 / [ALS-XZ][ALS初步] `参考难度系数`7.5
       - 带有单RCC的ALS-XZ结构 / Single-linked ALS-XZ
       - 带有双RCC的ALS-XZ结构 / Double-linked ALS-XZ
-    - ALS-双分支匹配法 / ALS-XY-Wing `参考难度系数`8.0
+    - ALS-双分支匹配法 / [ALS-XY-Wing][ALS初步] `参考难度系数`8.0
+    - ALS-双值格链 / [ALS-XY-Chain][ALS的一般拓展结构]
+    - ALS-首尾格内对匹配法 / [ALS-W-Wing][ALS的一般拓展结构]`参考难度系数`7.8
+    - 死亡绽放 / [Death Blossom][ALS的一般拓展结构]`参考难度系数`8.3
 
 - X环 / [X-Cycle][]
 - Forcing Chain
@@ -315,6 +318,8 @@
 [W-Wing]: http://www.sudokufans.org.cn/forums/topic/83/?do=findComment&comment=625
 [M-Wing]: http://www.sudokufans.org.cn/forums/topic/111/?do=findComment&comment=857
 [Dead Loop]: https://zhuanlan.zhihu.com/p/33741146
+[ALS初步]: https://zhuanlan.zhihu.com/p/33769864
+[ALS的一般拓展结构]: https://zhuanlan.zhihu.com/p/33770218
 [X-Cycle]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5225
 [Guardians]: http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=247
 [Empty Rectangle]: http://www.sudokufans.org.cn/forums/topic/1053/?do=findComment&comment=4859
