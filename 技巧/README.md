@@ -241,7 +241,7 @@
 
 #### 超标准链
 - 超标准链 / 超链 / Hyper AIC
-  - ALS超链 / 超链+ALS / 超链置ALS / [Hyper AIC With ALS](https://zhuanlan.zhihu.com/p/33769864)
+  - 超链置ALS / ALS超链 / 超链+ALS / [Hyper AIC With ALS](https://zhuanlan.zhihu.com/p/33769864)
     - _按组合技巧分类：_
       - ALS-双强链 / 双强显性待定数组链 / [ALS-XZ][ALS初步] `参考难度系数`7.5
         - 带有单RCC的ALS-XZ结构 / Single-linked ALS-XZ
@@ -250,15 +250,15 @@
       - ALS-双值格链 / [ALS-XY-Chain][ALS的一般拓展结构]
       - ALS-首尾格内对匹配法 / [ALS-W-Wing][ALS的一般拓展结构] `参考难度系数`7.8
       - 死亡绽放 / [Death Blossom][ALS的一般拓展结构] `参考难度系数`8.3
-      - 超链置显性数组 / [Hyper AIC With Naked Subset][毛刺数组]
-        - 超链置显性数对 / 显性毛刺数对链 / Kraken Naked Pair / Hyper AIC With Naked Pair
-      - 超链置隐性数组 / 隐性毛刺数组链 / [Hyper AIC With Hidden Subset][毛刺数组]
-      - 间接删数的链 / [Indirected Chain][ALS的综合运用]
     - _按 ALS 分类：_
       - 超链置nALS / Hyper AIC With nALS
       - 超链置hALS / [Hyper AIC With hALS](https://zhuanlan.zhihu.com/p/33819712)
       - 阴阳法 / Mixed hALS Logic / [nALS & hALS Logic][ALS的综合运用]
+  - 超链置显性数组 / [Hyper AIC With Naked Subset][毛刺数组]
+    - 超链置显性数对 / 显性毛刺数对链 / Kraken Naked Pair / Hyper AIC With Naked Pair
+  - 超链置隐性数组 / 隐性毛刺数组链 / [Hyper AIC With Hidden Subset][毛刺数组]
   - 超链置AUR / [Hyper AIC With AUR][Almost UR]
+  - 间接删数的链 / [Indirected Chain][ALS的综合运用]
 
 #### 强制链组
 - 强制链组 / FC / [Forcing Chains](https://zhuanlan.zhihu.com/p/33861014)
@@ -266,7 +266,7 @@
     - 西尾彻也强制链组 / Nishio Forcing Chains
   - 单元强制链组 / Unit Forcing Chains `参考难度系数`8.2+
     - 行强制链组 / Row Forcing Chains
-    - 列强制链组
+    - 列强制链组 / Column Forcing Chains
     - 宫强制链组
     - 单元格强制链组
   - 逆向矛盾强制链组
