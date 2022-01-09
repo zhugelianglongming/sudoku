@@ -8,14 +8,20 @@
 > ![](http://assets.processon.com/chart_image/61c17b5f0791290c9efaf145.png)
 
 ## 入门级
+
+### 摒除法
 - 摒除法 / 排除法 / [Hidden Single]
   - 宫摒除 / [Hidden Single in Box][] `参考难度系数`1.2
   - 行列摒除 / [Hidden Single in Row/Column] `参考难度系数`1.5
   > [练习](https://www.12634.com/learning/hs/index)
+  > 
+### 唯余法
 - 唯余法 / 唯一数 / 唯一法 / Last Value / [Naked Single][] `参考难度系数`2.3
   > [练习](http://www.sudokufans.org.cn/tools/finder.php)
 
 ## 初级
+
+### 区块摒除
 - 区块摒除 / [Locked Candidates][]
   - 宫区块摒除法 / [Pointing][]
     - 直观宫区块摒除法 / [Direct Pointing] `参考难度系数`1.7
@@ -26,6 +32,8 @@
   - 组合区块 / [Cascading Locked Candidates][] `参考难度系数`2.8
 
 ## 中级
+
+### 隐性数组
 - 隐性数组 / [Hidden Subset][]
   - 隐性数对 / [Hidden Pair][]
     - 直观隐性数对 / [Direct Hidden Pair][] `参考难度系数`3.4
@@ -35,6 +43,8 @@
     - 直观隐性三数集 / [Direct Hidden Triple][] `参考难度系数`4.0
     > [练习](https://www.12634.com/learning/hidden-triplet/index)
   - 隐性四数组 / [Hidden Quadruple][] `参考难度系数`5.4
+
+### 显性数组
 - 显性数组 / [Naked Subset][]
   - 一般显性数组 
     - 显性数对 / [Naked Pair][] `参考难度系数`3.0
@@ -47,9 +57,13 @@
     - 死锁三数组 `参考难度系数`2.5
 
 ## 高级
+
+### 区块数组
 - 区块数组 / Naked Subset With Locked Candidates / [Naked Subset+][]
   - 区块三数组 `参考难度系数`3.7
   - 区块四数组 `参考难度系数`5.1
+
+### 鱼
 - 鱼 / 链列 / [Fish][]
   - 标准鱼
     - 二阶鱼 / 二链列 / [X-Wing][] `参考难度系数`3.2
@@ -88,6 +102,8 @@
         - 自噬鳍交叉三阶鱼
         - 自噬鳍交叉四阶鱼
   - 复杂鱼 / [Complex Fish](https://zhuanlan.zhihu.com/p/35348865)
+
+### 待定数组
 - 待定数组（标准） / ALS / Almost Locked Subset
   - 欠一数组 / ALC / [Almost Locked Candidates](https://zhuanlan.zhihu.com/p/33612543)
     - 欠一数对 / [Almost Locked Pair][] `参考难度系数`4.5
@@ -101,47 +117,50 @@
   - [均衡性数组][]
     - 均衡性数对 / Aligned Pair Exclusion `参考难度系数`6.2
     - 均衡性三数组 / Aligned Triple Exclusion `参考难度系数`7.5
-- 链
-  - 标准链 / AIC / [Alternating Inference Chain][Common Types Chain] `参考难度系数`5.7+
-    - [规则 Wing](https://zhuanlan.zhihu.com/p/33087864)
-      - 双分支匹配法 / Y-Wing / [XY-Wing][] `参考难度系数`4.2
-        > [练习](https://www.12634.com/learning/xy-wing/index)
-      - 三分支匹配法 / [XYZ-Wing][] `参考难度系数`4.4
-        > [练习](https://www.12634.com/learning/xyz-wing/index)
-      - 四分支匹配法 / WXYZ-Wing `参考难度系数`4.6
-      - 五分支匹配法 / VWXYZ-Wing `参考难度系数`4.85
-      - ~~六分支匹配法 / UVWXYZ-Wing~~
-      - ~~七分支匹配法 / TUVWXYZ-Wing~~
-      - ~~八分支匹配法 / STUVWXYZ-Wing~~
-      - ~~九分支匹配法 / RSTUVWXYZ-Wing~~
-    - [不规则 Wing](https://zhuanlan.zhihu.com/p/33730739)
-      - Y-Wing 拓展构型 / Y-Wing Style
-        - 首尾格内对匹配法 / [W-Wing][] `参考难度系数`4.4
-      - 隔一格内对匹配法 / [M-Wing][]  `参考难度系数`4.5
-      - 分裂匹配法 / Split-Wing `参考难度系数`5.9
-      - 拐角匹配法 / Local-Wing `参考难度系数`5.9
-      - 杂合匹配法 / Hybrid-Wing `参考难度系数`5.9
-    - 同数链 / X链 / [X-Chain][] `参考难度系数`4.0+
-      - 双强链 / 多宝鱼 / [Turbot Fish][] `参考难度系数`4.2
-        - 摩天楼 / 孪生二链列 / [Skyscraper][] `参考难度系数`4.05
-          > [练习](https://www.12634.com/learning/skyscraper/index)
-        - 双线风筝 / [Two Strings Kite][] `参考难度系数`4.1
-    - 双值格链 / 双值格标准链 / [XY-Chain][] `参考难度系数`4.0+
-      - 远程数对 / [Remote Pairs][] `参考难度系数`4.5+
-    - 首尾异数链 / 首尾异数标准链 / [XY-X-Chain][Common Types Chain] `参考难度系数`5.7+
-    - 自噬链 / [Cannibalistic AIC][Common Types Chain]
-    - 不连续环 / [Discontinuous (Nice) Loop][Common Types Chain] `参考难度系数`5.7+
-    - 守护者 / [Guardians][] `参考难度系数`6.6+
-    - 死环 / Guardian Pair / [Dead Loop][]
-    - [区块组链](https://zhuanlan.zhihu.com/p/33748094)
-      - 空矩形 / [Empty Rectangle][] `参考难度系数`4.8
-      - 区块链 / Grouped AIC
-      - 区块不连续环 / Grouped Disc. (Nice) Loop
+### 链
+
+#### 标准链
+- 标准链 / AIC / [Alternating Inference Chain][Common Types Chain] `参考难度系数`5.7+
+  - [规则 Wing](https://zhuanlan.zhihu.com/p/33087864)
+    - 双分支匹配法 / Y-Wing / [XY-Wing][] `参考难度系数`4.2
+      > [练习](https://www.12634.com/learning/xy-wing/index)
+    - 三分支匹配法 / [XYZ-Wing][] `参考难度系数`4.4
+      > [练习](https://www.12634.com/learning/xyz-wing/index)
+    - 四分支匹配法 / WXYZ-Wing `参考难度系数`4.6
+    - 五分支匹配法 / VWXYZ-Wing `参考难度系数`4.85
+    - ~~六分支匹配法 / UVWXYZ-Wing~~
+    - ~~七分支匹配法 / TUVWXYZ-Wing~~
+    - ~~八分支匹配法 / STUVWXYZ-Wing~~
+    - ~~九分支匹配法 / RSTUVWXYZ-Wing~~
+  - [不规则 Wing](https://zhuanlan.zhihu.com/p/33730739)
+    - Y-Wing 拓展构型 / Y-Wing Style
+      - 首尾格内对匹配法 / [W-Wing][] `参考难度系数`4.4
+    - 隔一格内对匹配法 / [M-Wing][]  `参考难度系数`4.5
+    - 分裂匹配法 / Split-Wing `参考难度系数`5.9
+    - 拐角匹配法 / Local-Wing `参考难度系数`5.9
+    - 杂合匹配法 / Hybrid-Wing `参考难度系数`5.9
+  - 同数链 / X链 / [X-Chain][] `参考难度系数`4.0+
+    - 双强链 / 多宝鱼 / [Turbot Fish][] `参考难度系数`4.2
+      - 摩天楼 / 孪生二链列 / [Skyscraper][] `参考难度系数`4.05
+        > [练习](https://www.12634.com/learning/skyscraper/index)
+      - 双线风筝 / [Two Strings Kite][] `参考难度系数`4.1
+  - 双值格链 / 双值格标准链 / [XY-Chain][] `参考难度系数`4.0+
+    - 远程数对 / [Remote Pairs][] `参考难度系数`4.5+
+  - 首尾异数链 / 首尾异数标准链 / [XY-X-Chain][Common Types Chain] `参考难度系数`5.7+
+  - 自噬链 / [Cannibalistic AIC][Common Types Chain]
+  - 不连续环 / [Discontinuous (Nice) Loop][Common Types Chain] `参考难度系数`5.7+
+  - 守护者 / [Guardians][] `参考难度系数`6.6+
+  - 死环 / Guardian Pair / [Dead Loop][]
+  - [区块组链](https://zhuanlan.zhihu.com/p/33748094)
+    - 空矩形 / [Empty Rectangle][] `参考难度系数`4.8
+    - 区块链 / Grouped AIC
+    - 区块不连续环 / Grouped Disc. (Nice) Loop
+
 - X环 / [X-Cycle][]
-- Forcing Chain
-  > [练习](https://www.12634.com/learning/forcing-chain/index)
 
 ## 骨灰级
+
+### 致命结构
 - 致命结构
   - 唯一矩形 / UR / [Unique Rectangle][]
     - 普通唯一矩形
@@ -196,7 +215,64 @@
     - 待定数型 / Type 2
   > [练习](https://www.12634.com/learning/bug-type-2/index)
     - 待定数组型 / Type 3 
-    - 共轭对型 / Type 4 
+    - 共轭对型 / Type 4
+    
+### 待定死锁集合
+- 待定死锁集合 / ALS / [Almost Locked Set](https://zhuanlan.zhihu.com/p/33769864)
+  - 显性 ALS / NALS / nALS / Naked ALS / ~~ALS(简称)~~
+  - 隐性 ALS / HALS / hALS / Hidden ALS
+  - 虚ALS / VALS / vALS / [Virtual ALS](https://zhuanlan.zhihu.com/p/33820368)
+    - 虚拟显性待定死锁集合 / 虚拟显性ALS / 虚nALS / VNALS / vnALS / Virtual nALS / Virtual Naked ALS / Virtual Naked Almost Locked Set
+    - 虚拟隐性待定死锁集合 / 虚拟隐性ALS / 虚hALS / VHALS / vhALS / Virtual hALS / Virtual Hidden ALS / Virtual Hidden Almost Locked Set
+
+### 毛刺数组
+- [毛刺数组][]
+  - 显性毛刺数组 / Almost Naked Subset
+    - 显性毛刺数对 / Almost Naked Pair
+  - 隐性毛刺数组 / AHS / Almost Hidden Subset
+
+### 待定唯一矩形
+- 待定唯一矩形 / AUR / [Almost UR][]
+  - 候选强关系型 / AUR Type 1
+  - 区块强关系型 / AUR Type 2
+  - 其他强关系型 / AUR Type 3
+
+### 链
+
+#### 超标准链
+- 超标准链 / 超链 / Hyper AIC
+  - ALS超链 / 超链+ALS / 超链置ALS / [Hyper AIC With ALS](https://zhuanlan.zhihu.com/p/33769864)
+    - _按组合技巧分类：_
+      - ALS-双强链 / 双强显性待定数组链 / [ALS-XZ][ALS初步] `参考难度系数`7.5
+        - 带有单RCC的ALS-XZ结构 / Single-linked ALS-XZ
+        - 带有双RCC的ALS-XZ结构 / Double-linked ALS-XZ
+      - ALS-双分支匹配法 / [ALS-XY-Wing][ALS初步] `参考难度系数`8.0
+      - ALS-双值格链 / [ALS-XY-Chain][ALS的一般拓展结构]
+      - ALS-首尾格内对匹配法 / [ALS-W-Wing][ALS的一般拓展结构] `参考难度系数`7.8
+      - 死亡绽放 / [Death Blossom][ALS的一般拓展结构] `参考难度系数`8.3
+      - 超链置显性数组 / [Hyper AIC With Naked Subset][毛刺数组]
+        - 超链置显性数对 / 显性毛刺数对链 / Kraken Naked Pair / Hyper AIC With Naked Pair
+      - 超链置隐性数组 / 隐性毛刺数组链 / [Hyper AIC With Hidden Subset][毛刺数组]
+      - 间接删数的链 / [Indirected Chain][ALS的综合运用]
+    - _按 ALS 分类：_
+      - 超链置nALS / Hyper AIC With nALS
+      - 超链置hALS / [Hyper AIC With hALS](https://zhuanlan.zhihu.com/p/33819712)
+      - 阴阳法 / Mixed hALS Logic / [nALS & hALS Logic][ALS的综合运用]
+  - 超链置AUR / [Hyper AIC With AUR][Almost UR]
+
+#### 强制链组
+- 强制链组 / FC / [Forcing Chains](https://zhuanlan.zhihu.com/p/33861014)
+  - 矛盾强制链组 / Contradiction Forcing Chains `参考难度系数`8.2+
+    - 西尾彻也强制链组 / Nishio Forcing Chains
+  - 单元强制链组 / Unit Forcing Chains `参考难度系数`8.2+
+    - 行强制链组 / Row Forcing Chains
+    - 列强制链组
+    - 宫强制链组
+    - 单元格强制链组
+  - 逆向矛盾强制链组
+  - 逆向单元强制链组
+  > [练习](https://www.12634.com/learning/forcing-chain/index)
+
 - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
 - [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
 - [Double Loop](http://www.sudokufans.org.cn/forums/topic/1660/)
@@ -282,8 +358,13 @@
 [W-Wing]: http://www.sudokufans.org.cn/forums/topic/83/?do=findComment&comment=625
 [M-Wing]: http://www.sudokufans.org.cn/forums/topic/111/?do=findComment&comment=857
 [Dead Loop]: https://zhuanlan.zhihu.com/p/33741146
+[ALS初步]: https://zhuanlan.zhihu.com/p/33769864
+[ALS的一般拓展结构]: https://zhuanlan.zhihu.com/p/33770218
 [X-Cycle]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5225
 [Guardians]: http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=247
 [Empty Rectangle]: http://www.sudokufans.org.cn/forums/topic/1053/?do=findComment&comment=4859
 [Remote Pairs]: http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=471
 [Almost Locked Pair]: http://www.sudokufans.org.cn/forums/topic/57/?do=findComment&comment=360
+[毛刺数组]: https://zhuanlan.zhihu.com/p/33820355
+[ALS的综合运用]: https://zhuanlan.zhihu.com/p/33820410
+[Almost UR]: https://zhuanlan.zhihu.com/p/33849857
