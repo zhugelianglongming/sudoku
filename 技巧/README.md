@@ -157,8 +157,6 @@
     - 区块不连续环 / Grouped Disc. (Nice) Loop
 
 - X环 / [X-Cycle][]
-- Forcing Chain
-  > [练习](https://www.12634.com/learning/forcing-chain/index)
 
 ## 骨灰级
 
@@ -250,8 +248,8 @@
         - 带有双RCC的ALS-XZ结构 / Double-linked ALS-XZ
       - ALS-双分支匹配法 / [ALS-XY-Wing][ALS初步] `参考难度系数`8.0
       - ALS-双值格链 / [ALS-XY-Chain][ALS的一般拓展结构]
-      - ALS-首尾格内对匹配法 / [ALS-W-Wing][ALS的一般拓展结构]`参考难度系数`7.8
-      - 死亡绽放 / [Death Blossom][ALS的一般拓展结构]`参考难度系数`8.3
+      - ALS-首尾格内对匹配法 / [ALS-W-Wing][ALS的一般拓展结构] `参考难度系数`7.8
+      - 死亡绽放 / [Death Blossom][ALS的一般拓展结构] `参考难度系数`8.3
       - 超链置显性数组 / [Hyper AIC With Naked Subset][毛刺数组]
         - 超链置显性数对 / 显性毛刺数对链 / Kraken Naked Pair / Hyper AIC With Naked Pair
       - 超链置隐性数组 / 隐性毛刺数组链 / [Hyper AIC With Hidden Subset][毛刺数组]
@@ -261,7 +259,20 @@
       - 超链置hALS / [Hyper AIC With hALS](https://zhuanlan.zhihu.com/p/33819712)
       - 阴阳法 / Mixed hALS Logic / [nALS & hALS Logic][ALS的综合运用]
   - 超链置AUR / [Hyper AIC With AUR][Almost UR]
-      
+
+#### 强制链组
+- 强制链组 / FC / [Forcing Chains](https://zhuanlan.zhihu.com/p/33861014)
+  - 矛盾强制链组 / Contradiction Forcing Chains `参考难度系数`8.2+
+    - 西尾彻也强制链组 / Nishio Forcing Chains
+  - 单元强制链组 / Unit Forcing Chains `参考难度系数`8.2+
+    - 行强制链组 / Row Forcing Chains
+    - 列强制链组
+    - 宫强制链组
+    - 单元格强制链组
+  - 逆向矛盾强制链组
+  - 逆向单元强制链组
+  > [练习](https://www.12634.com/learning/forcing-chain/index)
+
 - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
 - [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
 - [Double Loop](http://www.sudokufans.org.cn/forums/topic/1660/)
