@@ -273,6 +273,16 @@
   - 逆向单元强制链组
   > [练习](https://www.12634.com/learning/forcing-chain/index)
 
+#### 环
+- 环
+  - 标准环 / ~~环(简称)~~ / [Continuous (Nice) Loop](https://zhuanlan.zhihu.com/p/33887094)
+    - 不规则Wing结构的环结构
+    - 双值格数组的环结构
+  - 超标准环 / [Hyper Continuous (Nice) Loop](https://zhuanlan.zhihu.com/p/33917735)
+    - 超环置ALS / Hyper Cont. (Nice) Loop With ALS
+    - 超环置AUR / Hyper Cont. (Nice) Loop With AUR
+    - 超环置毛刺数组 / Hyper Cont. (Nice) Loop With Almost Subset
+
 - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
 - [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
 - [Double Loop](http://www.sudokufans.org.cn/forums/topic/1660/)
