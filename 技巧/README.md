@@ -26,7 +26,7 @@
   - 宫区块摒除法 / [Pointing][]
     - 直观宫区块摒除法 / [Direct Pointing] `参考难度系数`1.7
     > [练习](https://www.12634.com/learning/pointing/index)
-  - 列区块摒除法 / [Claiming][]
+  - 行列区块摒除法 / [Claiming][]
     - 直观列区块摒除法 / [Direct Claiming] `参考难度系数`1.9
     > [练习](https://www.12634.com/learning/claiming/index)
   - 组合区块 / [Cascading Locked Candidates][] `参考难度系数`2.8
