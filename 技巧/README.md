@@ -26,7 +26,7 @@
   - 宫区块摒除法 / [Pointing][]
     - 直观宫区块摒除法 / [Direct Pointing] `参考难度系数`1.7
     > [练习](https://www.12634.com/learning/pointing/index)
-  - 列区块摒除法 / [Claiming][]
+  - 行列区块摒除法 / [Claiming][]
     - 直观列区块摒除法 / [Direct Claiming] `参考难度系数`1.9
     > [练习](https://www.12634.com/learning/claiming/index)
   - 组合区块 / [Cascading Locked Candidates][] `参考难度系数`2.8
@@ -272,6 +272,16 @@
   - 逆向矛盾强制链组
   - 逆向单元强制链组
   > [练习](https://www.12634.com/learning/forcing-chain/index)
+
+#### 环
+- 环
+  - 标准环 / ~~环(简称)~~ / [Continuous (Nice) Loop](https://zhuanlan.zhihu.com/p/33887094)
+    - 不规则Wing结构的环结构
+    - 双值格数组的环结构
+  - 超标准环 / [Hyper Continuous (Nice) Loop](https://zhuanlan.zhihu.com/p/33917735)
+    - 超环置ALS / Hyper Cont. (Nice) Loop With ALS
+    - 超环置AUR / Hyper Cont. (Nice) Loop With AUR
+    - 超环置毛刺数组 / Hyper Cont. (Nice) Loop With Almost Subset
 
 - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
 - [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
