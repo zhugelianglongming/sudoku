@@ -224,6 +224,9 @@
   - 虚ALS / VALS / vALS / [Virtual ALS](https://zhuanlan.zhihu.com/p/33820368)
     - 虚拟显性待定死锁集合 / 虚拟显性ALS / 虚nALS / VNALS / vnALS / Virtual nALS / Virtual Naked ALS / Virtual Naked Almost Locked Set
     - 虚拟隐性待定死锁集合 / 虚拟隐性ALS / 虚hALS / VHALS / vhALS / Virtual hALS / Virtual Hidden ALS / Virtual Hidden Almost Locked Set
+- 二次待定数组 / Almost Almost Locked Set / Almost ALS / AALS
+- 三次待定数组 / Almost Almost Almost Locked Set / Almost AALS / AAALS
+- 四次待定数组 / Almost Almost Almost Almost Locked Set / Almost AAALS
 
 ### 毛刺数组
 - [毛刺数组][]
@@ -282,6 +285,18 @@
     - 超环置ALS / Hyper Cont. (Nice) Loop With ALS
     - 超环置AUR / Hyper Cont. (Nice) Loop With AUR
     - 超环置毛刺数组 / Hyper Cont. (Nice) Loop With Almost Subset
+
+#### 动态链
+- 动态链 / Dynamic AIC / [DAIC](https://zhuanlan.zhihu.com/p/33967982)
+  - 动态不连续环 / Dynamic Discontinuous Loop
+    - Dynamic Discontinuous (Nice) Loop
+  - 多端点链 / Multi Endpoint Chain
+    - 三国争雄 / Three-kingdom W-Wing
+  - 带鳍链 / Kraken Unit
+  - 动态环 / 动态标准环 / Dynamic Continuous Loop
+    - Dynamic Continuous (Nice) Loop
+  - 动态超环 / 动态超标准环 / Dynamic Hyper Continuous Loop
+    - Dynamic Hyper Continuous (Nice) Loop
 
 - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
 - [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
