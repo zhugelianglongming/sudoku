@@ -66,7 +66,7 @@
 ### 鱼
 - 鱼 / 链列 / [Fish][]
   - 标准鱼
-    - 二阶鱼 / 二链列 / [X-Wing][] `参考难度系数`3.2
+    - 二阶鱼 / 二链列 / ~~X翼~~ / [X-Wing][] `参考难度系数`3.2
       > [练习](https://www.12634.com/learning/x-wing/index)
     - 三阶鱼 / 剑鱼 / 三链列 / [Swordfish][] `参考难度系数`3.8
     - 四阶鱼 / 水母 / 四链列 / [Jellyfish][] `参考难度系数`5.2
@@ -228,11 +228,18 @@
 - 三次待定数组 / Almost Almost Almost Locked Set / Almost AALS / AAALS
 - 四次待定数组 / Almost Almost Almost Almost Locked Set / Almost AAALS
 
-### 毛刺数组
-- [毛刺数组][]
-  - 显性毛刺数组 / Almost Naked Subset
-    - 显性毛刺数对 / Almost Naked Pair
-  - 隐性毛刺数组 / AHS / Almost Hidden Subset
+### 毛刺
+- 毛刺结构 / Single Kraken Logic
+  - [毛刺数组][]
+    - 显性毛刺数组 / Almost Naked Subset
+      - 显性毛刺数对 / Almost Naked Pair
+    - 隐性毛刺数组 / AHS / Almost Hidden Subset
+  - 毛刺鱼 / [Kraken Fish](https://zhuanlan.zhihu.com/p/34018343)
+    - 标准型 / Kraken Fish Type 1 `参考难度系数`8.3
+    - 矛盾型 / Kraken Fish Type 2 `参考难度系数`8.4
+- 毛边结构 / [Double Kraken Logic](https://zhuanlan.zhihu.com/p/34085796)
+  - 弱毛边 / Weak Inference in Double Kraken
+- 三毛刺结构 / [Triple Kraken Logic](https://zhuanlan.zhihu.com/p/34085796)
 
 ### 待定唯一矩形
 - 待定唯一矩形 / AUR / [Almost UR][]
@@ -261,7 +268,11 @@
     - 超链置显性数对 / 显性毛刺数对链 / Kraken Naked Pair / Hyper AIC With Naked Pair
   - 超链置隐性数组 / 隐性毛刺数组链 / [Hyper AIC With Hidden Subset][毛刺数组]
   - 超链置AUR / [Hyper AIC With AUR][Almost UR]
-  - 间接删数的链 / [Indirected Chain][ALS的综合运用]
+  - [超链置Wing](https://zhuanlan.zhihu.com/p/33998350)
+  - 超链置鱼 / [Hyper AIC With Fish](https://zhuanlan.zhihu.com/p/34018343)
+  - 超链置链 / [Hyper AIC With AIC](https://zhuanlan.zhihu.com/p/34085796)
+  - ...
+    - 间接删数的链 / [Indirected Chain][ALS的综合运用]
 
 #### 强制链组
 - 强制链组 / FC / [Forcing Chains](https://zhuanlan.zhihu.com/p/33861014)
@@ -292,6 +303,7 @@
     - Dynamic Discontinuous (Nice) Loop
   - 多端点链 / Multi Endpoint Chain
     - 三国争雄 / Three-kingdom W-Wing
+    - ...
   - 带鳍链 / Kraken Unit
   - 动态环 / 动态标准环 / Dynamic Continuous Loop
     - Dynamic Continuous (Nice) Loop
