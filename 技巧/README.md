@@ -228,6 +228,12 @@
 - 三次待定数组 / Almost Almost Almost Locked Set / Almost AALS / AAALS
 - 四次待定数组 / Almost Almost Almost Almost Locked Set / Almost AAALS
 
+### 待定唯一矩形
+- 待定唯一矩形 / AUR / [Almost UR][]
+  - 候选强关系型 / AUR Type 1
+  - 区块强关系型 / AUR Type 2
+  - 其他强关系型 / AUR Type 3
+
 ### 毛刺
 - 毛刺结构 / Single Kraken Logic
   - [毛刺数组][]
@@ -240,12 +246,6 @@
 - 毛边结构 / [Double Kraken Logic](https://zhuanlan.zhihu.com/p/34085796)
   - 弱毛边 / Weak Inference in Double Kraken
 - 三毛刺结构 / [Triple Kraken Logic](https://zhuanlan.zhihu.com/p/34085796)
-
-### 待定唯一矩形
-- 待定唯一矩形 / AUR / [Almost UR][]
-  - 候选强关系型 / AUR Type 1
-  - 区块强关系型 / AUR Type 2
-  - 其他强关系型 / AUR Type 3
 
 ### 链
 
@@ -309,6 +309,13 @@
     - Dynamic Continuous (Nice) Loop
   - 动态超环 / 动态超标准环 / Dynamic Hyper Continuous Loop
     - Dynamic Hyper Continuous (Nice) Loop
+
+### 涂色法
+- 涂色法 / [Coloring](https://zhuanlan.zhihu.com/p/34187700)
+  - 色链 / Simple Coloring Type 1
+  - 色分 / 分色法 / Simple Coloring Type 2
+  - 复合色链 / Multi Coloring
+  - 进阶涂色 / 三维美杜莎 / 3D Medusa / Advanced Coloring
 
 - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
 - [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
