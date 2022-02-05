@@ -13,8 +13,9 @@
 - 摒除法 / 排除法 / [Hidden Single]
   - 宫摒除 / [Hidden Single in Box][] `参考难度系数`1.2
   - 行列摒除 / [Hidden Single in Row/Column] `参考难度系数`1.5
-  > [练习](https://www.12634.com/learning/hs/index)
-  > 
+  > 练习
+  > - [微信小程序](#小程序://联网数独/联网数独/RWMGoumiDkGZHQb)
+  > - [网页](https://www.12634.com/learning/hs/index)
 ### 唯余法
 - 唯余法 / 唯一数 / 唯一法 / Last Value / [Naked Single][] `参考难度系数`2.3
   > [练习](http://www.sudokufans.org.cn/tools/finder.php)
@@ -328,6 +329,10 @@
 
 ### 袋鼠
 - 袋鼠 / 代数 / [Kangaroo](https://zhuanlan.zhihu.com/p/34212080)
+
+## 鱼雷
+- 鱼雷 / 飞鱼导弹
+  - 初级飞鱼导弹 / [Junior Exocet](https://zhuanlan.zhihu.com/p/35576944)
 
 - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
 - [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
