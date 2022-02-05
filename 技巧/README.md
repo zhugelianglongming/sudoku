@@ -13,8 +13,9 @@
 - 摒除法 / 排除法 / [Hidden Single]
   - 宫摒除 / [Hidden Single in Box][] `参考难度系数`1.2
   - 行列摒除 / [Hidden Single in Row/Column] `参考难度系数`1.5
-  > [练习](https://www.12634.com/learning/hs/index)
-  > 
+  > 练习
+  > - [微信小程序](#小程序://联网数独/联网数独/RWMGoumiDkGZHQb)
+  > - [网页](https://www.12634.com/learning/hs/index)
 ### 唯余法
 - 唯余法 / 唯一数 / 唯一法 / Last Value / [Naked Single][] `参考难度系数`2.3
   > [练习](http://www.sudokufans.org.cn/tools/finder.php)
@@ -66,7 +67,7 @@
 ### 鱼
 - 鱼 / 链列 / [Fish][]
   - 标准鱼
-    - 二阶鱼 / 二链列 / [X-Wing][] `参考难度系数`3.2
+    - 二阶鱼 / 二链列 / ~~X翼~~ / [X-Wing][] `参考难度系数`3.2
       > [练习](https://www.12634.com/learning/x-wing/index)
     - 三阶鱼 / 剑鱼 / 三链列 / [Swordfish][] `参考难度系数`3.8
     - 四阶鱼 / 水母 / 四链列 / [Jellyfish][] `参考难度系数`5.2
@@ -161,61 +162,69 @@
 ## 骨灰级
 
 ### 致命结构
-- 致命结构
-  - 唯一矩形 / UR / [Unique Rectangle][]
-    - 普通唯一矩形
-      - 标准型 / [UR Type 1][UR Type 1] `参考难度系数`4.5
-        > [练习](https://www.12634.com/learning/unique-rectangle-type-1/index)
-      - 待定数型 / 区块组型 / [UR Type 2][UR Type 2]
-        - UR Type 2A `参考难度系数`4.6
-        - 对角待定数型 / UR Type 2B / UR Type 5 `参考难度系数`4.6
-      - 待定数组型 / [UR Type 3][UR Type 3]
-        - UR Type 3A `参考难度系数`4.4+
-        - UR Type 3B `参考难度系数`4.5+
-      - 共轭对型 / [UR Type 4][UR Type 4]
-        - UR Type 4A  `参考难度系数`4.6
-        - 平行共轭对型 / UR Type 4B / UR Type 6 `参考难度系数`4.6
-        - 正交共轭对型 / UR Type 4C / UR Type 7 / HUR / Hidden UR / [Hidden Unique Rectangle][] `参考难度系数`4.8
-    - 残缺唯一矩形 / [Incomplete UR][]
-      - 标准型 / Incomplete UR Type 1
-      - 待定数型 / Incomplete UR Type 2
-        - Incomplete UR Type 2A
-        - 对角待定数型 / Incomplete UR Type 2B
-      - 待定数组型 / Incomplete UR Type 3
-        - Incomplete UR Type 3A
-        - Incomplete UR Type 3B
-      - 共轭对型 / Incomplete UR Type 4
-        - Incomplete UR Type 4A
-        - 平行共轭对型 / Incomplete UR Type 4B
-        - 正交共轭对型 / Incomplete UR Type 4C
-    - 强制唯一矩形 / [Forcing UR][活用唯一矩形]
-      - 星座强制唯一矩形 / Constellation
-        - 水瓶座 / `UR + 2 / 1 CP` / Aquarius
-        - 天鹅座 / `UR + 3 / 2 CP` / Cygnus
-        - 飞马座 / `UR + 4 / 3 CP` / Pegasus
-      - 普通强制唯一矩形 / Basic Forcing UR
-      - 残缺强制唯一矩形 / Incomplete Forcing UR
-    - 死锁唯一矩形 / [Locked UR][活用唯一矩形]
-      - 标准型 / Locked UR Type 1
-      - 待定数组型 / Locked UR Type 2
-    - [构造唯一矩形][活用唯一矩形]
-    - 直推唯一矩形 / [Direct Inference UR][活用唯一矩形]
-    - 超链置唯一矩形 / [Hyper AIC With UR][活用唯一矩形]
-  - 唯一环 / UL / [Unique Loop][] `参考难度系数`4.3+
-  - 拓展矩形 / [Extended Rectangle][Unique Loop] `参考难度系数`4.3+
-    - [Unique Rectangle 6-cell](http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=1114)
-  - 可规避矩形 / AR / [Avoidable Rectangle][] `参考难度系数`4.5+
+- 唯一矩形 / UR / [Unique Rectangle][]
+  - 普通唯一矩形
+    - 标准型 / [UR Type 1][UR Type 1] `参考难度系数`4.5
+      > [练习](https://www.12634.com/learning/unique-rectangle-type-1/index)
+    - 待定数型 / 区块组型 / [UR Type 2][UR Type 2]
+      - UR Type 2A `参考难度系数`4.6
+      - 对角待定数型 / UR Type 2B / UR Type 5 `参考难度系数`4.6
+    - 待定数组型 / [UR Type 3][UR Type 3]
+      - UR Type 3A `参考难度系数`4.4+
+      - UR Type 3B `参考难度系数`4.5+
+    - 共轭对型 / [UR Type 4][UR Type 4]
+      - UR Type 4A  `参考难度系数`4.6
+      - 平行共轭对型 / UR Type 4B / UR Type 6 `参考难度系数`4.6
+      - 正交共轭对型 / UR Type 4C / UR Type 7 / HUR / Hidden UR / [Hidden Unique Rectangle][] `参考难度系数`4.8
+  - 残缺唯一矩形 / [Incomplete UR][]
+    - 标准型 / Incomplete UR Type 1
+    - 待定数型 / Incomplete UR Type 2
+      - Incomplete UR Type 2A
+      - 对角待定数型 / Incomplete UR Type 2B
+    - 待定数组型 / Incomplete UR Type 3
+      - Incomplete UR Type 3A
+      - Incomplete UR Type 3B
+    - 共轭对型 / Incomplete UR Type 4
+      - Incomplete UR Type 4A
+      - 平行共轭对型 / Incomplete UR Type 4B
+      - 正交共轭对型 / Incomplete UR Type 4C
+  - 强制唯一矩形 / [Forcing UR][活用唯一矩形]
+    - 星座强制唯一矩形 / Constellation
+      - 水瓶座 / `UR + 2 / 1 CP` / Aquarius
+      - 天鹅座 / `UR + 3 / 2 CP` / Cygnus
+      - 飞马座 / `UR + 4 / 3 CP` / Pegasus
+    - 普通强制唯一矩形 / Basic Forcing UR
+    - 残缺强制唯一矩形 / Incomplete Forcing UR
+  - 死锁唯一矩形 / [Locked UR][活用唯一矩形]
+    - 标准型 / Locked UR Type 1
+    - 待定数组型 / Locked UR Type 2
+  - [构造唯一矩形][活用唯一矩形]
+  - 直推唯一矩形 / [Direct Inference UR][活用唯一矩形]
+  - 超链置唯一矩形 / [Hyper AIC With UR][活用唯一矩形]
+- 唯一环 / UL / [Unique Loop][] `参考难度系数`4.3+
+- 拓展矩形 / [Extended Rectangle][Unique Loop] `参考难度系数`4.3+
+  - [Unique Rectangle 6-cell](http://www.sudokufans.org.cn/forums/topic/91/?do=findComment&comment=1114)
+- 可规避矩形 / AR / [Avoidable Rectangle][] `参考难度系数`4.5+
+  - 普通可规避矩形
     - 标准型 / Type 1
     - 区块组性 / Type 2
     - 待定数组型 / Type 3
     - 正交共轭对型 / 隐形可规避矩形 / AR Type 4C / Hidden AR
-  - 全双值坟墓 / BUG / [Bivalue Universal Grave][]  `参考难度系数`5.4+
-    - 标准型 / Type 1
+  - 强制可规避矩形 / [Forcing AR][]
+  - 直推可规避矩形 / [Directed Inference AR][Forcing AR]
+- 全双值坟墓 / BUG / [Bivalue Universal Grave][]  `参考难度系数`5.4+
+  - 标准型 / Type 1
   > [练习](https://www.12634.com/learning/bug-type-1/index)
     - 待定数型 / Type 2
   > [练习](https://www.12634.com/learning/bug-type-2/index)
     - 待定数组型 / Type 3 
     - 共轭对型 / Type 4
+- 探长致命结构 / [Borescoper Deadly Pattern](https://zhuanlan.zhihu.com/p/34426283)
+  - 三数探长致命结构 / ABC-Borescoper Deadly Pattern / ABC-Borescoper DP
+  - 四数探长致命结构 / ABCD-Borescoper Deadly Pattern / ABCD-Borescoper DP
+- 淑芬致命结构 / [Qiu's Deadly Pattern](https://www.bilibili.com/read/cv12935009)
+- 唯一方阵 / [Unique Square Matrix](https://zhuanlan.zhihu.com/p/34741297)
+- 宇宙法
     
 ### 待定死锁集合
 - 待定死锁集合 / ALS / [Almost Locked Set](https://zhuanlan.zhihu.com/p/33769864)
@@ -224,18 +233,28 @@
   - 虚ALS / VALS / vALS / [Virtual ALS](https://zhuanlan.zhihu.com/p/33820368)
     - 虚拟显性待定死锁集合 / 虚拟显性ALS / 虚nALS / VNALS / vnALS / Virtual nALS / Virtual Naked ALS / Virtual Naked Almost Locked Set
     - 虚拟隐性待定死锁集合 / 虚拟隐性ALS / 虚hALS / VHALS / vhALS / Virtual hALS / Virtual Hidden ALS / Virtual Hidden Almost Locked Set
-
-### 毛刺数组
-- [毛刺数组][]
-  - 显性毛刺数组 / Almost Naked Subset
-    - 显性毛刺数对 / Almost Naked Pair
-  - 隐性毛刺数组 / AHS / Almost Hidden Subset
+- 二次待定数组 / Almost Almost Locked Set / Almost ALS / AALS
+- 三次待定数组 / Almost Almost Almost Locked Set / Almost AALS / AAALS
+- 四次待定数组 / Almost Almost Almost Almost Locked Set / Almost AAALS
 
 ### 待定唯一矩形
 - 待定唯一矩形 / AUR / [Almost UR][]
   - 候选强关系型 / AUR Type 1
   - 区块强关系型 / AUR Type 2
   - 其他强关系型 / AUR Type 3
+
+### 毛刺
+- 毛刺结构 / Single Kraken Logic
+  - [毛刺数组][]
+    - 显性毛刺数组 / Almost Naked Subset
+      - 显性毛刺数对 / Almost Naked Pair
+    - 隐性毛刺数组 / AHS / Almost Hidden Subset
+  - 毛刺鱼 / [Kraken Fish](https://zhuanlan.zhihu.com/p/34018343)
+    - 标准型 / Kraken Fish Type 1 `参考难度系数`8.3
+    - 矛盾型 / Kraken Fish Type 2 `参考难度系数`8.4
+- 毛边结构 / [Double Kraken Logic](https://zhuanlan.zhihu.com/p/34085796)
+  - 弱毛边 / Weak Inference in Double Kraken
+- 三毛刺结构 / [Triple Kraken Logic](https://zhuanlan.zhihu.com/p/34085796)
 
 ### 链
 
@@ -258,7 +277,12 @@
     - 超链置显性数对 / 显性毛刺数对链 / Kraken Naked Pair / Hyper AIC With Naked Pair
   - 超链置隐性数组 / 隐性毛刺数组链 / [Hyper AIC With Hidden Subset][毛刺数组]
   - 超链置AUR / [Hyper AIC With AUR][Almost UR]
-  - 间接删数的链 / [Indirected Chain][ALS的综合运用]
+  - [超链置Wing](https://zhuanlan.zhihu.com/p/33998350)
+  - 超链置鱼 / [Hyper AIC With Fish](https://zhuanlan.zhihu.com/p/34018343)
+  - 超链置链 / [Hyper AIC With AIC](https://zhuanlan.zhihu.com/p/34085796)
+  - 超链置可规避矩形 / [Hyper AIC With AR][Forcing AR]
+  - ...
+    - 间接删数的链 / [Indirected Chain][ALS的综合运用]
 
 #### 强制链组
 - 强制链组 / FC / [Forcing Chains](https://zhuanlan.zhihu.com/p/33861014)
@@ -283,6 +307,33 @@
     - 超环置AUR / Hyper Cont. (Nice) Loop With AUR
     - 超环置毛刺数组 / Hyper Cont. (Nice) Loop With Almost Subset
 
+#### 动态链
+- 动态链 / Dynamic AIC / [DAIC](https://zhuanlan.zhihu.com/p/33967982)
+  - 动态不连续环 / Dynamic Discontinuous Loop
+    - Dynamic Discontinuous (Nice) Loop
+  - 多端点链 / Multi Endpoint Chain
+    - 三国争雄 / Three-kingdom W-Wing
+    - ...
+  - 带鳍链 / Kraken Unit
+  - 动态环 / 动态标准环 / Dynamic Continuous Loop
+    - Dynamic Continuous (Nice) Loop
+  - 动态超环 / 动态超标准环 / Dynamic Hyper Continuous Loop
+    - Dynamic Hyper Continuous (Nice) Loop
+
+### 涂色法
+- 涂色法 / [Coloring](https://zhuanlan.zhihu.com/p/34187700)
+  - 色链 / Simple Coloring Type 1
+  - 色分 / 分色法 / Simple Coloring Type 2
+  - 复合色链 / Multi Coloring
+  - 进阶涂色 / 三维美杜莎 / 3D Medusa / Advanced Coloring
+
+### 袋鼠
+- 袋鼠 / 代数 / [Kangaroo](https://zhuanlan.zhihu.com/p/34212080)
+
+## 鱼雷
+- 鱼雷 / 飞鱼导弹
+  - 初级飞鱼导弹 / [Junior Exocet](https://zhuanlan.zhihu.com/p/35576944)
+
 - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
 - [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
 - [Double Loop](http://www.sudokufans.org.cn/forums/topic/1660/)
@@ -300,6 +351,7 @@
 >   - [三思](https://www.12634.com/learning/index)
 >   - [数独术语](https://zh.wikipedia.org/wiki/%E6%95%B0%E7%8B%AC%E6%9C%AF%E8%AF%AD)
 >   - [数独术语索引表](https://zhuanlan.zhihu.com/p/33475225) 
+>   - Bilibili: SunnieShine [标准数独技巧教程](https://www.bilibili.com/read/readlist/rl291187)
 >   - [小向的标准数独技巧教程](http://sunnie-shine.gitee.io/sudokutechniquetutorial/SortByTutorial.html)
 >   - [Collection of solving techniques](http://forum.enjoysudoku.com/collection-of-solving-techniques-t3315.html)
 >   - HoDoKu: [Solving techniques](http://hodoku.sourceforge.net/en/techniques.php)
@@ -378,3 +430,4 @@
 [毛刺数组]: https://zhuanlan.zhihu.com/p/33820355
 [ALS的综合运用]: https://zhuanlan.zhihu.com/p/33820410
 [Almost UR]: https://zhuanlan.zhihu.com/p/33849857
+[Forcing AR]: https://zhuanlan.zhihu.com/p/34393585

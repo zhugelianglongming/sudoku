@@ -25,5 +25,8 @@
   - 9+1 数独
     - [无趣数独 1](https://cn.samuraisudoku.com/g-clueless-sudoku-1/)
     - [无趣数独 2](https://cn.samuraisudoku.com/g-clueless-sudoku-2/)
+- 微信小程序
+  - [破解数独](#小程序://破解数独/破解数独/6Oj6WLfkbkJiyhw)
+    - 3D 数独
 - 多源
   - [重影数独](重影数独.md)

@@ -46,6 +46,7 @@
 - [异形数独](https://cn.puzzle-jigsaw-sudoku.com/)
 - [有一个数独](https://shudu.one/)
 - [Daily Killer Sudoku](https://www.dailykillersudoku.com/)
+- [Fun With Puzzles](https://www.funwithpuzzles.com/)
 - [Futoshiki](https://cn.puzzle-futoshiki.com/)
 - [SUDOKU.HK](https://sudoku.hk/)
 - [Sudoku.com](https://sudoku.com/zh)
