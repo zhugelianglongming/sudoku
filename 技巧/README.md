@@ -330,9 +330,24 @@
 ### 袋鼠
 - 袋鼠 / 代数 / [Kangaroo](https://zhuanlan.zhihu.com/p/34212080)
 
-## 鱼雷
-- 鱼雷 / 飞鱼导弹
-  - 初级飞鱼导弹 / [Junior Exocet](https://zhuanlan.zhihu.com/p/35576944)
+### 鱼雷
+- 飞鱼导弹 / 鱼雷
+  - 初级飞鱼导弹 / Junior Exocet / [JE](https://zhuanlan.zhihu.com/p/35576944)
+    - 初级标准飞鱼导弹
+      - [对角型](https://zhuanlan.zhihu.com/p/35576944)
+      - [同侧型](https://zhuanlan.zhihu.com/p/35952793)
+      - [共轭对型](https://zhuanlan.zhihu.com/p/35952793)
+      - [待定数组型](https://zhuanlan.zhihu.com/p/35952793)
+    - 宫内飞鱼导弹 / [Franken JE](https://zhuanlan.zhihu.com/p/35821903)
+    - [交叉飞鱼导弹](https://zhuanlan.zhihu.com/p/35821903)
+  - 高级飞鱼导弹 / Senior Exocet / [SE](https://zhuanlan.zhihu.com/p/35868227)
+    - 高级标准飞鱼导弹 / Senior Basic Exocet
+    - 高级宫内飞鱼导弹 / Senior Franken Exocetda
+    - 高级交叉飞鱼导弹 / Senior Mutant Exocet
+  - 复合飞鱼导弹 / [Double JE](https://zhuanlan.zhihu.com/p/35576944)
+- 袋鼠飞鱼导弹 / [假飞鱼导弹](https://zhuanlan.zhihu.com/p/35952793)
+
+### 网
 
 - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
 - [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
