@@ -29,7 +29,9 @@
 | [摩天楼数独][PK] | 骨灰级 | [君子如玉] <br/> [大吉大利] | [![挑战]][PK] 51:27 | 2022.01.10 |
 | [外提示数独][PK] | 骨灰级 | [游戏时空][] <br/> [☁️安之若素☁️] | [![挑战]][PK] 9:51 | 2022.01.17 |
 | [对角线数独][PK] | 骨灰级 | [仕灯白] <br/> [六帥] | [![挑战]][PK] 8:46 | 2022.01.24 |
+| [数比数独][PK] | 骨灰级 | [君子如玉] <br/> [呛了个强] | [![挑战]][PK] 24:49 | 2022.02.14 |
 | [数比对角杀手数独][PK] | 骨灰级 | [君子如玉] <br/> [大吉大利] | [![挑战]][PK] 17:50 | 2022.01.10 |
+| [窗口数独][PK] | 骨灰级 | [a00群] <br/> [游戏时空] | [![挑战]][PK] 20:10 | 2022.02.14 |
 | [2015 数独][] | - | [威尼斯 游子] <br/> [在熙] | [![挑战]][2015 数独] 1023 s | 2022.01.10 |
 | [不连续魔方][] | - | [君子如玉] <br/> [夏曦] | [![挑战]][不连续魔方] 937 s | 2022.01.24 |
 
@@ -46,6 +48,8 @@
 [仕灯白]: https://www.douyin.com/user/MS4wLjABAAAAtJIjJolsrt2icb6UTwrGpsBDCWm2gKP6DLZ8STeA72s
 [六帥]: https://www.douyin.com/user/MS4wLjABAAAAa42yXW6piGVSOQzqt8QaPvNJyd76hirRqrd2g2JLg28
 [夏曦]: https://www.douyin.com/user/MS4wLjABAAAAhHIxsZ95S5Fu2tZAbptzZCI7uVaboHKfgoamViuhcXg
+[a00群]: https://www.douyin.com/user/MS4wLjABAAAAoUvD1RKV1KJP9xG6vcN7FJiGhCRzPaIRj9195-Ks88A
+[呛了个强]: https://www.douyin.com/user/MS4wLjABAAAAIfAl4D-i7Qs54sw7BolNGdrYR7G4geNA1-n0Hmid7iE
 
 [蓝天初心级]: https://www.oubk.com/super-sudoku/super-easy
 [轻度骨灰级]: https://www.oubk.com/super-sudoku/insane
