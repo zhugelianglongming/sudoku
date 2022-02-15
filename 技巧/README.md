@@ -103,6 +103,7 @@
         - 自噬鳍交叉三阶鱼
         - 自噬鳍交叉四阶鱼
   - 复杂鱼 / [Complex Fish](https://zhuanlan.zhihu.com/p/35348865)
+    - X环 / [X-Cycle][]
 
 ### 待定数组
 - 待定数组（标准） / ALS / Almost Locked Subset
@@ -111,7 +112,7 @@
     - 欠一三数组 / Almost Locked Triple `参考难度系数`5.2
   - 伪数组 / ESP / [Extended Subset Principle][伪数组和跨区数组] `参考难度系数`7.5
   - 跨区数组 / DDS / [Distributed Disjointed Subset][伪数组和跨区数组] `参考难度系数`7.0
-    - 融合式待定数组 / 双区域分布式跨区数组 / SDC / SdC / [Sue de Coq](https://zhuanlan.zhihu.com/p/33615105)
+    - 融合式待定数组 / 双区域分布式跨区数组 / 一度SDC / SDC / SdC / `SDC Degree 1`  / [Sue de Coq](https://zhuanlan.zhihu.com/p/33615105)
       - 无公共数型 / 基本融合版本 `参考难度系数`4.8+
       - 共享公共数型 / 带有交互数字的融合版本 `参考难度系数`4.9+
       - 独占公共数型 / 自噬SDC / Cannibalistic SDC `参考难度系数`4.9+
@@ -145,6 +146,7 @@
       - 摩天楼 / 孪生二链列 / [Skyscraper][] `参考难度系数`4.05
         > [练习](https://www.12634.com/learning/skyscraper/index)
       - 双线风筝 / [Two Strings Kite][] `参考难度系数`4.1
+    - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
   - 双值格链 / 双值格标准链 / [XY-Chain][] `参考难度系数`4.0+
     - 远程数对 / [Remote Pairs][] `参考难度系数`4.5+
   - 首尾异数链 / 首尾异数标准链 / [XY-X-Chain][Common Types Chain] `参考难度系数`5.7+
@@ -156,8 +158,6 @@
     - 空矩形 / [Empty Rectangle][] `参考难度系数`4.8
     - 区块链 / Grouped AIC
     - 区块不连续环 / Grouped Disc. (Nice) Loop
-
-- X环 / [X-Cycle][]
 
 ## 骨灰级
 
@@ -281,6 +281,7 @@
   - 超链置鱼 / [Hyper AIC With Fish](https://zhuanlan.zhihu.com/p/34018343)
   - 超链置链 / [Hyper AIC With AIC](https://zhuanlan.zhihu.com/p/34085796)
   - 超链置可规避矩形 / [Hyper AIC With AR][Forcing AR]
+  - 超链置SDC / SDC超链 / [Hyper AIC With SDC](https://zhuanlan.zhihu.com/p/35977314)
   - ...
     - 间接删数的链 / [Indirected Chain][ALS的综合运用]
 
@@ -301,7 +302,7 @@
 - 环
   - 标准环 / ~~环(简称)~~ / [Continuous (Nice) Loop](https://zhuanlan.zhihu.com/p/33887094)
     - 不规则Wing结构的环结构
-    - 双值格数组的环结构
+    - 双值格数组的环结构 / Multi X-Wing / [XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
   - 超标准环 / [Hyper Continuous (Nice) Loop](https://zhuanlan.zhihu.com/p/33917735)
     - 超环置ALS / Hyper Cont. (Nice) Loop With ALS
     - 超环置AUR / Hyper Cont. (Nice) Loop With AUR
@@ -309,15 +310,22 @@
 
 #### 动态链
 - 动态链 / Dynamic AIC / [DAIC](https://zhuanlan.zhihu.com/p/33967982)
-  - 动态不连续环 / Dynamic Discontinuous Loop
+  - 动态不连续环
+    - Dynamic Discontinuous Loop
     - Dynamic Discontinuous (Nice) Loop
   - 多端点链 / Multi Endpoint Chain
     - 三国争雄 / Three-kingdom W-Wing
     - ...
   - 带鳍链 / Kraken Unit
-  - 动态环 / 动态标准环 / Dynamic Continuous Loop
-    - Dynamic Continuous (Nice) Loop
-  - 动态超环 / 动态超标准环 / Dynamic Hyper Continuous Loop
+  - 动态环 / 动态标准环
+    - _按删数分类：_
+      - Dynamic Continuous Loop
+      - Dynamic Continuous (Nice) Loop
+    - _按分支分类：_
+      - 双环 / [Double Loop](https://www.bilibili.com/read/cv12656263)
+      - ...
+  - 动态超环 / 动态超标准环
+    - Dynamic Hyper Continuous Loop
     - Dynamic Hyper Continuous (Nice) Loop
 
 ### 涂色法
@@ -330,14 +338,45 @@
 ### 袋鼠
 - 袋鼠 / 代数 / [Kangaroo](https://zhuanlan.zhihu.com/p/34212080)
 
-## 鱼雷
-- 鱼雷 / 飞鱼导弹
-  - 初级飞鱼导弹 / [Junior Exocet](https://zhuanlan.zhihu.com/p/35576944)
+### 鱼雷
+- 飞鱼导弹 / 鱼雷
+  - 初级飞鱼导弹 / Junior Exocet / [JE](https://zhuanlan.zhihu.com/p/35576944)
+    - 初级标准飞鱼导弹
+      - [对角型](https://zhuanlan.zhihu.com/p/35576944)
+      - [同侧型](https://zhuanlan.zhihu.com/p/35952793)
+      - [共轭对型](https://zhuanlan.zhihu.com/p/35952793)
+      - [待定数组型](https://zhuanlan.zhihu.com/p/35952793)
+    - 宫内飞鱼导弹 / [Franken JE](https://zhuanlan.zhihu.com/p/35821903)
+    - [交叉飞鱼导弹](https://zhuanlan.zhihu.com/p/35821903)
+  - 高级飞鱼导弹 / Senior Exocet / [SE](https://zhuanlan.zhihu.com/p/35868227)
+    - 高级标准飞鱼导弹 / Senior Basic Exocet
+    - 高级宫内飞鱼导弹 / Senior Franken Exocetda
+    - 高级交叉飞鱼导弹 / Senior Mutant Exocet
+  - 复合飞鱼导弹 / [Double JE](https://zhuanlan.zhihu.com/p/35576944)
+- 袋鼠飞鱼导弹 / [假飞鱼导弹](https://zhuanlan.zhihu.com/p/35952793)
 
-- [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
-- [Multi X-Wing/XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
-- [Double Loop](http://www.sudokufans.org.cn/forums/topic/1660/)
-
+### 待定数组
+- [SDC拓展](https://zhuanlan.zhihu.com/p/35977314)
+  - 多度SDC / Multi-sector DDS
+    - 二度SDC / 三区域分布式跨区数组 / Three-sector DDS / SDC Degree 2
+  - 多段SDC / 多米诺链 / Domino Chain
+    - 三段SDC
+    - 四段SDC
+    - 五段SDC
+    - 六段SDC
+    - ...
+  - 多米诺环 / 柯尔扎斯环 / SK环 / SK Loop / [Domino Loop]
+    - [直观多米诺环](https://zhuanlan.zhihu.com/p/37611197)
+    - 自噬变种多米诺环 / BB型多米诺环 / [Bigger's Loop](https://zhuanlan.zhihu.com/p/37611197)
+- 网 / 多区域（跨区）数组 / Multi-sector Locked Sets / MSLS
+  - _按涉及区域分类：_
+    - 标准网 / [Basic MSLS](https://zhuanlan.zhihu.com/p/36007498)
+      - [直观标准网](https://zhuanlan.zhihu.com/p/37611197)
+    - 宫内网 / [Franken MSLS](https://zhuanlan.zhihu.com/p/37352318)
+    - 交叉网 / [Mutant MSLS](https://zhuanlan.zhihu.com/p/37352318)
+  - _按结构形状分类：_
+    - 非矩形网 / [Non-Rectangle MSLS](https://zhuanlan.zhihu.com/p/37352318)
+    
 > - [技巧分类](分类/README.md)
 
 # 流派
@@ -431,3 +470,4 @@
 [ALS的综合运用]: https://zhuanlan.zhihu.com/p/33820410
 [Almost UR]: https://zhuanlan.zhihu.com/p/33849857
 [Forcing AR]: https://zhuanlan.zhihu.com/p/34393585
+[Domino Loop]: http://www.sudokufans.org.cn/forums/topic/1660/
