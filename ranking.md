@@ -35,6 +35,11 @@
 | [2015 数独][] | - | [威尼斯 游子] <br/> [在熙] | [![挑战]][2015 数独] 1023 s | 2022.01.10 |
 | [不连续魔方][] | - | [君子如玉] <br/> [夏曦] | [![挑战]][不连续魔方] 937 s | 2022.01.24 |
 
+> 抖音群
+> - 标准数独（入门）：428851089544
+> - 标准数独（困难）：104307233179
+> - 非标数独：       320612712468
+
 [烧脑数独|杳月]: https://www.douyin.com/user/MS4wLjABAAAAp0G7R9sryGmDiYJ2X9whbMDB34rrkln-wdYjrHhmd8s
 [在熙]: https://www.douyin.com/user/MS4wLjABAAAAr90Iu9lNl52tkiDKnJ2NSeT1Fq9CjoKG56EsuzsTYIw
 [君子如玉]: https://www.douyin.com/user/MS4wLjABAAAAOwWDJybtaKiSQ7sXTaJ_Eq3Do-rTdpMPXJ_iBFYSzHOhu3xHd8xM7U70ZJfShlUx
