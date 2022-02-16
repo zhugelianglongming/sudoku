@@ -14,8 +14,8 @@
   - 宫摒除 / [Hidden Single in Box][] `参考难度系数`1.2
   - 行列摒除 / [Hidden Single in Row/Column] `参考难度系数`1.5
   > 练习
-  > - [微信小程序](#小程序://联网数独/联网数独/RWMGoumiDkGZHQb)
-  > - [网页](https://www.12634.com/learning/hs/index)
+  > - 微信小程序：[联网数独](#小程序://联网数独/联网数独/RWMGoumiDkGZHQb)
+  > - 网页：[三思](https://www.12634.com/learning/hs/index)
 ### 唯余法
 - 唯余法 / 唯一数 / 唯一法 / Last Value / [Naked Single][] `参考难度系数`2.3
   > [练习](http://www.sudokufans.org.cn/tools/finder.php)
@@ -108,7 +108,7 @@
 ### 待定数组
 - 待定数组（标准） / ALS / Almost Locked Subset
   - 欠一数组 / ALC / [Almost Locked Candidates](https://zhuanlan.zhihu.com/p/33612543)
-    - 欠一数对 / [Almost Locked Pair][] `参考难度系数`4.5
+    - 欠一数对 / ALP / [Almost Locked Pair][] `参考难度系数`4.5
     - 欠一三数组 / Almost Locked Triple `参考难度系数`5.2
   - 伪数组 / ESP / [Extended Subset Principle][伪数组和跨区数组] `参考难度系数`7.5
   - 跨区数组 / DDS / [Distributed Disjointed Subset][伪数组和跨区数组] `参考难度系数`7.0
@@ -225,6 +225,7 @@
 - 淑芬致命结构 / [Qiu's Deadly Pattern](https://www.bilibili.com/read/cv12935009)
 - 唯一方阵 / [Unique Square Matrix](https://zhuanlan.zhihu.com/p/34741297)
 - 宇宙法
+- UCC / [Unique Clue Cover](https://zhuanlan.zhihu.com/p/42157930)
     
 ### 待定死锁集合
 - 待定死锁集合 / ALS / [Almost Locked Set](https://zhuanlan.zhihu.com/p/33769864)
@@ -347,7 +348,7 @@
       - [共轭对型](https://zhuanlan.zhihu.com/p/35952793)
       - [待定数组型](https://zhuanlan.zhihu.com/p/35952793)
     - 宫内飞鱼导弹 / [Franken JE](https://zhuanlan.zhihu.com/p/35821903)
-    - [交叉飞鱼导弹](https://zhuanlan.zhihu.com/p/35821903)
+    - 交叉飞鱼导弹 / [Mutant JE](https://zhuanlan.zhihu.com/p/35821903)
   - 高级飞鱼导弹 / Senior Exocet / [SE](https://zhuanlan.zhihu.com/p/35868227)
     - 高级标准飞鱼导弹 / Senior Basic Exocet
     - 高级宫内飞鱼导弹 / Senior Franken Exocetda
