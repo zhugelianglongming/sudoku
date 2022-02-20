@@ -224,7 +224,7 @@
   - 四数探长致命结构 / ABCD-Borescoper Deadly Pattern / ABCD-Borescoper DP
 - 淑芬致命结构 / [Qiu's Deadly Pattern](https://www.bilibili.com/read/cv12935009)
 - 唯一方阵 / [Unique Square Matrix](https://zhuanlan.zhihu.com/p/34741297)
-- 宇宙法
+- [宇宙法](https://www.bilibili.com/video/BV1Mx411z7uq?p=121)
 - UCC / [Unique Clue Cover](https://zhuanlan.zhihu.com/p/42157930)
     
 ### 待定死锁集合
