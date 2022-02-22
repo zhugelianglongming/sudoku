@@ -25,8 +25,8 @@
 
 | [题型](SUMMARY.md) | 难度 | 当前擂主 | 用时 | 日期 |
 | :---: | ---: | :--- | ---: | --- |
-| [杀手数独][PK] | 骨灰级 | [君子如玉] <br/> [大吉大利] | [![挑战]][PK] 19:15 | 2022.01.24 |
-| [摩天楼数独][PK] | 骨灰级 | [君子如玉] <br/> [大吉大利] | [![挑战]][PK] 51:27 | 2022.01.10 |
+| [杀手数独][PK] | 骨灰级 | [君子如玉] <br/> [呛了个强] | [![挑战]][PK] 17:16 | 2022.02.22 |
+| [摩天楼数独][PK] | 骨灰级 | [아빠] <br/> [游戏时空] | [![挑战]][PK] 19:03 | 2022.02.22 |
 | [外提示数独][PK] | 骨灰级 | [游戏时空][] <br/> [☁️安之若素☁️] | [![挑战]][PK] 9:51 | 2022.01.17 |
 | [对角线数独][PK] | 骨灰级 | [仕灯白] <br/> [六帥] | [![挑战]][PK] 8:46 | 2022.01.24 |
 | [数比数独][PK] | 骨灰级 | [君子如玉] <br/> [呛了个强] | [![挑战]][PK] 24:49 | 2022.02.14 |
@@ -34,6 +34,7 @@
 | [窗口数独][PK] | 骨灰级 | [a00群] <br/> [游戏时空] | [![挑战]][PK] 20:10 | 2022.02.14 |
 | [2015 数独][] | - | [威尼斯 游子] <br/> [在熙] | [![挑战]][2015 数独] 1023 s | 2022.01.10 |
 | [不连续魔方][] | - | [君子如玉] <br/> [夏曦] | [![挑战]][不连续魔方] 937 s | 2022.01.24 |
+| [电子表数独][] | - | [游戏时空] <br/> [威尼斯 游子] | [![挑战]][电子表数独] 667 s | 2022.02.22 |
 
 > 抖音群
 > - 标准数独（入门）：428851089544
@@ -55,6 +56,7 @@
 [夏曦]: https://www.douyin.com/user/MS4wLjABAAAAhHIxsZ95S5Fu2tZAbptzZCI7uVaboHKfgoamViuhcXg
 [a00群]: https://www.douyin.com/user/MS4wLjABAAAAoUvD1RKV1KJP9xG6vcN7FJiGhCRzPaIRj9195-Ks88A
 [呛了个强]: https://www.douyin.com/user/MS4wLjABAAAAIfAl4D-i7Qs54sw7BolNGdrYR7G4geNA1-n0Hmid7iE
+[아빠]: https://www.douyin.com/user/MS4wLjABAAAAS5AQZdZFhHuNpf9nnDmz7Nq4oNa3PguLAzu0vH354frJyrxRPmuy7_S6yZl0vxgX
 
 [蓝天初心级]: https://www.oubk.com/super-sudoku/super-easy
 [轻度骨灰级]: https://www.oubk.com/super-sudoku/insane
@@ -62,5 +64,6 @@
 [PK]: https://www.oubk.com/pk
 [2015 数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=ts4
 [不连续魔方]: http://www.sudokufans.org.cn/lx/game.index.php?type=ncmf
+[电子表数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=clk2
 
 [挑战]: images/挑战20x20.png
