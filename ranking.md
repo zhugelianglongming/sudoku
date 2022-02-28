@@ -17,7 +17,7 @@
 
 | [题型](SUMMARY.md) | 难度 | 当前擂主 | 用时 | 日期 |
 | :---: | ---: | :--- | ---: | --- |
-| 标准 - 9 宫 | 蓝天:轻度骨灰级 | [亮亮超级帅吖] <br/> [游戏时空] | [![挑战]][轻度骨灰级] 14:09 | 2022.01.17 |
+| 标准 - 9 宫 | 蓝天:轻度骨灰级 | [威尼斯 游子] <br/> [君子如玉] | [![挑战]][轻度骨灰级] 8:09 | 2022.02.28 |
 | 标准 - 9 宫 | 欧泊颗:入门级 | [游戏时空] <br/> [☁️安之若素☁️] | [![挑战]][PK] 3:19 | 2022.01.17 |
 | 标准 - 9 宫 | 欧泊颗:骨灰级 | [丨X丶D灬小强] <br/> [☁️安之若素☁️] | [![挑战]][PK] 12:07 | 2022.01.10 |
 
@@ -25,16 +25,19 @@
 
 | [题型](SUMMARY.md) | 难度 | 当前擂主 | 用时 | 日期 |
 | :---: | ---: | :--- | ---: | --- |
-| [杀手数独][PK] | 骨灰级 | [君子如玉] <br/> [呛了个强] | [![挑战]][PK] 17:16 | 2022.02.22 |
+| [杀手数独][PK] | 骨灰级 | [老王] <br/> [西海贝壳] | [![挑战]][PK] 11:57 | 2022.02.28 |
 | [摩天楼数独][PK] | 骨灰级 | [아빠] <br/> [游戏时空] | [![挑战]][PK] 19:03 | 2022.02.22 |
 | [外提示数独][PK] | 骨灰级 | [游戏时空][] <br/> [☁️安之若素☁️] | [![挑战]][PK] 9:51 | 2022.01.17 |
 | [对角线数独][PK] | 骨灰级 | [仕灯白] <br/> [六帥] | [![挑战]][PK] 8:46 | 2022.01.24 |
-| [数比数独][PK] | 骨灰级 | [君子如玉] <br/> [呛了个强] | [![挑战]][PK] 24:49 | 2022.02.14 |
+| [数比数独][PK] | 骨灰级 | [君子如玉] <br/> [亮亮超级帅吖] | [![挑战]][PK] 13:33 | 2022.02.28 |
 | [数比对角杀手数独][PK] | 骨灰级 | [君子如玉] <br/> [大吉大利] | [![挑战]][PK] 17:50 | 2022.01.10 |
-| [窗口数独][PK] | 骨灰级 | [a00群] <br/> [游戏时空] | [![挑战]][PK] 20:10 | 2022.02.14 |
+| [窗口数独][PK] | 骨灰级 | [亮亮超级帅吖] <br/> [丨X丶D灬小强] | [![挑战]][PK] 12:24 | 2022.02.28 |
 | [2015 数独][] | - | [威尼斯 游子] <br/> [在熙] | [![挑战]][2015 数独] 1023 s | 2022.01.10 |
 | [不连续魔方][] | - | [君子如玉] <br/> [夏曦] | [![挑战]][不连续魔方] 937 s | 2022.01.24 |
+| [不连续数独][] | - | [六帥] <br/> [呛了个强] | [![挑战]][不连续数独] 649 s | 2022.02.28 |
 | [电子表数独][] | - | [游戏时空] <br/> [威尼斯 游子] | [![挑战]][电子表数独] 667 s | 2022.02.22 |
+| [金字塔数独][] | - | [☁️安之若素☁️] <br/> [丨X丶D灬小强] | [![挑战]][金字塔数独] 504 s | 2022.02.28 |
+| [金字塔对角数独][] | - |  [君子如玉] <br/> [德尔康] | [![挑战]][金字塔对角数独] 1060 s | 2022.03.01 |
 
 > 抖音群
 > - 标准数独（入门）：428851089544
@@ -57,6 +60,9 @@
 [a00群]: https://www.douyin.com/user/MS4wLjABAAAAoUvD1RKV1KJP9xG6vcN7FJiGhCRzPaIRj9195-Ks88A
 [呛了个强]: https://www.douyin.com/user/MS4wLjABAAAAIfAl4D-i7Qs54sw7BolNGdrYR7G4geNA1-n0Hmid7iE
 [아빠]: https://www.douyin.com/user/MS4wLjABAAAAS5AQZdZFhHuNpf9nnDmz7Nq4oNa3PguLAzu0vH354frJyrxRPmuy7_S6yZl0vxgX
+[老王]: https://www.douyin.com/user/MS4wLjABAAAAmYEOeMJVGc0WJG-9gT7zjQGlJijUTWp6wKZsHL8g9Tw
+[西海贝壳]: https://www.douyin.com/user/MS4wLjABAAAA2vQad7W6MEZsLm7K8QdphruVt6Ws6R0wrki_Clve15E
+[德尔康]: https://www.douyin.com/user/MS4wLjABAAAAua1veWiJHEnzBN4iijjVV3QkTXLWz6Pf9ttSM4qliEZaoTaq7wuU09N7mcEABdBJ
 
 [蓝天初心级]: https://www.oubk.com/super-sudoku/super-easy
 [轻度骨灰级]: https://www.oubk.com/super-sudoku/insane
@@ -65,5 +71,8 @@
 [2015 数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=ts4
 [不连续魔方]: http://www.sudokufans.org.cn/lx/game.index.php?type=ncmf
 [电子表数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=clk2
+[不连续数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=nc
+[金字塔数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=xx
+[金字塔对角数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=xxx
 
 [挑战]: images/挑战20x20.png
