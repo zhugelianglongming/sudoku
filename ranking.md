@@ -38,6 +38,7 @@
 | [电子表数独][] | - | [游戏时空] <br/> [威尼斯 游子] | [![挑战]][电子表数独] 667 s | 2022.02.22 |
 | [金字塔数独][] | - | [☁️安之若素☁️] <br/> [丨X丶D灬小强] | [![挑战]][金字塔数独] 504 s | 2022.02.28 |
 | [金字塔对角数独][] | - |  [君子如玉] <br/> [德尔康] | [![挑战]][金字塔对角数独] 1060 s | 2022.03.01 |
+| [X位和][] | - |  [☁️安之若素☁️] <br/> [西海贝壳] | [![挑战]][X位和] 914 s | 2022.03.07 |
 
 > 抖音群
 > - 标准数独（入门）：428851089544
@@ -74,5 +75,6 @@
 [不连续数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=nc
 [金字塔数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=xx
 [金字塔对角数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=xxx
+[X位和]: http://www.sudokufans.org.cn/lx/game.index.php?type=xsum2
 
 [挑战]: images/挑战20x20.png
