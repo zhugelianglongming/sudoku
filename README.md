@@ -38,6 +38,7 @@
 - [欧泊颗](https://www.oubk.com/)
 - [三思](https://www.12634.com/)
 - [杀手数独](https://cn.puzzle-killer-sudoku.com/)
+- [数独在线](https://sudoku-cn.com/)
 - [数独 puzzle-sudoku.com](https://cn.puzzle-sudoku.com/)
 - [数独 sudoku.name](https://www.sudoku.name/index-cn.php)
 - [数独 Sudoku Game](http://www.sudokugame.org/)
