@@ -51,5 +51,6 @@
 - [Futoshiki](https://cn.puzzle-futoshiki.com/)
 - [SUDOKU.HK](https://sudoku.hk/)
 - [Sudoku.com](https://sudoku.com/zh)
+- [Sudoku Kingdom](https://sudokukingdom.com/)
 - [Sudoku Puzzle](https://cn.sudokupuzzle.org/)
 - [Logic Masters Deutschland e.V.](https://logic-masters.de/)
