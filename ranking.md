@@ -32,10 +32,11 @@
 | [数比数独][PK] | 骨灰级 | [君子如玉] <br/> [亮亮超级帅吖] | [![挑战]][PK] 13:33 | 2022.02.28 |
 | [数比对角杀手数独][PK] | 骨灰级 | [君子如玉] <br/> [大吉大利] | [![挑战]][PK] 17:50 | 2022.01.10 |
 | [窗口数独][PK] | 骨灰级 | [亮亮超级帅吖] <br/> [丨X丶D灬小强] | [![挑战]][PK] 12:24 | 2022.02.28 |
+| [VX数独][PK] | 骨灰级 | [水城][威尼斯 游子]  <br/> [贝儿童品~童装实体店] | [![挑战]][PK] 11:57 | 2022.03.28 |
 | [2015 数独][] | - | [威尼斯 游子] <br/> [在熙] | [![挑战]][2015 数独] 1023 s | 2022.01.10 |
 | [不连续魔方][] | - | [君子如玉] <br/> [夏曦] | [![挑战]][不连续魔方] 937 s | 2022.01.24 |
 | [不连续数独][] | - | [六帥] <br/> [呛了个强] | [![挑战]][不连续数独] 649 s | 2022.02.28 |
-| [电子表数独][] | - | [游戏时空] <br/> [威尼斯 游子] | [![挑战]][电子表数独] 667 s | 2022.02.22 |
+| [电子表数独][] | - | [丨X丶D灬小强] <br/> [水城][威尼斯 游子] | [![挑战]][电子表数独] 277 s | 2022.03.28 |
 | [金字塔数独][] | - | [☁️安之若素☁️] <br/> [丨X丶D灬小强] | [![挑战]][金字塔数独] 504 s | 2022.02.28 |
 | [金字塔对角数独][] | - |  [君子如玉] <br/> [德尔康] | [![挑战]][金字塔对角数独] 1060 s | 2022.03.01 |
 | [X位和][] | - |  [☁️安之若素☁️] <br/> [西海贝壳] | [![挑战]][X位和] 914 s | 2022.03.07 |
@@ -64,6 +65,7 @@
 [老王]: https://www.douyin.com/user/MS4wLjABAAAAmYEOeMJVGc0WJG-9gT7zjQGlJijUTWp6wKZsHL8g9Tw
 [西海贝壳]: https://www.douyin.com/user/MS4wLjABAAAA2vQad7W6MEZsLm7K8QdphruVt6Ws6R0wrki_Clve15E
 [德尔康]: https://www.douyin.com/user/MS4wLjABAAAAua1veWiJHEnzBN4iijjVV3QkTXLWz6Pf9ttSM4qliEZaoTaq7wuU09N7mcEABdBJ
+[贝儿童品~童装实体店]: https://www.douyin.com/user/MS4wLjABAAAAEZhTUqew4r8FTqs7JPckH6985gOjhxkkl8PRVDmBCl4
 
 [蓝天初心级]: https://www.oubk.com/super-sudoku/super-easy
 [轻度骨灰级]: https://www.oubk.com/super-sudoku/insane
