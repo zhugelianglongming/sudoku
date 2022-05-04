@@ -26,7 +26,9 @@
       ```
   2. 访问 http://localhost:4000 查看
 
-## 收录站点
+## 收录
+
+### 站点
 - 博客
   - [谜者老芦的博客](http://blog.sina.com.cn/u/1752936301)
   - [逍遥的博客](http://blog.sina.com.cn/iae3ng)
@@ -54,3 +56,18 @@
 - [Sudoku Kingdom](https://sudokukingdom.com/)
 - [Sudoku Puzzle](https://cn.sudokupuzzle.org/)
 - [Logic Masters Deutschland e.V.](https://logic-masters.de/)
+
+### 微信小程序
+> 复制右侧链接，可在微信中直接打开小程序
+- 变形数独 `#小程序://变形数独/高端数独/3QQ2xclTUJ6u2bc`
+- 鳄鱼数独 `#小程序://鳄鱼数独/LZm0WknUKhpMrbc`
+- 肯肯数谜数独 `#小程序://肯肯数谜数独/肯肯数独/6JRdmdOXDFZGOHD`
+- 口袋数独 `#小程序://口袋数独/VjGS3AhQ0Oy9Ufk`
+- 联网数独 `#小程序://联网数独/联网数独/RWMGoumiDkGZHQb`
+- 破解数独 `#小程序://破解数独/破解数独/6Oj6WLfkbkJiyhw`
+- 数独大乱斗 `#小程序://数独大乱斗/首页/0MTBL5MtvmFrQPG`
+- 数独每日一题 `#小程序://数独每日一题/百人赛/WxK6JOaAgIc3Z5b`
+- 数独谜题 `#小程序://数独谜题/5EMzvlmHZpwu0Pl`
+- 数独天地 `#小程序://数独天地/YBEeJaP6IJVoipx`
+- 数独星空 `#小程序://数独星空/TYOXr9SLNGQlDmx`
+

@@ -14,7 +14,7 @@
   - 宫摒除 / [Hidden Single in Box][] `参考难度系数`1.2
   - 行列摒除 / [Hidden Single in Row/Column] `参考难度系数`1.5
   > 练习
-  > - 微信小程序：[联网数独](#小程序://联网数独/联网数独/RWMGoumiDkGZHQb)
+  > - 微信小程序：联网数独
   > - 网页：[三思](https://www.12634.com/learning/hs/index)
 ### 唯余法
 - 唯余法 / 唯一数 / 唯一法 / Last Value / [Naked Single][] `参考难度系数`2.3
