@@ -377,6 +377,11 @@
     - 交叉网 / [Mutant MSLS](https://zhuanlan.zhihu.com/p/37352318)
   - _按结构形状分类：_
     - 非矩形网 / [Non-Rectangle MSLS](https://zhuanlan.zhihu.com/p/37352318)
+
+### Template
+- [Template](http://hodoku.sourceforge.net/en/tech_last.php#ts)
+  - Template Set
+  - Template Delete
     
 > - [技巧分类](分类/README.md)
 
