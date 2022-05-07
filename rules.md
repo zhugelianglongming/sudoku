@@ -34,10 +34,10 @@
 > 举例：
 > - 盘面信息：
 >   - A 行的数字从左到右为：381654729
-> ![](images/skyscraper/盘面.png)
+>   - ![](images/skyscraper/盘面.png)
 > - 观测信息：
 >   - 从 `A0`（A1 左侧），向右观测
-> ![](images/skyscraper/观测位.png)
+>   - ![](images/skyscraper/观测位.png)
 > - 观测结果：可以看到 `3` 栋楼，分别是 3 层楼（`A1`）、8 层楼(`A2`)、9 层楼(`A9`)
 >   - `A1`(3层楼)：可以看到
 >   - `A2`(8层楼)：可以看到，8 层楼高于 3 层楼（8>3）
@@ -48,11 +48,11 @@
 >   - `A7`(7层楼)：无法看到，被 8 层楼挡住（7<8）
 >   - `A8`(2层楼)：无法看到，被 8 层楼挡住（2<8）
 >   - `A9`(9层楼)：可以看到，9 层楼高于 8 层楼（9>8）
-> ![](https://i0.hdslb.com/bfs/article/fbca4181ae3cb901a0b463ece2dd862bf1a317ae.png@942w_489h_progressive.webp)
+>   - ![](images/skyscraper/视角转换.png)
 > - 结论：此例中，`A0` 位向右观测的
 >   - `摩天楼观测数` 是 `3`
 >   - `摩天和` 是 `20`=3+8+9
-> ![](images/skyscraper/观测数.png)
+>   - ![](images/skyscraper/观测数.png)
 
 ## 邻格
 两格拥有公共的点，则互为`邻格`。
