@@ -2,4 +2,4 @@
 - [独·数之道](http://www.sudokufans.org.cn/lx/game.index.php?type=xsum2) 【需要登录】
 
 ## 微信小程序
-- [变形数独](#小程序://变形数独/高端数独/3QQ2xclTUJ6u2bc)
+- 变形数独
