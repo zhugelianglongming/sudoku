@@ -1,0 +1,24 @@
+{
+  "name": "sudoku",
+  "version": "1.0.0",
+  "description": "收录数独资源 - 根据标准数独、非标准数独进行分类 - 便于查找各类异形数独",
+  "main": "index.js",
+  "dependencies": {
+    "gitbook-plugin-back-to-top-button": "^0.1.4",
+    "gitbook-plugin-expandable-chapters-small": "^0.1.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhugelianglongming/sudoku.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhugelianglongming/sudoku/issues"
+  },
+  "homepage": "https://github.com/zhugelianglongming/sudoku#readme"
+}

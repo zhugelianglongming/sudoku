@@ -26,7 +26,7 @@ class Catalog(object):
         self.sub_catalogs = []
 
         # parse replaceable sub-catalog
-        reg = re.compile('(?P<indent>.*)\\[comment\\]: <> \\((?P<path>.*) (?P<cmd>start|end)\\)')
+        reg = re.compile('(?P<indent>.*)\\[comment]: <> \\((?P<path>.*) (?P<cmd>start|end)\\)')
         for idx, line in enumerate(self.content):
             match = reg.match(line)
             if match:
@@ -60,14 +60,14 @@ class Catalog(object):
         """
         cur = 0
         new_content = []
-        reg = re.compile('(?P<prefix>.*\\])\\((?P<address>.*)\\)')
+        reg = re.compile('(?P<prefix>.*])\\((?P<address>.*)\\)')
         for replaceable in self.sub_catalogs:
             # extend origin content before replaced sub-catalog
             new_content += self.content[cur:replaceable.start]
 
             # extend replaced sub-catalog content
             sub_catalog_file = Path(self.file.parent.joinpath(replaceable.path))
-            sub_catalog = Catalog(sub_catalog_file)
+            sub_catalog = Catalog(str(sub_catalog_file))
             sub_catalog_content = sub_catalog.update_sub_catalog()
             print(sub_catalog_content)
             for line in sub_catalog_content:
