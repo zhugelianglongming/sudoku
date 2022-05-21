@@ -4,3 +4,9 @@
 
 # Goland
 .idea/
+
+# Python
+venv/
+
+# npm
+node_modules/

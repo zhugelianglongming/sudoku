@@ -5,5 +5,9 @@
   "title": "数据资源与分类",
   "pdf": {
     "fontFamily": "等线"
-  }
+  },
+  "plugins": [
+    "back-to-top-button",
+    "expandable-chapters-small"
+  ]
 }
