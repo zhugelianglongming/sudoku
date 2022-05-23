@@ -28,12 +28,12 @@
 | 困难 | [锯齿数独][锯齿数独说明] | [在熙] <br/> [丨X丶D灬小强] | [![挑战]][锯齿数独] 51:24.30 | 2022.05.16 |
 | 骨灰级 | [杀手数独][PK] | [老王] <br/> [西海贝壳] | [![挑战]][PK] 11:57 | 2022.02.28 |
 | 骨灰级 | [摩天楼数独][PK] | [六帥] <br/> [亮亮超级帅吖] | [![挑战]][PK] 15:08 | 2022.04.12 |
-| 骨灰级 | [外提示数独][PK] | [游戏时空][] <br/> [☁️安之若素☁️] | [![挑战]][PK] 9:51 | 2022.01.17 |
+| 骨灰级 | [外提示数独][PK] | [德尔康] <br/> [君子如玉] | [![挑战]][PK] 9:06 | 2022.05.23 |
 | 骨灰级 | [对角线数独][PK] | [仕灯白] <br/> [六帥] | [![挑战]][PK] 8:46 | 2022.01.24 |
 | 骨灰级 | [数比数独][PK] | [君子如玉] <br/> [亮亮超级帅吖] | [![挑战]][PK] 13:33 | 2022.02.28 |
 | 骨灰级 | [数比对角杀手数独][PK] | [君子如玉] <br/> [大吉大利] | [![挑战]][PK] 17:50 | 2022.01.10 |
 | 骨灰级 | [窗口数独][窗口数独说明] | [亮亮超级帅吖] <br/> [丨X丶D灬小强] | [![挑战]][PK] 12:24 | 2022.02.28 |
-| 骨灰级 | [VX数独][PK] | [一目ぼれする]  <br/> [繁华] | [![挑战]][PK] 9:16 | 2022.05.16 |
+| 骨灰级 | [VX数独][PK] | [☁️安之若素☁️]  <br/> [aa] | [![挑战]][PK] 7:19 | 2022.05.23 |
 | - | [2015 数独][] | [威尼斯 游子] <br/> [在熙] | [![挑战]][2015 数独] 1023 s | 2022.01.10 |
 | - | [不连续魔方][不连续魔方说明] | [君子如玉] <br/> [夏曦] | [![挑战]][不连续魔方] 937 s | 2022.01.24 |
 | - | [不连续数独][不连续数独说明] | [六帥] <br/> [呛了个强] | [![挑战]][不连续数独] 649 s | 2022.02.28 |
@@ -70,6 +70,8 @@
 [贝儿童品~童装实体店]: https://www.douyin.com/user/MS4wLjABAAAAEZhTUqew4r8FTqs7JPckH6985gOjhxkkl8PRVDmBCl4
 [繁华]: https://www.douyin.com/user/MS4wLjABAAAA0KOe2c7czLly5Idmv0B5QHPCl_dAM9JD5cM4PFY7mR0
 [一目ぼれする]: https://www.douyin.com/user/MS4wLjABAAAAsnKmx9Ag5Kz7aMCPi9dwSIeXoBfrkCR4f20-UWA2Yom0wTCcHe6igRsH052va3KP
+[aa]: https://www.douyin.com/user/MS4wLjABAAAA4Vc8VIRaZDgV8D2tmbsa1W-3kr5Cd8x7SRUUKo1eqZH74zfF8KxxbVjRDE40judr
+[德尔康]: https://www.douyin.com/user/MS4wLjABAAAAua1veWiJHEnzBN4iijjVV3QkTXLWz6Pf9ttSM4qliEZaoTaq7wuU09N7mcEABdBJ
 
 [蓝天初心级]: https://www.oubk.com/super-sudoku/super-easy
 [轻度骨灰级]: https://www.oubk.com/super-sudoku/insane
