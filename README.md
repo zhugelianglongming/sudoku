@@ -51,6 +51,7 @@
 - [Daily Killer Sudoku](https://www.dailykillersudoku.com/)
 - [Fun With Puzzles](https://www.funwithpuzzles.com/)
 - [Futoshiki](https://cn.puzzle-futoshiki.com/)
+- [Grandmaster Puzzles](https://www.gmpuzzles.com/)
 - [SUDOKU.HK](https://sudoku.hk/)
 - [Sudoku.com](https://sudoku.com/zh)
 - [Sudoku Kingdom](https://sudokukingdom.com/)
