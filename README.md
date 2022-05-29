@@ -52,6 +52,7 @@
 - [Fun With Puzzles](https://www.funwithpuzzles.com/)
 - [Futoshiki](https://cn.puzzle-futoshiki.com/)
 - [Grandmaster Puzzles](https://www.gmpuzzles.com/)
+- [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 - [SUDOKU.HK](https://sudoku.hk/)
 - [Sudoku.com](https://sudoku.com/zh)
 - [Sudoku Kingdom](https://sudokukingdom.com/)
