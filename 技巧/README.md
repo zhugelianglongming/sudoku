@@ -119,6 +119,7 @@
   - [均衡性数组][]
     - 均衡性数对 / Aligned Pair Exclusion `参考难度系数`6.2
     - 均衡性三数组 / Aligned Triple Exclusion `参考难度系数`7.5
+
 ### 链
 
 #### 标准链
