@@ -1,13 +1,15 @@
 ![](https://www.gmpuzzles.com/images/blog/GM-Sudo-Kurve-Ex.png)
 
-## 规则
+# 规则
 | 序号 | 限制区域 | 限制规则 | 备注 |
 | :---: | :---: | :--- | :---: |
 | 1 | 宫 | [1~9填充] | 宫数量不定 |
 | 2 | 直线 | [1~9不重复] | 存在正交的 2 个方向（一般为行、列），数量不定 |
 | 3 | 连接线区域 | [1~9填充] | 区域数量不定 |
 
-## 题库
+# 题库
+
+## 在线题库
 - [Grandmaster Puzzles](https://www.gmpuzzles.com/blog/category/sudoku/sudo-kurve/) 【题目有限】
 
 ## 特色题型

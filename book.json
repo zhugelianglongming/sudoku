@@ -1,0 +1,44 @@
+{
+  "title": "数独资源与分类",
+  "plugins": [
+    "expandable-chapters",
+    "github-buttons",
+    "editlink",
+    "copy-code-button",
+    "page-footer-ex",
+    "anchor-navigation-ex",
+    "expandable-chapters-small",
+    "-highlight",
+    "-lunr",
+    "-search",
+    "search-pro",
+    "splitter"
+  ],
+  "pluginsConfig": {
+    "editlink": {
+      "base": "https://github.com/zhugelianglongming/sudoku/tree/main",
+      "label": "编辑本页",
+      "multilingual": false
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "user": "zhugelianglongming",
+          "repo": "puzzle",
+          "type": "star",
+          "size": "small"
+        }
+      ]
+    },
+    "page-footer-ex": {
+      "copyright": "By [zhugelianglongming](https://github.com/zhugelianglongming)，使用[知识共享 署名-相同方式共享 4.0协议](https://creativecommons.org/licenses/by-sa/4.0/)发布",
+      "markdown": true,
+      "update_label": "<i>updated</i>",
+      "update_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  },
+  "ignores": [
+    "_book",
+    "node_modules"
+  ]
+}
