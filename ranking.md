@@ -26,6 +26,10 @@
 | 难度 | [题型](SUMMARY.md) | 当前擂主 | 用时 | 日期 |
 | ---: | :---: | ---: | :--- | --- |
 | 骨灰级 | [连续数独][PK] | 虚位以待 | - | - |
+| - | [夏天数独][夏天数独说明] | [爱🚬的panda] <br/> [丨X丶D灬小强] | [![挑战]][夏天数独] 1063 s | 2022.06.06 |
+| - | [春天数独][春天数独说明] | [德尔康] <br/> [我想静静] | [![挑战]][春天数独] 1222 s | 2022.06.06 |
+| - | [中位数数独][中位数数独说明] | [☁️安之若素☁️]  <br/> [丨X丶D灬小强] | [![挑战]][中位数数独] 1222 s | 2022.06.06 |
+| - | [金字塔对角数独] | [杳月的黑粉] <br/> [贝儿童品~童装实体店] | [![挑战]][金字塔对角数独] 990 s | 2022.06.06 |
 | 骨灰级 | [杀手数独][PK] | [老王] <br/> [贝儿童品~童装实体店] | [![挑战]][PK] 9:08 | 2022.06.03 |
 | 困难 | [锯齿数独][锯齿数独说明] | [锅包肉] <br/> [StuaR] | [![挑战]][锯齿数独] 24:05.00 | 2022.05.30 |
 | 骨灰级 | [外提示数独][PK] | [亮亮超级帅吖] <br/> [锅包肉] | [![挑战]][PK] 7:27 | 2022.05.30 |
@@ -33,7 +37,6 @@
 | 骨灰级 | [摩天楼数独][PK] | [六帥] <br/> [亮亮超级帅吖] | [![挑战]][PK] 15:08 | 2022.04.12 |
 | - | [算24数独][] | [丨X丶D灬小强] <br/> [a00群] | [![挑战]][算24数独] 2500 s | 2022.04.12 |
 | - | [X位和][] | [☁️安之若素☁️] <br/> [西海贝壳] | [![挑战]][X位和] 914 s | 2022.03.07 |
-| - | [金字塔对角数独][] | [君子如玉] <br/> [德尔康] | [![挑战]][金字塔对角数独] 1060 s | 2022.03.01 |
 | 骨灰级 | [数比数独][PK] | [君子如玉] <br/> [亮亮超级帅吖] | [![挑战]][PK] 13:33 | 2022.02.28 |
 | - | [不连续数独][不连续数独说明] | [六帥] <br/> [呛了个强] | [![挑战]][不连续数独] 649 s | 2022.02.28 |
 | 骨灰级 | [窗口数独][窗口数独说明] | [亮亮超级帅吖] <br/> [丨X丶D灬小强] | [![挑战]][PK] 12:24 | 2022.02.28 |
@@ -75,6 +78,9 @@
 [德尔康]: https://www.douyin.com/user/MS4wLjABAAAAua1veWiJHEnzBN4iijjVV3QkTXLWz6Pf9ttSM4qliEZaoTaq7wuU09N7mcEABdBJ
 [锅包肉]: https://www.douyin.com/user/MS4wLjABAAAA3VFpYNMbfQBrmcNT-q04ESifBSu8iTm2-1I1hG2ZzZU
 [StuaR]: https://www.douyin.com/user/MS4wLjABAAAAoOldJ8GXIkI9VNfNL6xCd9akKk9xsMTBuDQ5VfmXo7w
+[杳月的黑粉]: https://www.douyin.com/user/MS4wLjABAAAA7A-slHiryy0RCD2_SeQJn8oUCSuA4xprBY_CFkNAujI
+[爱🚬的panda]: https://www.douyin.com/user/MS4wLjABAAAAeT-8z0D9vazZfw1bMdxR5Toz4-G7NXpCChZTjhasa2Q
+[我想静静]: https://www.douyin.com/user/MS4wLjABAAAAlDZleE_Xh8NQKZ3G1rPlzsA0xE4RFHB-hxQrNHIfTjA
 
 [蓝天初心级]: https://www.oubk.com/super-sudoku/super-easy
 [轻度骨灰级]: https://www.oubk.com/super-sudoku/insane
@@ -93,5 +99,11 @@
 [算24数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=z24
 [锯齿数独说明]: 非标数独/9宫/异形类/锯齿数独.md
 [锯齿数独]: https://cn.puzzle-jigsaw-sudoku.com/?size=8
+[中位数数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=px2
+[中位数数独说明]: 非标数独/9宫/比大小类/中位数数独.md
+[春天数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=ts2
+[春天数独说明]: 非标数独/9宫/候选类/春天数独.md
+[夏天数独]: http://www.sudokufans.org.cn/lx/game.index.php?type=ts5
+[夏天数独说明]: 非标数独/9宫/候选类/夏天数独.md
 
 [挑战]: images/挑战20x20.png
