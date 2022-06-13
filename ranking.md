@@ -26,6 +26,7 @@
 | 难度 | [题型](SUMMARY.md) | 当前擂主 | 用时 | 日期 |
 | ---: | :---: | ---: | :--- | --- |
 | 骨灰级 | [连续数独][PK] | 虚位以待 | - | - |
+| 骨灰级 | [数比对角数独][PK] | [☁️安之若素☁️] <br/> [柚木提娜] | [![挑战]][PK] 16:40 | 2022.06.13 |
 | - | [夏天数独][夏天数独说明] | [爱🚬的panda] <br/> [丨X丶D灬小强] | [![挑战]][夏天数独] 1063 s | 2022.06.06 |
 | - | [春天数独][春天数独说明] | [德尔康] <br/> [我想静静] | [![挑战]][春天数独] 2638 s | 2022.06.06 |
 | - | [中位数数独][中位数数独说明] | [☁️安之若素☁️]  <br/> [丨X丶D灬小强] | [![挑战]][中位数数独] 1222 s | 2022.06.06 |
@@ -81,6 +82,7 @@
 [杳月的黑粉]: https://www.douyin.com/user/MS4wLjABAAAA7A-slHiryy0RCD2_SeQJn8oUCSuA4xprBY_CFkNAujI
 [爱🚬的panda]: https://www.douyin.com/user/MS4wLjABAAAAeT-8z0D9vazZfw1bMdxR5Toz4-G7NXpCChZTjhasa2Q
 [我想静静]: https://www.douyin.com/user/MS4wLjABAAAAlDZleE_Xh8NQKZ3G1rPlzsA0xE4RFHB-hxQrNHIfTjA
+[柚木提娜]: https://www.douyin.com/user/MS4wLjABAAAAN-a-87YZx_Fv7q7-dmqnautsdJVgpfCDKWKWYBj6kYU
 
 [蓝天初心级]: https://www.oubk.com/super-sudoku/super-easy
 [轻度骨灰级]: https://www.oubk.com/super-sudoku/insane
