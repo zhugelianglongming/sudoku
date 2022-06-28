@@ -54,12 +54,13 @@
 - [Fun With Puzzles](https://www.funwithpuzzles.com/)
 - [Futoshiki](https://cn.puzzle-futoshiki.com/)
 - [Grandmaster Puzzles](https://www.gmpuzzles.com/)
+- [Logic Masters Deutschland e.V.](https://logic-masters.de/)
+- [Killer Sudoku Online](https://www.killersudokuonline.com/)
 - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 - [SUDOKU.HK](https://sudoku.hk/)
 - [Sudoku.com](https://sudoku.com/zh)
 - [Sudoku Kingdom](https://sudokukingdom.com/)
 - [Sudoku Puzzle](https://cn.sudokupuzzle.org/)
-- [Logic Masters Deutschland e.V.](https://logic-masters.de/)
 
 ### 微信小程序
 
