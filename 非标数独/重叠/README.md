@@ -14,7 +14,7 @@
         - [四海归一](http://www.sudokufans.org.cn/lx/8f.index.php)
         - [连体数独](http://www.sudokufans.org.cn/lx/dou.index.php)
         - [双胞锯齿数独](http://www.sudokufans.org.cn/lx/game.index.php?type=j2)
-- ~~[武士数独]~~ 【选题不便】
+- [武士数独] 【选题不便】
     - 三叠数独
     - 蝴蝶数独
     - 花数独
@@ -26,8 +26,8 @@
     - W 数独
     - 双对应数独
     - 9+1 数独
-        - ~~[无趣数独 1]~~
-        - ~~[无趣数独 2]~~
+        - [无趣数独 1]
+        - [无趣数独 2]
 - 多源
     - [重影数独](重影数独.md)
 
