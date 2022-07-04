@@ -1,6 +1,7 @@
 # 数独资源
 
 收录数独资源
+
 - 根据标准数独、非标准数独进行分类
 - 便于查找各类异形数独
 
@@ -18,21 +19,22 @@
 
 - [在线版](https://zhugelianglongming.gitbook.io/shu-du/)
 - 离线版
-  1. clone 代码，并启动 gitbook
-      ```shell
-      git clone git@github.com:zhugelianglongming/sudoku.git
-      cd sudoku
-      gitbook serve
-      ```
-  2. 访问 http://localhost:4000 查看
+    1. clone 代码，并启动 gitbook
+        ```shell
+        git clone git@github.com:zhugelianglongming/sudoku.git
+        cd sudoku
+        gitbook serve
+        ```
+    2. 访问 http://localhost:4000 查看
 
 ## 收录
 
 ### 站点
+
 - 博客
-  - [谜者老芦的博客](http://blog.sina.com.cn/u/1752936301)
-  - [逍遥的博客](http://blog.sina.com.cn/iae3ng)
-  - [真笑天天的博客](http://blog.sina.com.cn/zhenxiaott)
+    - [谜者老芦的博客](http://blog.sina.com.cn/u/1752936301)
+    - [逍遥的博客](http://blog.sina.com.cn/iae3ng)
+    - [真笑天天的博客](http://blog.sina.com.cn/zhenxiaott)
 - [聪明方格](https://cn.newdoku.com/)
 - [独·数之道](http://www.sudokufans.org.cn/)
 - [今日数独](https://cn.sudoku.today/)
@@ -52,14 +54,16 @@
 - [Fun With Puzzles](https://www.funwithpuzzles.com/)
 - [Futoshiki](https://cn.puzzle-futoshiki.com/)
 - [Grandmaster Puzzles](https://www.gmpuzzles.com/)
+- [Logic Masters Deutschland e.V.](https://logic-masters.de/)
+- [Killer Sudoku Online](https://www.killersudokuonline.com/)
 - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 - [SUDOKU.HK](https://sudoku.hk/)
 - [Sudoku.com](https://sudoku.com/zh)
 - [Sudoku Kingdom](https://sudokukingdom.com/)
 - [Sudoku Puzzle](https://cn.sudokupuzzle.org/)
-- [Logic Masters Deutschland e.V.](https://logic-masters.de/)
 
 ### 微信小程序
+
 > 复制右侧链接，可在微信中直接打开小程序
 
 - 变形数独 `#小程序://变形数独/高端数独/3QQ2xclTUJ6u2bc`
@@ -73,4 +77,5 @@
 - 数独谜题 `#小程序://数独谜题/5EMzvlmHZpwu0Pl`
 - 数独天地 `#小程序://数独天地/YBEeJaP6IJVoipx`
 - 数独星空 `#小程序://数独星空/TYOXr9SLNGQlDmx`
+- 我爱玩数独 `#小程序://玩数独/fUS6ycOThsmz4jB`
 
