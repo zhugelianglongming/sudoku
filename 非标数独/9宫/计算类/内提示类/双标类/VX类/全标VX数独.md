@@ -22,12 +22,9 @@
 
 - [独·数之道](http://www.sudokufans.org.cn/lx/game.index.php?type=vxa) 【需要登录】
 - [今日数独]【选题不便】
-- ~~[欧泊颗]~~
 
 [1~9填充]: ../../../../../../rules.md#1~9填充
 
 [共边邻格]: ../../../../../../rules.md#共边邻格
-
-[欧泊颗]: https://www.oubk.com/sudoku/VXSudoku-3x3-0.html?level=5
 
 [今日数独]: https://cn.sudoku.today/g-xv-sudoku-2/
