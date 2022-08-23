@@ -20,6 +20,7 @@
 
 ## 在线题库
 
+- [三思数独]
 - [独·数之道](http://www.sudokufans.org.cn/lx/game.index.php?type=vxa) 【需要登录】
 - [今日数独]【选题不便】
 
@@ -28,3 +29,5 @@
 [共边邻格]: ../../../../../../rules.md#共边邻格
 
 [今日数独]: https://cn.sudoku.today/g-xv-sudoku-2/
+
+[三思数独]: https://www.12634.com/sudoku/vx-sudoku
