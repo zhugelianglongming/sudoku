@@ -56,6 +56,7 @@
 - [Grandmaster Puzzles](https://www.gmpuzzles.com/)
 - [Logic Masters Deutschland e.V.](https://logic-masters.de/)
 - [Killer Sudoku Online](https://www.killersudokuonline.com/)
+- [krazydad](https://krazydad.com/)
 - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 - [SUDOKU.HK](https://sudoku.hk/)
 - [Sudoku.com](https://sudoku.com/zh)
