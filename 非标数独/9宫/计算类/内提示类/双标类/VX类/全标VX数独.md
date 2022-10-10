@@ -30,4 +30,4 @@
 
 [今日数独]: https://cn.sudoku.today/g-xv-sudoku-2/
 
-[三思数独]: https://www.12634.com/sudoku/vx-sudoku
+[三思数独]: https://www.12634.com/sudoku/vx-sudoku/level5
