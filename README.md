@@ -73,6 +73,7 @@
 - 口袋数独 `#小程序://口袋数独/VjGS3AhQ0Oy9Ufk`
 - 联网数独 `#小程序://联网数独/联网数独/RWMGoumiDkGZHQb`
 - 破解数独 `#小程序://破解数独/破解数独/6Oj6WLfkbkJiyhw`
+- 三思数独 `#小程序://三思数独/gUu4UIUAgfF0AOq`
 - 数独大乱斗 `#小程序://数独大乱斗/首页/0MTBL5MtvmFrQPG`
 - 数独每日一题 `#小程序://数独每日一题/百人赛/WxK6JOaAgIc3Z5b`
 - 数独谜题 `#小程序://数独谜题/5EMzvlmHZpwu0Pl`
