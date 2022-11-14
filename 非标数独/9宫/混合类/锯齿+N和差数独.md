@@ -14,5 +14,5 @@
 ## 在线题库
 - [独·数之道](http://www.sudokufans.org.cn/lx/game.index.php?type=nn) 【需要登录】
 
-[1~9填充]: ../../../rules.md#1~9填充
+[1~9填充]: ../../../rules.md#1to9填充
 [共边邻格]: ../../../rules.md#共边邻格
