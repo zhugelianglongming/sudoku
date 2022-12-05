@@ -1,6 +1,11 @@
 {
   "attachmentFolderPath": "/",
   "userIgnoreFilters": [
-    "技巧/"
+    "技巧/",
+    "_book/",
+    "node_modules/",
+    "venv/",
+    "images/",
+    "工具/"
   ]
 }
