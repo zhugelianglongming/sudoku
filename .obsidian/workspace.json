@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "36797f5ad4620a82",
+    "type": "split",
+    "children": [
+      {
+        "id": "48b11878d127dc32",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "560e2a8d2ca23791",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f8c0b79a9637f89f",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca471c415a45c051",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d8c281adb2b9390",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6523ebd3fcd41c37",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "38c691b4f29f01c2",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e96b89a2cc50c467",
+    "type": "split",
+    "children": [
+      {
+        "id": "90879c5d79c21787",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18367129e86e4520",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e69146f80898032",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "635eda9c977fc397",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba5f56ec04273adb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "560e2a8d2ca23791",
+  "lastOpenFiles": [
+    "非标数独/9宫/计算类/内提示类/肯肯数独.md",
+    "非标数独/9宫/计算类/内提示类/单标类/连续类/全标连续数独.md",
+    "非标数独/9宫/计算类/外提示类/X位差数独.md",
+    "非标数独/9宫/计算类/外提示类/9后和数独.md",
+    "非标数独/9宫/计算类/外提示类/摆骨独.md",
+    "非标数独/9宫/比大小类/最大邻居.md",
+    "非标数独/9宫/比大小类/中位数数独.md",
+    "非标数独/9宫/比大小类/之间数独.md"
+  ]
+}

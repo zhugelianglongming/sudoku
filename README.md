@@ -27,6 +27,17 @@
         ```
     2. 访问 http://localhost:4000 查看
 
+### Obsidian
+
+以关联知识图谱的方式查看：
+
+- 下载并安装 [Obsidian](https://obsidian.md/)
+- 下载代码库 `git clone git@github.com:zhugelianglongming/sudoku.git`
+- 点击`打开本地仓库`，选择代码库本地根目录
+- 点击`查看关系图谱`
+
+![](images/obsidian.png)
+
 ## 收录
 
 ### 站点
@@ -67,7 +78,7 @@
 
 > 复制右侧链接，可在微信中直接打开小程序
 
-- 变形数独 `#小程序://变形数独/高端数独/3QQ2xclTUJ6u2bc`
+- 三思数独 `#小程序://三思数独/gUu4UIUAgfF0AOq`
 - 鳄鱼数独 `#小程序://鳄鱼数独/LZm0WknUKhpMrbc`
 - 肯肯数谜数独 `#小程序://肯肯数谜数独/肯肯数独/6JRdmdOXDFZGOHD`
 - 口袋数独 `#小程序://口袋数独/VjGS3AhQ0Oy9Ufk`
@@ -80,4 +91,5 @@
 - 数独天地 `#小程序://数独天地/YBEeJaP6IJVoipx`
 - 数独星空 `#小程序://数独星空/TYOXr9SLNGQlDmx`
 - 我爱玩数独 `#小程序://玩数独/fUS6ycOThsmz4jB`
+- ~~变形数独 `#小程序://变形数独/高端数独/3QQ2xclTUJ6u2bc`~~
 
