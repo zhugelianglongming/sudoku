@@ -1,6 +1,9 @@
-![](https://www.conceptispuzzles.com/zh/picture/11/2092.gif)
+# Chain数独
 
-# 题库
+![题](https://www.conceptispuzzles.com/zh/picture/11/2092.gif)
 
-## 在线题库
+## 题库
+
+### 在线题库
+
 - [康思](https://www.conceptispuzzles.com/zh/index.aspx?uri=puzzle/sudoku) 【付费】
