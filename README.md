@@ -27,7 +27,7 @@
         gitbook serve
         ```
 
-    2. 访问 <http://localhost:4000> 查看
+    2. 访问 [localhost:4000](http://localhost:4000) 查看
 
 ### Obsidian
 

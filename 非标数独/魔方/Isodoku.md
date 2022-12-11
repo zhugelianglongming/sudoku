@@ -23,4 +23,4 @@
 
 [共边平行路]: ../../rules.md#共边平行路
 
-[Grandmaster Puzzles]<https://www.gmpuzzles.com/blog/category/sudoku/isodoku/>
+[Grandmaster Puzzles]: https://www.gmpuzzles.com/blog/category/sudoku/isodoku/
