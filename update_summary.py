@@ -20,7 +20,7 @@ class Catalog(object):
         :param path: path for catalog markdown
         """
         self.path = path
-        log.debug("create catalog from {}".format(self.path))
+        log.debug("creating catalog from {}".format(self.path))
         self.file = Path(path)
         self.content = self.file.read_text().splitlines()
         self.sub_catalogs = []
@@ -69,7 +69,6 @@ class Catalog(object):
             sub_catalog_file = Path(self.file.parent.joinpath(replaceable.path))
             sub_catalog = Catalog(str(sub_catalog_file))
             sub_catalog_content = sub_catalog.update_sub_catalog()
-            print(sub_catalog_content)
             for line in sub_catalog_content:
                 match = reg.match(line)
                 if match:
