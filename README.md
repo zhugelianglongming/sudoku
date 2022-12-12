@@ -20,12 +20,14 @@
 - [在线版](https://zhugelianglongming.gitbook.io/shu-du/)
 - 离线版
     1. clone 代码，并启动 gitbook
+
         ```shell
         git clone git@github.com:zhugelianglongming/sudoku.git
         cd sudoku
         gitbook serve
         ```
-    2. 访问 http://localhost:4000 查看
+
+    2. 访问 [localhost:4000](http://localhost:4000) 查看
 
 ### Obsidian
 
@@ -36,16 +38,16 @@
 - 点击`打开本地仓库`，选择代码库本地根目录
 - 点击`查看关系图谱`
 
-![](images/obsidian.png)
+![数独题型关系图谱](images/obsidian.png)
 
 ## 收录
 
 ### 站点
 
 - 博客
-    - [谜者老芦的博客](http://blog.sina.com.cn/u/1752936301)
-    - [逍遥的博客](http://blog.sina.com.cn/iae3ng)
-    - [真笑天天的博客](http://blog.sina.com.cn/zhenxiaott)
+  - [谜者老芦的博客](http://blog.sina.com.cn/u/1752936301)
+  - [逍遥的博客](http://blog.sina.com.cn/iae3ng)
+  - [真笑天天的博客](http://blog.sina.com.cn/zhenxiaott)
 - [聪明方格](https://cn.newdoku.com/)
 - [独·数之道](http://www.sudokufans.org.cn/)
 - [今日数独](https://cn.sudoku.today/)
@@ -74,7 +76,7 @@
 - [Sudoku Kingdom](https://sudokukingdom.com/)
 - [Sudoku Puzzle](https://cn.sudokupuzzle.org/)
 
-### 微信小程序
+#### 微信小程序
 
 > 复制右侧链接，可在微信中直接打开小程序
 
@@ -92,4 +94,3 @@
 - 数独星空 `#小程序://数独星空/TYOXr9SLNGQlDmx`
 - 我爱玩数独 `#小程序://玩数独/fUS6ycOThsmz4jB`
 - ~~变形数独 `#小程序://变形数独/高端数独/3QQ2xclTUJ6u2bc`~~
-
