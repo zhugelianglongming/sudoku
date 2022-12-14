@@ -26,42 +26,45 @@
 
 #### 非标数独
 
-|  难度 | [题型](SUMMARY.md)  |                                当前擂主 | 用时                      | 日期         |
-|----:|:-----------------:|------------------------------------:|:------------------------|------------|
-| 骨灰级 | [三明治数独][] |  [请叫我虎哥][爱🚬的panda]  <br/> [辰晓1992][贝儿童品~童装实体店] | [![挑战]][三明治数独] 6:41    | 2022.12.05 |
-|   - | [牛郎织女数独][] |  [李子]  <br/> [请叫我虎哥][爱🚬的panda] | [![挑战]][牛郎织女数独] 1483 s    | 2022.12.05 |
-|   - |     [不连续螺旋][]     |     [冷ツ眸🐼][爱🚬的panda] <br/> [西海贝壳] | [![挑战]][不连续螺旋] 596 s    | 2022.09.26 |
-|   - |     [一二和位和][]     |           [水城][威尼斯 游子] <br/> [西海贝壳] | [![挑战]][一二和位和] 1109 s   | 2022.09.26 |
-|   - |      [X位和][]      |     [西海贝壳] <br/> [冷ツ眸🐼][爱🚬的panda] | [![挑战]][X位和] 559 s      | 2022.09.26 |
-| 骨灰级 |    [连续数独][欧泊颗]    |               [小豆豆的妈妈] <br/> [君子如玉] | [![挑战]][欧泊颗] 15:14      | 2022.08.22 |
-| 骨灰级 | [肯肯数独][肯肯数独说明]:无标 | [愤怒的小boss] <br/> [冷ツ眸🐼][爱🚬的panda] | [![挑战]][三思数独] 25:5      | 2022.08.22 |
-|   - | [中位数数独][中位数数独说明]  |          [☁️安之若素☁️] <br/> [丨X丶D灬小强] | [![挑战]][中位数数独] 731 s    | 2022.08.08 |
-|   - |  [春天数独][春天数独说明]   |                [亮亮超级帅吖] <br/> [风幻想] | [![挑战]][春天数独] 1467 s    | 2022.06.20 |
-|   - | [不连续魔方][不连续魔方说明]  |          [丨X丶D灬小强] <br/> [☁️安之若素☁️] | [![挑战]][不连续魔方] 583 s    | 2022.06.20 |
-| 骨灰级 |    [数比数独][欧泊颗]    |           [☁️安之若素☁️] <br/> [亮亮超级帅吖] | [![挑战]][欧泊颗] 11:34      | 2022.06.20 |
-| 骨灰级 |   [数比对角数独][欧泊颗]   |             [☁️安之若素☁️] <br/> [柚木提娜] | [![挑战]][欧泊颗] 16:40      | 2022.06.13 |
-|   - |  [夏天数独][夏天数独说明]   |         [爱🚬的panda] <br/> [丨X丶D灬小强] | [![挑战]][夏天数独] 1063 s    | 2022.06.06 |
-|   - |    [金字塔对角数独][]    |          [杳月的黑粉] <br/> [贝儿童品~童装实体店] | [![挑战]][金字塔对角数独] 990 s  | 2022.06.06 |
-| 骨灰级 |    [杀手数独][欧泊颗]    |             [老王] <br/> [贝儿童品~童装实体店] | [![挑战]][欧泊颗] 9:08       | 2022.06.03 |
-|  困难 |  [锯齿数独][锯齿数独说明]   |                 [锅包肉] <br/> [StuaR] | [![挑战]][锯齿数独] 24:05     | 2022.05.30 |
-| 骨灰级 |   [外提示数独][欧泊颗]    |                [亮亮超级帅吖] <br/> [锅包肉] | [![挑战]][欧泊颗] 7:27       | 2022.05.30 |
-| 骨灰级 |    [VX数独][欧泊颗]    |              [☁️安之若素☁️]  <br/> [aa] | [![挑战]][欧泊颗] 7:19       | 2022.05.23 |
-| 骨灰级 |   [摩天楼数独][欧泊颗]    |                 [六帥] <br/> [亮亮超级帅吖] | [![挑战]][欧泊颗] 15:08      | 2022.04.12 |
-|   - |     [算24数独][]     |              [丨X丶D灬小强] <br/> [a00群] | [![挑战]][算24数独] 2500 s   | 2022.04.12 |
-|   - | [不连续数独][不连续数独说明]  |                   [六帥] <br/> [呛了个强] | [![挑战]][不连续数独] 649 s    | 2022.02.28 |
-| 骨灰级 |  [窗口数独][窗口数独说明]   |            [亮亮超级帅吖] <br/> [丨X丶D灬小强] | [![挑战]][欧泊颗] 12:24      | 2022.02.28 |
-|   - |     [电子表数独][]     |        [丨X丶D灬小强] <br/> [水城][威尼斯 游子] | [![挑战]][电子表数独] 277 s    | 2022.03.28 |
-|   - |     [金字塔数独][]     |          [☁️安之若素☁️] <br/> [丨X丶D灬小强] | [![挑战]][金字塔数独] 504 s    | 2022.02.28 |
-| 骨灰级 |   [对角线数独][欧泊颗]    |                    [仕灯白] <br/> [六帥] | [![挑战]][欧泊颗] 8:46       | 2022.01.24 |
-| 骨灰级 |  [数比对角杀手数独][欧泊颗]  |                 [君子如玉] <br/> [大吉大利] | [![挑战]][欧泊颗] 17:50      | 2022.01.10 |
-|   - |    [2015 数独][]    |                 [威尼斯 游子] <br/> [在熙] | [![挑战]][2015 数独] 1023 s | 2022.01.10 |
+<!-- markdownlint-disable MD013 -->
+|  难度 | [题型](SUMMARY.md)  |                                           当前擂主 | 用时                      | 日期         |
+|----:|:-----------------:|-----------------------------------------------:|:------------------------|------------|
+| 骨灰级 |     [三明治数独][]     | [请叫我虎哥][爱🚬的panda]  <br/> [辰晓1992][贝儿童品~童装实体店] | [![挑战]][三明治数独] 6:41     | 2022.12.05 |
+|   - |    [牛郎织女数独][]     |                 [李子]  <br/> [请叫我虎哥][爱🚬的panda] | [![挑战]][牛郎织女数独] 1483 s  | 2022.12.05 |
+|   - |     [不连续螺旋][]     |                [冷ツ眸🐼][爱🚬的panda] <br/> [西海贝壳] | [![挑战]][不连续螺旋] 596 s    | 2022.09.26 |
+|   - |     [一二和位和][]     |                      [水城][威尼斯 游子] <br/> [西海贝壳] | [![挑战]][一二和位和] 1109 s   | 2022.09.26 |
+|   - |      [X位和][]      |                [西海贝壳] <br/> [冷ツ眸🐼][爱🚬的panda] | [![挑战]][X位和] 559 s      | 2022.09.26 |
+| 骨灰级 |    [连续数独][欧泊颗]    |                          [小豆豆的妈妈] <br/> [君子如玉] | [![挑战]][欧泊颗] 15:14      | 2022.08.22 |
+| 骨灰级 | [肯肯数独][肯肯数独说明]:无标 |            [愤怒的小boss] <br/> [冷ツ眸🐼][爱🚬的panda] | [![挑战]][三思数独] 25:5      | 2022.08.22 |
+|   - | [中位数数独][中位数数独说明]  |                     [☁️安之若素☁️] <br/> [丨X丶D灬小强] | [![挑战]][中位数数独] 731 s    | 2022.08.08 |
+|   - |  [春天数独][春天数独说明]   |                           [亮亮超级帅吖] <br/> [风幻想] | [![挑战]][春天数独] 1467 s    | 2022.06.20 |
+|   - | [不连续魔方][不连续魔方说明]  |                     [丨X丶D灬小强] <br/> [☁️安之若素☁️] | [![挑战]][不连续魔方] 583 s    | 2022.06.20 |
+| 骨灰级 |    [数比数独][欧泊颗]    |                      [☁️安之若素☁️] <br/> [亮亮超级帅吖] | [![挑战]][欧泊颗] 11:34      | 2022.06.20 |
+| 骨灰级 |   [数比对角数独][欧泊颗]   |                        [☁️安之若素☁️] <br/> [柚木提娜] | [![挑战]][欧泊颗] 16:40      | 2022.06.13 |
+|   - |  [夏天数独][夏天数独说明]   |                    [爱🚬的panda] <br/> [丨X丶D灬小强] | [![挑战]][夏天数独] 1063 s    | 2022.06.06 |
+|   - |    [金字塔对角数独][]    |                     [杳月的黑粉] <br/> [贝儿童品~童装实体店] | [![挑战]][金字塔对角数独] 990 s  | 2022.06.06 |
+| 骨灰级 |    [杀手数独][欧泊颗]    |                        [老王] <br/> [贝儿童品~童装实体店] | [![挑战]][欧泊颗] 9:08       | 2022.06.03 |
+|  困难 |  [锯齿数独][锯齿数独说明]   |                            [锅包肉] <br/> [StuaR] | [![挑战]][锯齿数独] 24:05     | 2022.05.30 |
+| 骨灰级 |   [外提示数独][欧泊颗]    |                           [亮亮超级帅吖] <br/> [锅包肉] | [![挑战]][欧泊颗] 7:27       | 2022.05.30 |
+| 骨灰级 |    [VX数独][欧泊颗]    |                         [☁️安之若素☁️]  <br/> [aa] | [![挑战]][欧泊颗] 7:19       | 2022.05.23 |
+| 骨灰级 |   [摩天楼数独][欧泊颗]    |                            [六帥] <br/> [亮亮超级帅吖] | [![挑战]][欧泊颗] 15:08      | 2022.04.12 |
+|   - |     [算24数独][]     |                         [丨X丶D灬小强] <br/> [a00群] | [![挑战]][算24数独] 2500 s   | 2022.04.12 |
+|   - | [不连续数独][不连续数独说明]  |                              [六帥] <br/> [呛了个强] | [![挑战]][不连续数独] 649 s    | 2022.02.28 |
+| 骨灰级 |  [窗口数独][窗口数独说明]   |                       [亮亮超级帅吖] <br/> [丨X丶D灬小强] | [![挑战]][欧泊颗] 12:24      | 2022.02.28 |
+|   - |     [电子表数独][]     |                   [丨X丶D灬小强] <br/> [水城][威尼斯 游子] | [![挑战]][电子表数独] 277 s    | 2022.03.28 |
+|   - |     [金字塔数独][]     |                     [☁️安之若素☁️] <br/> [丨X丶D灬小强] | [![挑战]][金字塔数独] 504 s    | 2022.02.28 |
+| 骨灰级 |   [对角线数独][欧泊颗]    |                               [仕灯白] <br/> [六帥] | [![挑战]][欧泊颗] 8:46       | 2022.01.24 |
+| 骨灰级 |  [数比对角杀手数独][欧泊颗]  |                            [君子如玉] <br/> [大吉大利] | [![挑战]][欧泊颗] 17:50      | 2022.01.10 |
+|   - |    [2015 数独][]    |                            [威尼斯 游子] <br/> [在熙] | [![挑战]][2015 数独] 1023 s | 2022.01.10 |
+<!-- markdownlint-enable MD013 -->
 
 > 抖音群
+>
 > - 标准数独（入门）：428851089544
 > - 标准数独（困难）：104307233179
 > - 非标数独：       320612712468
 
-[comment]: <> (用户名)
+<!-- 用户 -->
 
 [烧脑数独|杳月]: https://www.douyin.com/user/MS4wLjABAAAAp0G7R9sryGmDiYJ2X9whbMDB34rrkln-wdYjrHhmd8s
 
@@ -77,8 +80,6 @@
 
 [威尼斯 游子]: https://www.douyin.com/user/MS4wLjABAAAA3kUIeVO_WtPzBMav51WnpiIORWVg8Hap4n9b2pqRFDDsFLyUrFHL0bwSCHW3bcRu
 
-[旷世情缘]: https://www.douyin.com/user/MS4wLjABAAAAsfKk7sXqd4_Vw8dF0EHf0d5lNXqCZHOYeHDbNpjo1Yo
-
 [游戏时空]: https://www.douyin.com/user/MS4wLjABAAAAClE8Wxycs_YCw-_Muz9Y1d4pQFCXJuHaTF_aV_m8bqctMZDXLbv273fVs2ONhunA
 
 [亮亮超级帅吖]: https://www.douyin.com/user/MS4wLjABAAAAUAu42n-WJ8eCFzEmrjF_9I6Ga6HMBCDqoIjuisR0XMY
@@ -87,29 +88,17 @@
 
 [六帥]: https://www.douyin.com/user/MS4wLjABAAAAa42yXW6piGVSOQzqt8QaPvNJyd76hirRqrd2g2JLg28
 
-[夏曦]: https://www.douyin.com/user/MS4wLjABAAAAhHIxsZ95S5Fu2tZAbptzZCI7uVaboHKfgoamViuhcXg
-
 [a00群]: https://www.douyin.com/user/MS4wLjABAAAAoUvD1RKV1KJP9xG6vcN7FJiGhCRzPaIRj9195-Ks88A
 
 [呛了个强]: https://www.douyin.com/user/MS4wLjABAAAAIfAl4D-i7Qs54sw7BolNGdrYR7G4geNA1-n0Hmid7iE
-
-[아빠]: https://www.douyin.com/user/MS4wLjABAAAAS5AQZdZFhHuNpf9nnDmz7Nq4oNa3PguLAzu0vH354frJyrxRPmuy7_S6yZl0vxgX
 
 [老王]: https://www.douyin.com/user/MS4wLjABAAAAmYEOeMJVGc0WJG-9gT7zjQGlJijUTWp6wKZsHL8g9Tw
 
 [西海贝壳]: https://www.douyin.com/user/MS4wLjABAAAA2vQad7W6MEZsLm7K8QdphruVt6Ws6R0wrki_Clve15E
 
-[德尔康]: https://www.douyin.com/user/MS4wLjABAAAAua1veWiJHEnzBN4iijjVV3QkTXLWz6Pf9ttSM4qliEZaoTaq7wuU09N7mcEABdBJ
-
 [贝儿童品~童装实体店]: https://www.douyin.com/user/MS4wLjABAAAAEZhTUqew4r8FTqs7JPckH6985gOjhxkkl8PRVDmBCl4
 
-[繁华]: https://www.douyin.com/user/MS4wLjABAAAA0KOe2c7czLly5Idmv0B5QHPCl_dAM9JD5cM4PFY7mR0
-
-[一目ぼれする]: https://www.douyin.com/user/MS4wLjABAAAAsnKmx9Ag5Kz7aMCPi9dwSIeXoBfrkCR4f20-UWA2Yom0wTCcHe6igRsH052va3KP
-
 [aa]: https://www.douyin.com/user/MS4wLjABAAAA4Vc8VIRaZDgV8D2tmbsa1W-3kr5Cd8x7SRUUKo1eqZH74zfF8KxxbVjRDE40judr
-
-[德尔康]: https://www.douyin.com/user/MS4wLjABAAAAua1veWiJHEnzBN4iijjVV3QkTXLWz6Pf9ttSM4qliEZaoTaq7wuU09N7mcEABdBJ
 
 [锅包肉]: https://www.douyin.com/user/MS4wLjABAAAA3VFpYNMbfQBrmcNT-q04ESifBSu8iTm2-1I1hG2ZzZU
 
@@ -119,13 +108,9 @@
 
 [爱🚬的panda]: https://www.douyin.com/user/MS4wLjABAAAAeT-8z0D9vazZfw1bMdxR5Toz4-G7NXpCChZTjhasa2Q
 
-[我想静静]: https://www.douyin.com/user/MS4wLjABAAAAlDZleE_Xh8NQKZ3G1rPlzsA0xE4RFHB-hxQrNHIfTjA
-
 [柚木提娜]: https://www.douyin.com/user/MS4wLjABAAAAN-a-87YZx_Fv7q7-dmqnautsdJVgpfCDKWKWYBj6kYU
 
 [风幻想]: https://www.douyin.com/user/MS4wLjABAAAAwFiyKr4omGhKmfJJtNjGtigNJaRMcQVP31nbiuayS2w
-
-[优秀]: https://www.douyin.com/user/MS4wLjABAAAApjRJ56xjHWT0wG7x6aSIbAT49rGr6nOZYRfm_bXEaQU
 
 [愤怒的小boss]: https://www.douyin.com/user/MS4wLjABAAAAoW1HxpaalhUEaILfKbDLUyB29KdJf1Q6EXMONdlVLyr0p6NU5Erq1_uD8A9oub5y
 
@@ -133,13 +118,9 @@
 
 [李子]: https://www.douyin.com/user/MS4wLjABAAAAXRc4Y6ZgQTQI1YJkOLR569t1gBgP7bv8zpxkHSAssZGRBH_Gl7T4BsaC7tr0AnP1
 
-[comment]: <> (标准数独)
-
-[蓝天初心级]: https://www.oubk.com/super-sudoku/super-easy
+<!-- 题库 -->
 
 [轻度骨灰级]: https://www.oubk.com/super-sudoku/insane
-
-[comment]: <> (PK 平台)
 
 [欧泊颗]: https://p.oubk.com/pk
 
@@ -192,7 +173,5 @@
 [牛郎织女数独]: 非标数独/9宫/候选类/牛郎织女数独.md
 
 [三明治数独]: 非标数独/9宫/计算类/外提示类/三明治数独.md
-
-[comment]: <> (图片资源)
 
 [挑战]: images/挑战20x20.png
