@@ -76,7 +76,7 @@
 - [Sudoku Kingdom](https://sudokukingdom.com/)
 - [Sudoku Puzzle](https://cn.sudokupuzzle.org/)
 
-#### 微信小程序
+### 微信小程序
 
 > 复制右侧链接，可在微信中直接打开小程序
 
