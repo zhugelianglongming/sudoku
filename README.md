@@ -1,5 +1,7 @@
 # 数独资源
 
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/zhugelianglongming/sudoku/main.svg)](https://results.pre-commit.ci/latest/github/zhugelianglongming/sudoku/main)
+
 收录数独资源
 
 - 根据标准数独、非标准数独进行分类
