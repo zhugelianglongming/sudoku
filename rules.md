@@ -1,4 +1,50 @@
 # 常见规则说明
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## 目录
+
+- [共边平行路](#%E5%85%B1%E8%BE%B9%E5%B9%B3%E8%A1%8C%E8%B7%AF)
+  - [棱](#%E6%A3%B1)
+- [上斜线](#%E4%B8%8A%E6%96%9C%E7%BA%BF)
+  - [上对角线](#%E4%B8%8A%E5%AF%B9%E8%A7%92%E7%BA%BF)
+- [下斜线](#%E4%B8%8B%E6%96%9C%E7%BA%BF)
+  - [下对角线](#%E4%B8%8B%E5%AF%B9%E8%A7%92%E7%BA%BF)
+- [对角线](#%E5%AF%B9%E8%A7%92%E7%BA%BF)
+  - [对角线约束](#%E5%AF%B9%E8%A7%92%E7%BA%BF%E7%BA%A6%E6%9D%9F)
+  - [反对角线约束](#%E5%8F%8D%E5%AF%B9%E8%A7%92%E7%BA%BF%E7%BA%A6%E6%9D%9F)
+- [1to9填充](#1to9%E5%A1%AB%E5%85%85)
+- [1toG填充](#1tog%E5%A1%AB%E5%85%85)
+- [1to8填充](#1to8%E5%A1%AB%E5%85%85)
+- [1to6填充](#1to6%E5%A1%AB%E5%85%85)
+- [9选6填充](#9%E9%80%896%E5%A1%AB%E5%85%85)
+- [全盘9选6填充](#%E5%85%A8%E7%9B%989%E9%80%896%E5%A1%AB%E5%85%85)
+- [1to9不重复](#1to9%E4%B8%8D%E9%87%8D%E5%A4%8D)
+- [1to8不重复](#1to8%E4%B8%8D%E9%87%8D%E5%A4%8D)
+- [0to9不重复](#0to9%E4%B8%8D%E9%87%8D%E5%A4%8D)
+- [摩天楼](#%E6%91%A9%E5%A4%A9%E6%A5%BC)
+- [摩天楼观测数](#%E6%91%A9%E5%A4%A9%E6%A5%BC%E8%A7%82%E6%B5%8B%E6%95%B0)
+- [摩天和](#%E6%91%A9%E5%A4%A9%E5%92%8C)
+- [邻格](#%E9%82%BB%E6%A0%BC)
+  - [共边邻格](#%E5%85%B1%E8%BE%B9%E9%82%BB%E6%A0%BC)
+  - [对角邻格](#%E5%AF%B9%E8%A7%92%E9%82%BB%E6%A0%BC)
+- [连续](#%E8%BF%9E%E7%BB%AD)
+  - [正交连续](#%E6%AD%A3%E4%BA%A4%E8%BF%9E%E7%BB%AD)
+  - [斜连续](#%E6%96%9C%E8%BF%9E%E7%BB%AD)
+- [黑白点](#%E9%BB%91%E7%99%BD%E7%82%B9)
+- [数比](#%E6%95%B0%E6%AF%94)
+- [无缘](#%E6%97%A0%E7%BC%98)
+- [士步](#%E5%A3%AB%E6%AD%A5)
+- [马步](#%E9%A9%AC%E6%AD%A5)
+  - [马步约束](#%E9%A9%AC%E6%AD%A5%E7%BA%A6%E6%9D%9F)
+  - [马步中心](#%E9%A9%AC%E6%AD%A5%E4%B8%AD%E5%BF%83)
+- [象步](#%E8%B1%A1%E6%AD%A5)
+- [前X和](#%E5%89%8Dx%E5%92%8C)
+- [边框和](#%E8%BE%B9%E6%A1%86%E5%92%8C)
+- [奇偶星](#%E5%A5%87%E5%81%B6%E6%98%9F)
+- [骨牌](#%E9%AA%A8%E7%89%8C)
+  - [1to9骨牌填充](#1to9%E9%AA%A8%E7%89%8C%E5%A1%AB%E5%85%85)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 共边平行路
 

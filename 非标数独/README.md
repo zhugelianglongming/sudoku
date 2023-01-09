@@ -1,4 +1,15 @@
 # 非标数独索引
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## 目录
+
+- [9选6](#9%E9%80%896)
+- [0-9](#0-9)
+- [不连续](#%E4%B8%8D%E8%BF%9E%E7%BB%AD)
+- [窗口](#%E7%AA%97%E5%8F%A3)
+- [杀手](#%E6%9D%80%E6%89%8B)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 9选6
 
