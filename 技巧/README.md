@@ -1,4 +1,40 @@
 # 数独技巧
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## 目录
+
+- [入门级](#%E5%85%A5%E9%97%A8%E7%BA%A7)
+  - [摒除法](#%E6%91%92%E9%99%A4%E6%B3%95)
+  - [唯余法](#%E5%94%AF%E4%BD%99%E6%B3%95)
+- [初级](#%E5%88%9D%E7%BA%A7)
+  - [区块摒除](#%E5%8C%BA%E5%9D%97%E6%91%92%E9%99%A4)
+- [中级](#%E4%B8%AD%E7%BA%A7)
+  - [隐性数组](#%E9%9A%90%E6%80%A7%E6%95%B0%E7%BB%84)
+  - [显性数组](#%E6%98%BE%E6%80%A7%E6%95%B0%E7%BB%84)
+- [高级](#%E9%AB%98%E7%BA%A7)
+  - [区块数组](#%E5%8C%BA%E5%9D%97%E6%95%B0%E7%BB%84)
+  - [鱼](#%E9%B1%BC)
+  - [待定数组（基础）](#%E5%BE%85%E5%AE%9A%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80)
+  - [链（基础）](#%E9%93%BE%E5%9F%BA%E7%A1%80)
+    - [标准链](#%E6%A0%87%E5%87%86%E9%93%BE)
+- [骨灰级](#%E9%AA%A8%E7%81%B0%E7%BA%A7)
+  - [致命结构](#%E8%87%B4%E5%91%BD%E7%BB%93%E6%9E%84)
+  - [待定死锁集合](#%E5%BE%85%E5%AE%9A%E6%AD%BB%E9%94%81%E9%9B%86%E5%90%88)
+  - [待定唯一矩形](#%E5%BE%85%E5%AE%9A%E5%94%AF%E4%B8%80%E7%9F%A9%E5%BD%A2)
+  - [毛刺](#%E6%AF%9B%E5%88%BA)
+  - [链（高级）](#%E9%93%BE%E9%AB%98%E7%BA%A7)
+    - [超标准链](#%E8%B6%85%E6%A0%87%E5%87%86%E9%93%BE)
+    - [强制链组](#%E5%BC%BA%E5%88%B6%E9%93%BE%E7%BB%84)
+    - [环](#%E7%8E%AF)
+    - [动态链](#%E5%8A%A8%E6%80%81%E9%93%BE)
+  - [涂色法](#%E6%B6%82%E8%89%B2%E6%B3%95)
+  - [袋鼠](#%E8%A2%8B%E9%BC%A0)
+  - [鱼雷](#%E9%B1%BC%E9%9B%B7)
+  - [待定数组（高级）](#%E5%BE%85%E5%AE%9A%E6%95%B0%E7%BB%84%E9%AB%98%E7%BA%A7)
+  - [Template](#template)
+- [流派](#%E6%B5%81%E6%B4%BE)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 > [技巧图谱](https://www.processon.com/embed/61c17b5f0791290c9efaf141)
 >

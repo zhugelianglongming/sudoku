@@ -1,4 +1,13 @@
 # 全盘多数技巧
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## 目录
+
+- [2 个数](#2-%E4%B8%AA%E6%95%B0)
+- [3 个数](#3-%E4%B8%AA%E6%95%B0)
+- [多个数](#%E5%A4%9A%E4%B8%AA%E6%95%B0)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## 2 个数
 

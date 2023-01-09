@@ -1,12 +1,21 @@
 # 抖音挑战排行榜
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## 目录
 
-## 双人组队赛
+- [参加方式](#%E5%8F%82%E5%8A%A0%E6%96%B9%E5%BC%8F)
+- [排行榜](#%E6%8E%92%E8%A1%8C%E6%A6%9C)
+  - [双人组队赛](#%E5%8F%8C%E4%BA%BA%E7%BB%84%E9%98%9F%E8%B5%9B)
+    - [标准数独](#%E6%A0%87%E5%87%86%E6%95%B0%E7%8B%AC)
+    - [非标数独](#%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC)
 
-### 参加方式
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## 参加方式
 
 1. 抖音搜索" 数独-烧脑杳月 "，[直播间][烧脑数独|杳月]上麦组队解题
 2. 选择题型后，除直观数外，每个步骤需提供推理思路，主播进行确认以及填数
-3. 解题时间以解题平台记录为准，仅记录每个类型的最快解题者
+3. 解题时间以解题平台记录为准，仅记录每个类型的最快解题者/组合
 4. 比赛以娱乐为主，主播可能视情况提供提示
 
 > - 解释权归主播所有，233333~
@@ -14,7 +23,9 @@
 >   - [欧泊颗]
 >   - [三思数独]
 
-### 排行榜
+## 排行榜
+
+### 双人组队赛
 
 #### 标准数独
 

@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "00691c1c30ca960e",
+    "type": "split",
+    "children": [
+      {
+        "id": "388ef60ed4a83211",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "750e8ad12eb79598",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "182aa129f94536de",
+    "type": "split",
+    "children": [
+      {
+        "id": "5fbafc39dbf9e534",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db9fd4829c0b738a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "34c384e6e34f83ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8479b5bdc2070535",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "958b745bb454bb94",
+    "type": "split",
+    "children": [
+      {
+        "id": "562ed94a61ac5afc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a1ca5d4d674ef57",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0baaef0a1213b108",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d9a2353fd269fdd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b15f0dd3e732c06e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "750e8ad12eb79598",
+  "lastOpenFiles": [
+    "关系/关系.md",
+    "Level2/标准链.md",
+    "关系/同单元格异数强关系.md",
+    "关系/同单元格异数弱关系.md",
+    "关系/同区域同数强关系.md",
+    "关系/同区域异数强关系.md",
+    "关系/同区域异数弱关系.md",
+    "关系/同区域同数弱关系.md",
+    "一度 SdC(双区域跨区数组).md",
+    "Level1/数组.md"
+  ]
+}
