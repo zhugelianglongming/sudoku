@@ -1,3 +1,5 @@
+<!-- DOCTOC SKIP -->
+
 # 目录
 
 * [介绍](README.md)
