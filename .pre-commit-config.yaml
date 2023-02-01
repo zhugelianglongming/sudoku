@@ -4,6 +4,10 @@ repos:
     hooks:
       - id: check-yaml
       - id: end-of-file-fixer
+        exclude: |
+          (?x)^(
+              .obsidian/.*.json
+          )$
       - id: trailing-whitespace
       - id: check-ast
       - id: check-builtin-literals
@@ -19,6 +23,14 @@ repos:
         args:
           - --title
           - '## 目录'
+          - --github
+
+  - repo: https://github.com/thlorenz/doctoc
+    rev: v2.2.0
+    hooks:
+      - id: doctoc
+        args:
+          - --title=## 目录
           - --github
 
   - repo: https://github.com/igorshubovych/markdownlint-cli

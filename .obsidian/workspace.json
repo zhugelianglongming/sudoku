@@ -21,8 +21,12 @@
             "id": "d133e8e9eea3ba00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "非标数独/9宫/额外区域类/绝对区域/额外宫类/百分比数独.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -55,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#斜线",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +75,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "7c94903a20a7b0e8",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -92,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "非标数独/9宫/额外区域类/绝对区域/额外宫类/百分比数独.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "非标数独/9宫/额外区域类/绝对区域/额外宫类/百分比数独.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,27 +144,39 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "非标数独/9宫/额外区域类/绝对区域/额外宫类/百分比数独.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
   },
   "active": "d133e8e9eea3ba00",
   "lastOpenFiles": [
+    "非标数独/9宫/额外区域类/绝对区域/额外宫类/斜井数独.md",
+    "非标数独/9宫/额外区域类/绝对区域/小五星数独.md",
+    "非标数独/9宫/计算类/外提示类/唯一小杀手数独.md",
+    "非标数独/9宫/混合类/彩虹+锯齿数独.md",
     "非标数独/9宫/混合类/杀手+对角数独.md",
     "非标数独/9宫/计算类/内提示类/四数和数独.md",
     "邻格限制.md",
     "非标数独/9宫/额外区域类/相对区域/扫雷/邻里数独.md",
     "非标数独/9宫/计算类/内提示类/肯肯数独.md",
-    "非标数独/9宫/计算类/内提示类/单标类/连续类/全标连续数独.md",
-    "非标数独/9宫/计算类/外提示类/X位差数独.md",
-    "非标数独/9宫/计算类/外提示类/9后和数独.md",
-    "非标数独/9宫/计算类/外提示类/摆骨独.md",
-    "非标数独/9宫/比大小类/最大邻居.md"
+    "非标数独/9宫/计算类/内提示类/单标类/连续类/全标连续数独.md"
   ]
 }

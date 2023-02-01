@@ -23,7 +23,8 @@
 
 ### GitHub
 
-访问 [目录索引](SUMMARY.md)
+- 【推荐】访问 [Pages 页面](https://zhugelianglongming.github.io/sudoku/)
+- 访问源文件 [目录索引](SUMMARY.md)
 
 ### 脑图
 
