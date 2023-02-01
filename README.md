@@ -110,4 +110,3 @@
 - 数独星空 `#小程序://数独星空/TYOXr9SLNGQlDmx`
 - 我爱玩数独 `#小程序://玩数独/fUS6ycOThsmz4jB`
 - ~~变形数独 `#小程序://变形数独/高端数独/3QQ2xclTUJ6u2bc`~~
-](https://github.com/zhugelianglongming/sudoku/edit/main/README.md)
