@@ -21,8 +21,12 @@
             "id": "d133e8e9eea3ba00",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "非标数独/9宫/计算类/外提示类/唯一小杀手数独.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -71,8 +75,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "78c85cd557c6a33d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -92,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "非标数独/9宫/计算类/外提示类/唯一小杀手数独.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "非标数独/9宫/计算类/外提示类/唯一小杀手数独.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,15 +144,35 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "非标数独/9宫/计算类/外提示类/唯一小杀手数独.md"
+              }
+            }
+          },
+          {
+            "id": "870dee140dd9a335",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
   },
   "active": "d133e8e9eea3ba00",
   "lastOpenFiles": [
