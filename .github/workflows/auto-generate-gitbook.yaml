@@ -28,6 +28,7 @@ jobs:
           sed -i -e '/\[comment\]/'d -e '/^[[:space:]]*$/'d -e 's/\([^d]\))/\1\/README.md)/g' -e 's/题型分类/\[题型分类\](catagory.md)/g' SUMMARY.md
           cp SUMMARY.md catagory.md
           sed -i 's/SUMMARY.md/catagory.md/g' README.md
+          find . -type f -name '*.md' -exec sed -i s@'- #'@'- \\#'@g  {} \;
           gitbook build
           cp SUMMARY.md _book
 
