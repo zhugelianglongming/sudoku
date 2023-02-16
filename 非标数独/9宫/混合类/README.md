@@ -5,7 +5,6 @@
 
 - [9选6](#9%E9%80%896)
 - [0-9](#0-9)
-- [10-in-9](#10-in-9)
 - [159](#159)
 - [四则运算](#%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97)
   - [加法](#%E5%8A%A0%E6%B3%95)
@@ -15,6 +14,7 @@
   - [黑白点](#%E9%BB%91%E7%99%BD%E7%82%B9)
   - [N和差](#n%E5%92%8C%E5%B7%AE)
 - [奇偶](#%E5%A5%87%E5%81%B6)
+- [熵](#%E7%86%B5)
 - [数比](#%E6%95%B0%E6%AF%94)
 - [连续](#%E8%BF%9E%E7%BB%AD)
   - [全标连续](#%E5%85%A8%E6%A0%87%E8%BF%9E%E7%BB%AD)
@@ -45,10 +45,7 @@
 
 - [0-9黑白点][]
 - [0-9边框和][]
-
-## 10-in-9
-
-> [LMD](https://logic-masters.de/Raetselportal/Suche/erweitert.php?tag_id=9401)
+- LMD: [10-in-9](https://logic-masters.de/Raetselportal/Suche/erweitert.php?tag_id=9401)
 
 ## 159
 
@@ -90,6 +87,10 @@
 ## 奇偶
 
 - [数学数独][]
+
+## 熵
+
+- LMD: [Entropy](https://logic-masters.de/Raetselportal/Suche/erweitert.php?tag_id=9913)
 
 ## 数比
 
