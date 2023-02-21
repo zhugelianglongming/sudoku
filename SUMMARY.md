@@ -3,7 +3,7 @@
 # 目录
 
 * [介绍](README.md)
-* [规则](rules.md)
+* [规则](rules/rules.md)
 * [技巧](技巧/README.md)
   * [技巧分类](技巧/分类/README.md)
     * 单格

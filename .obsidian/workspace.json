@@ -84,8 +84,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,7 +173,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "d133e8e9eea3ba00",
+  "active": "4d8c281adb2b9390",
   "lastOpenFiles": [
     "非标数独/9宫/混合类/杀手+对角数独.md",
     "非标数独/9宫/计算类/内提示类/四数和数独.md",

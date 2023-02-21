@@ -28,5 +28,5 @@
 
 - [独·数之道](http://www.sudokufans.org.cn/lx/game.index.php?type=vxc) 【需要登录】
 
-[1~9填充]: ../../../../../../rules.md#1to9填充
-[共边邻格]: ../../../../../../rules.md#共边邻格
+[1~9填充]: ../../../../../../rules/rules.md#1to9填充
+[共边邻格]: ../../../../../../rules/rules.md#共边邻格

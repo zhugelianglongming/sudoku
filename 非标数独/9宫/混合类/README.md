@@ -19,6 +19,7 @@
 - [连续](#%E8%BF%9E%E7%BB%AD)
   - [全标连续](#%E5%85%A8%E6%A0%87%E8%BF%9E%E7%BB%AD)
   - [半标连续](#%E5%8D%8A%E6%A0%87%E8%BF%9E%E7%BB%AD)
+- [Renban](#renban)
 - [分段和](#%E5%88%86%E6%AE%B5%E5%92%8C)
 - [边框和](#%E8%BE%B9%E6%A1%86%E5%92%8C)
 - [前X数和](#%E5%89%8Dx%E6%95%B0%E5%92%8C)
@@ -105,6 +106,10 @@
 ### 半标连续
 
 > [半标连续数独](../计算类/内提示类/单标类/连续类/半标连续数独.md)
+
+## Renban
+
+- LMD: [Renban](https://logic-masters.de/Raetselportal/Suche/erweitert.php?tag_id=9031)
 
 ## 分段和
 
