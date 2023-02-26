@@ -27,12 +27,12 @@
 
 - [今日数独]【选题不便】
 
-[1~9填充]: ../../../rules.md#1to9填充
+[1~9填充]: ../../../rules/rules.md#1to9填充
 
-[共边邻格]: ../../../rules.md#共边邻格
+[共边邻格]: ../../../rules/rules.md#共边邻格
 
-[数比]: ../../../rules.md#数比
+[数比]: ../../../rules/rules.md#数比
 
-[前X和]: ../../../rules.md#前X和
+[前X和]: ../../../rules/rules.md#前X和
 
 [今日数独]: https://cn.sudoku.today/g-hybrid-sudoku-x-sums-greater-than/

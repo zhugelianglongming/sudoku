@@ -32,10 +32,10 @@
 
 - [独·数之道](http://www.sudokufans.org.cn/lx/game.index.php?type=iso) 【需要登录】
 
-[1~9填充]: ../../../../rules.md#1to9填充
+[1~9填充]: ../../../../rules/rules.md#1to9填充
 
-[1~9不重复]: ../../../../rules.md#1to9不重复
+[1~9不重复]: ../../../../rules/rules.md#1to9不重复
 
-[上斜线]: ../../../../rules.md#上斜线
+[上斜线]: ../../../../rules/rules.md#上斜线
 
-[下斜线]: ../../../../rules.md#下斜线
+[下斜线]: ../../../../rules/rules.md#下斜线

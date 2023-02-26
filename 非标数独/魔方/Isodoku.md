@@ -34,8 +34,8 @@
 
 - [三面数独](三面数独.md)
 
-[1~8填充]: ../../rules.md#1to8填充
+[1~8填充]: ../../rules/rules.md#1to8填充
 
-[共边平行路]: ../../rules.md#共边平行路
+[共边平行路]: ../../rules/rules.md#共边平行路
 
 [Grandmaster Puzzles]: https://www.gmpuzzles.com/blog/category/sudoku/isodoku/

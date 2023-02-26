@@ -33,4 +33,4 @@
 
 - [KrazyDad](https://krazydad.com/play/prisoner/)
 
-[1~9填充]: ../../../../../rules.md#1to9填充
+[1~9填充]: ../../../../../rules/rules.md#1to9填充
