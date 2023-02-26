@@ -1,4 +1,5 @@
 # 数独技巧
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## 目录
@@ -36,6 +37,8 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+> [技巧分类](分类/README.md)
+>
 > [技巧图谱](https://www.processon.com/embed/61c17b5f0791290c9efaf141)
 >
 > - 绿色虚线：技巧演进-分析数扩展
@@ -83,7 +86,7 @@
 - 隐性数组 / [Hidden Subset][]
   - 隐性数对 / [Hidden Pair][]
     - 直观隐性数对 / [Direct Hidden Pair][] `参考难度系数`3.4
-          > [练习](https://www.12634.com/learning/direct-hidden-pair/index)
+      > [练习](https://www.12634.com/learning/direct-hidden-pair/index)
       > [练习](https://www.12634.com/learning/hidden-pair/index)
   - 隐性三数组 / 隐性三数集 / [Hidden Triple][]
     - 直观隐性三数集 / [Direct Hidden Triple][] `参考难度系数`4.0
@@ -95,9 +98,9 @@
 - 显性数组 / [Naked Subset][]
   - 一般显性数组
     - 显性数对 / [Naked Pair][] `参考难度系数`3.0
-          > [练习](https://www.12634.com/learning/naked-pair/index)
+      > [练习](https://www.12634.com/learning/naked-pair/index)
     - 显性三数组 / 显性三数集 / [Naked Triple][] `参考难度系数`3.6
-          > [练习](https://www.12634.com/learning/naked-triplet/index)
+      > [练习](https://www.12634.com/learning/naked-triplet/index)
     - 显性四数组 / [Naked Quadruple][] `参考难度系数`5.0
   - 死锁数组 / 割补数组 / [Locked Subset][]
     - 死锁数对 `参考难度系数`2.0
@@ -116,7 +119,7 @@
 - 鱼 / 链列 / [Fish][]
   - 标准鱼
     - 二阶鱼 / 二链列 / ~~X翼~~ / [X-Wing][] `参考难度系数`3.2
-          > [练习](https://www.12634.com/learning/x-wing/index)
+      > [练习](https://www.12634.com/learning/x-wing/index)
     - 三阶鱼 / 剑鱼 / 三链列 / [Swordfish][] `参考难度系数`3.8
     - 四阶鱼 / 水母 / 四链列 / [Jellyfish][] `参考难度系数`5.2
   - 带鳍鱼 / 外鳍鱼 / [Finned Fish][]
@@ -162,7 +165,7 @@
   - 伪数组 / ESP / [Extended Subset Principle][伪数组和跨区数组] `参考难度系数`7.5
   - 跨区数组 / DDS / [Distributed Disjointed Subset][伪数组和跨区数组] `参考难度系数`7.0
     - 融合式待定数组 / 双区域分布式跨区数组 / 一度SDC / SDC / SdC / `SDC Degree 1`
-          / [Sue de Coq](https://zhuanlan.zhihu.com/p/33615105)
+      / [Sue de Coq](https://zhuanlan.zhihu.com/p/33615105)
       - 无公共数型 / 基本融合版本 `参考难度系数`4.8+
       - 共享公共数型 / 带有交互数字的融合版本 `参考难度系数`4.9+
       - 独占公共数型 / 自噬SDC / Cannibalistic SDC `参考难度系数`4.9+
@@ -177,9 +180,9 @@
 - 标准链 / AIC / [Alternating Inference Chain][Common Types Chain] `参考难度系数`5.7+
   - [规则 Wing](https://zhuanlan.zhihu.com/p/33087864)
     - 双分支匹配法 / Y-Wing / [XY-Wing][] `参考难度系数`4.2
-          > [练习](https://www.12634.com/learning/xy-wing/index)
+      > [练习](https://www.12634.com/learning/xy-wing/index)
     - 三分支匹配法 / [XYZ-Wing][] `参考难度系数`4.4
-          > [练习](https://www.12634.com/learning/xyz-wing/index)
+      > [练习](https://www.12634.com/learning/xyz-wing/index)
     - 四分支匹配法 / WXYZ-Wing `参考难度系数`4.6
     - 五分支匹配法 / VWXYZ-Wing `参考难度系数`4.85
     - ~~六分支匹配法 / UVWXYZ-Wing~~
@@ -196,7 +199,7 @@
   - 同数链 / X链 / [X-Chain][] `参考难度系数`4.0+
     - 双强链 / 多宝鱼 / [Turbot Fish][] `参考难度系数`4.2
       - 摩天楼 / 孪生二链列 / [Skyscraper][] `参考难度系数`4.05
-              > [练习](https://www.12634.com/learning/skyscraper/index)
+        > [练习](https://www.12634.com/learning/skyscraper/index)
       - 双线风筝 / [Two Strings Kite][] `参考难度系数`4.1
     - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
   - 双值格链 / 双值格标准链 / [XY-Chain][] `参考难度系数`4.0+
@@ -218,7 +221,7 @@
 - 唯一矩形 / UR / [Unique Rectangle][]
   - 普通唯一矩形
     - 标准型 / [UR Type 1][UR Type 1] `参考难度系数`4.5
-          > [练习](https://www.12634.com/learning/unique-rectangle-type-1/index)
+      > [练习](https://www.12634.com/learning/unique-rectangle-type-1/index)
     - 待定数型 / 区块组型 / [UR Type 2][UR Type 2]
       - UR Type 2A `参考难度系数`4.6
       - 对角待定数型 / UR Type 2B / UR Type 5 `参考难度系数`4.6
@@ -287,9 +290,9 @@
   - 隐性 ALS / HALS / hALS / Hidden ALS
   - 虚ALS / VALS / vALS / [Virtual ALS](https://zhuanlan.zhihu.com/p/33820368)
     - 虚拟显性待定死锁集合 / 虚拟显性ALS / 虚nALS / VNALS / vnALS / Virtual nALS / Virtual Naked ALS / Virtual Naked
-          Almost Locked Set
+      Almost Locked Set
     - 虚拟隐性待定死锁集合 / 虚拟隐性ALS / 虚hALS / VHALS / vhALS / Virtual hALS / Virtual Hidden ALS / Virtual
-          Hidden Almost Locked Set
+      Hidden Almost Locked Set
 - 二次待定数组 / Almost Almost Locked Set / Almost ALS / AALS
 - 三次待定数组 / Almost Almost Almost Locked Set / Almost AALS / AAALS
 - 四次待定数组 / Almost Almost Almost Almost Locked Set / Almost AAALS
@@ -365,7 +368,7 @@
   - 标准环 / ~~环(简称)~~ / [Continuous (Nice) Loop](https://zhuanlan.zhihu.com/p/33887094)
     - 不规则Wing结构的环结构
     - 双值格数组的环结构 / Multi X-Wing
-          / [XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
+      / [XY-Cycle](http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=237)
   - 超标准环 / [Hyper Continuous (Nice) Loop](https://zhuanlan.zhihu.com/p/33917735)
     - 超环置ALS / Hyper Cont. (Nice) Loop With ALS
     - 超环置AUR / Hyper Cont. (Nice) Loop With AUR
@@ -451,18 +454,15 @@
   - Template Set
   - Template Delete
 
-> - [技巧分类](分类/README.md)
-
 ## 流派
 
 - 竞速（面向比赛）
 - 技巧（面向数独难题）
 - 编程（面向数独的计算机程序解决方案）
 
-> - 文字
-    >
-- [数独技巧教程](https://sunnieshine.gitbook.io/sudoku-tutorial/)
+> 文字:
 >
+> - [数独技巧教程](https://sunnieshine.gitbook.io/sudoku-tutorial/)
 > - [独·数之道](http://www.sudokufans.org.cn/forums/topic/69/)
 > - [三思](https://www.12634.com/learning/index)
 > - [数独术语](https://zh.wikipedia.org/wiki/%E6%95%B0%E7%8B%AC%E6%9C%AF%E8%AF%AD)
@@ -477,9 +477,10 @@
 > - [Strategy Families](https://www.sudokuwiki.org/Strategy_Families)
 > - [Sudoku Examples from Xsudo](http://sudoku.allanbarker.com/sweb/examples.htm)
 > - [Terminology](http://sudopedia.enjoysudoku.com/Terminology.html)
-> - 视频
-    >
-- [标准数独技巧教程](https://www.bilibili.com/read/readlist/rl291187)
+>
+> 视频:
+>
+> - [标准数独技巧教程](https://www.bilibili.com/read/readlist/rl291187)
 
 [Hidden Single]: https://sunnieshine.gitbook.io/sudoku-tutorial/002-hidden-single
 
