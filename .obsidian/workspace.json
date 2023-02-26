@@ -23,14 +23,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "非标数独/9宫/计算类/外提示类/唯一小杀手数独.md",
+                "file": "非标数独/9宫/比大小类/之间数独.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "之间数独",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -104,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "非标数独/9宫/计算类/外提示类/唯一小杀手数独.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "非标数独/9宫/计算类/外提示类/唯一小杀手数独.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,9 +140,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "非标数独/9宫/计算类/外提示类/唯一小杀手数独.md"
-              }
+              "state": {}
             }
           },
           {
@@ -173,17 +168,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4d8c281adb2b9390",
+  "active": "560e2a8d2ca23791",
   "lastOpenFiles": [
+    "非标数独/9宫/比大小类/之间数独.md",
+    "非标数独/9宫/README.md",
+    "非标数独/9宫/计算类/外提示类/唯一小杀手数独.md",
     "非标数独/9宫/混合类/杀手+对角数独.md",
     "非标数独/9宫/计算类/内提示类/四数和数独.md",
     "邻格限制.md",
     "非标数独/9宫/额外区域类/相对区域/扫雷/邻里数独.md",
     "非标数独/9宫/计算类/内提示类/肯肯数独.md",
     "非标数独/9宫/计算类/内提示类/单标类/连续类/全标连续数独.md",
-    "非标数独/9宫/计算类/外提示类/X位差数独.md",
-    "非标数独/9宫/计算类/外提示类/9后和数独.md",
-    "非标数独/9宫/计算类/外提示类/摆骨独.md",
-    "非标数独/9宫/比大小类/最大邻居.md"
+    "非标数独/9宫/计算类/外提示类/X位差数独.md"
   ]
 }
