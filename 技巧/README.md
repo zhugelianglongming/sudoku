@@ -59,8 +59,6 @@
   > - 微信小程序：联网数独
   > - 网页：[三思](https://www.12634.com/learning/hs/index)
 
->
-
 ### 唯余法
 
 - 唯余法 / 唯一数 / 唯一法 / Last Value / [Naked Single][] `参考难度系数`2.3
