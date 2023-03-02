@@ -88,6 +88,7 @@
 - [Killer Sudoku Online](https://www.killersudokuonline.com/)
 - [KrazyDad](https://krazydad.com/)
 - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
+- [Str8ts](https://www.str8ts.com/Main_Page)
 - [SUDOKU.HK](https://sudoku.hk/)
 - [Sudoku.com](https://sudoku.com/zh)
 - [Sudoku Kingdom](https://sudokukingdom.com/)
