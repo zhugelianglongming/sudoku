@@ -1,32 +1,18 @@
 {
   "main": {
-    "id": "36797f5ad4620a82",
+    "id": "ef5923f1b8475fd3",
     "type": "split",
     "children": [
       {
-        "id": "48b11878d127dc32",
+        "id": "c93f335641983aa9",
         "type": "tabs",
         "children": [
           {
-            "id": "560e2a8d2ca23791",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "d133e8e9eea3ba00",
+            "id": "fc5fba11b51c3c58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "非标数独/9宫/比大小类/之间数独.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -35,15 +21,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f8c0b79a9637f89f",
+    "id": "b5759a863a758f2b",
     "type": "split",
     "children": [
       {
-        "id": "ca471c415a45c051",
+        "id": "a224b72e2e33589f",
         "type": "tabs",
         "children": [
           {
-            "id": "4d8c281adb2b9390",
+            "id": "5aac6eed66bf8fa5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,12 +39,12 @@
             }
           },
           {
-            "id": "6523ebd3fcd41c37",
+            "id": "02b3b78317d7e079",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "之间数独",
+                "query": "Str",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,37 +54,30 @@
             }
           },
           {
-            "id": "38c691b4f29f01c2",
+            "id": "880bcccc16a6b457",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "78c85cd557c6a33d",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
   "right": {
-    "id": "e96b89a2cc50c467",
+    "id": "ad598900f1876b4e",
     "type": "split",
     "children": [
       {
-        "id": "90879c5d79c21787",
+        "id": "84ea35046f037893",
         "type": "tabs",
         "children": [
           {
-            "id": "18367129e86e4520",
+            "id": "7fc33c17976f9dba",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -114,7 +93,7 @@
             }
           },
           {
-            "id": "3e69146f80898032",
+            "id": "556f852e87fc3780",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -125,7 +104,7 @@
             }
           },
           {
-            "id": "635eda9c977fc397",
+            "id": "edbe09fd3d5bcbf5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -136,23 +115,15 @@
             }
           },
           {
-            "id": "ba5f56ec04273adb",
+            "id": "fd6003fadd0079c0",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {}
             }
-          },
-          {
-            "id": "870dee140dd9a335",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -160,25 +131,22 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-  "active": "560e2a8d2ca23791",
+  "active": "fc5fba11b51c3c58",
   "lastOpenFiles": [
-    "非标数独/9宫/比大小类/之间数独.md",
-    "非标数独/9宫/README.md",
-    "非标数独/9宫/计算类/外提示类/唯一小杀手数独.md",
-    "非标数独/9宫/混合类/杀手+对角数独.md",
-    "非标数独/9宫/计算类/内提示类/四数和数独.md",
-    "邻格限制.md",
-    "非标数独/9宫/额外区域类/相对区域/扫雷/邻里数独.md",
-    "非标数独/9宫/计算类/内提示类/肯肯数独.md",
-    "非标数独/9宫/计算类/内提示类/单标类/连续类/全标连续数独.md",
-    "非标数独/9宫/计算类/外提示类/X位差数独.md"
+    "技巧/图谱/显性数对.md",
+    "技巧/显性数对.md",
+    "update_summary.py",
+    "ranking.md",
+    "images/挑战20x20.png",
+    "非标数独/6宫/计算类/内提示/肯肯数独.md",
+    "非标数独/多边形/Str8ts.md"
   ]
 }
