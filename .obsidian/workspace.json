@@ -10,9 +10,11 @@
           {
             "id": "fc5fba11b51c3c58",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]

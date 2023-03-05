@@ -6,46 +6,17 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [
-    {
-      "query": "path:非标数独/9宫/计算类",
-      "color": {
-        "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:非标数独/9宫/比大小类",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:非标数独/9宫/候选类",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "path:非标数独/9宫/额外区域类",
-      "color": {
-        "a": 1,
-        "rgb": 5402336
-      }
-    }
-  ],
+  "colorGroups": [],
   "collapse-display": true,
-  "showArrow": true,
-  "textFadeMultiplier": -0.1,
-  "nodeSizeMultiplier": 1.48430582682292,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.7069091796875,
-  "repelStrength": 16.1971028645833,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 1.400806794934041,
-  "close": true
+  "linkDistance": 250,
+  "scale": 0.3556045338103337,
+  "close": false
 }
