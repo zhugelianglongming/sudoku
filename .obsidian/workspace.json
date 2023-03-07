@@ -63,8 +63,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +140,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fc5fba11b51c3c58",
+  "active": "5aac6eed66bf8fa5",
   "lastOpenFiles": [
     "技巧/图谱/数组/隐性数组.md",
     "技巧/图谱/数组/显性数组.md",

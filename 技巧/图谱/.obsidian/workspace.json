@@ -62,8 +62,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "39f23cafd7972608",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -152,6 +161,9 @@
   "active": "750e8ad12eb79598",
   "lastOpenFiles": [
     "数组/隐性数对.md",
+    "数组/隐性三数组.md",
+    "Template/【Tpl】技巧.md",
+    "数组/隐性数组.md",
     "关系/关系.md",
     "Level2/标准链.md",
     "关系/同单元格异数强关系.md",
