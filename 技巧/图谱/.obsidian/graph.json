@@ -8,37 +8,30 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Level1",
+      "query": "tag:#Level/1",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "path:Level2",
+      "query": "tag:#Level/2",
       "color": {
         "a": 1,
         "rgb": 14725458
-      }
-    },
-    {
-      "query": "path:Level3",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -1.9,
   "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 4.95892740885417,
+  "lineSizeMultiplier": 2.70711263020833,
   "collapse-forces": false,
-  "centerStrength": 0.9827880859375,
-  "repelStrength": 11.3395182291667,
-  "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 2.2371325938950104,
-  "close": true
+  "centerStrength": 0.630533854166667,
+  "repelStrength": 11.58203125,
+  "linkStrength": 0.357177734375,
+  "linkDistance": 97,
+  "scale": 0.5890546966382734,
+  "close": false
 }
