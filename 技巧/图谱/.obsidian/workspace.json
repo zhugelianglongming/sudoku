@@ -71,8 +71,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,10 +159,19 @@
   },
   "active": "750e8ad12eb79598",
   "lastOpenFiles": [
-    "数组/隐性数对.md",
+    "区块摒除.md",
+    "宫区块摒除.md",
+    "区块.md",
+    "数组/隐性四数组.md",
     "数组/隐性三数组.md",
+    "数组/隐性数对.md",
     "Template/【Tpl】技巧.md",
+    "数组/显性四数组.md",
+    "数组/显性三数组.md",
+    "数组/显性数对.md",
+    "数组/显性数组.md",
     "数组/隐性数组.md",
+    "Level1/摒除法.md",
     "关系/关系.md",
     "Level2/标准链.md",
     "关系/同单元格异数强关系.md",

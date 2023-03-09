@@ -20,6 +20,13 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#Concept",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
     }
   ],
   "collapse-display": false,
@@ -28,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 2.70711263020833,
   "collapse-forces": false,
-  "centerStrength": 0.824951171875,
+  "centerStrength": 0.840169270833333,
   "repelStrength": 15.4459635416667,
   "linkStrength": 1,
   "linkDistance": 97,
-  "scale": 0.48737642951593685,
-  "close": false
+  "scale": 0.44361662915175726,
+  "close": true
 }
