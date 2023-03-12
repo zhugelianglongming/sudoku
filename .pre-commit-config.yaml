@@ -6,7 +6,8 @@ repos:
       - id: end-of-file-fixer
         exclude: |
           (?x)^(
-              .obsidian/.*.json
+              .obsidian/.*|
+              技巧/图谱/.obsidian/.*
           )$
       - id: trailing-whitespace
       - id: check-ast

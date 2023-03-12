@@ -59,8 +59,6 @@
   > - 微信小程序：联网数独
   > - 网页：[三思](https://www.12634.com/learning/hs/index)
 
->
-
 ### 唯余法
 
 - 唯余法 / 唯一数 / 唯一法 / Last Value / [Naked Single][] `参考难度系数`2.3
@@ -566,9 +564,9 @@
 
 [Avoidable Rectangle]: https://zhuanlan.zhihu.com/p/33521739
 
-[XY-Wing]: http://www.sudokufans.org.cn/forums/topic/48/?do=findComment&comment=211
+[XY-Wing]: 图谱/链/标准链/规则Wing/双分支匹配法.md
 
-[XYZ-Wing]: http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=203
+[XYZ-Wing]: 图谱/链/标准链/规则Wing/三分支匹配法.md
 
 [伪数组和跨区数组]: https://zhuanlan.zhihu.com/p/33632335
 
