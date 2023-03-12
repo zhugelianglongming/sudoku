@@ -564,9 +564,9 @@
 
 [Avoidable Rectangle]: https://zhuanlan.zhihu.com/p/33521739
 
-[XY-Wing]: http://www.sudokufans.org.cn/forums/topic/48/?do=findComment&comment=211
+[XY-Wing]: 图谱/链/标准链/规则Wing/双分支匹配法.md
 
-[XYZ-Wing]: http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=203
+[XYZ-Wing]: 图谱/链/标准链/规则Wing/三分支匹配法.md
 
 [伪数组和跨区数组]: https://zhuanlan.zhihu.com/p/33632335
 
