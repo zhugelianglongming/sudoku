@@ -97,6 +97,7 @@
 - [SudokuWiki.org](https://www.sudokuwiki.org/Main_Page)
 - [Sudoku Kingdom](https://sudokukingdom.com/)
 - [Sudoku Puzzle](https://cn.sudokupuzzle.org/)
+- [variantsudoku.top](http://variantsudoku.top/puzzles)
 
 ### 微信小程序
 
