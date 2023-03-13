@@ -181,7 +181,7 @@
       > [练习](https://www.12634.com/learning/xy-wing/index)
     - 三分支匹配法 / [XYZ-Wing][] `参考难度系数`4.4
       > [练习](https://www.12634.com/learning/xyz-wing/index)
-    - 四分支匹配法 / WXYZ-Wing `参考难度系数`4.6
+    - 四分支匹配法 / Bent Quads / WXYZ-Wing `参考难度系数`4.6
     - 五分支匹配法 / VWXYZ-Wing `参考难度系数`4.85
     - ~~六分支匹配法 / UVWXYZ-Wing~~
     - ~~七分支匹配法 / TUVWXYZ-Wing~~
