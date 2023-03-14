@@ -18,6 +18,7 @@
   - [待定数组（基础）](#%E5%BE%85%E5%AE%9A%E6%95%B0%E7%BB%84%E5%9F%BA%E7%A1%80)
   - [链（基础）](#%E9%93%BE%E5%9F%BA%E7%A1%80)
     - [标准链](#%E6%A0%87%E5%87%86%E9%93%BE)
+    - [烟花](#%E7%83%9F%E8%8A%B1)
 - [骨灰级](#%E9%AA%A8%E7%81%B0%E7%BA%A7)
   - [致命结构](#%E8%87%B4%E5%91%BD%E7%BB%93%E6%9E%84)
   - [待定死锁集合](#%E5%BE%85%E5%AE%9A%E6%AD%BB%E9%94%81%E9%9B%86%E5%90%88)
@@ -181,7 +182,7 @@
       > [练习](https://www.12634.com/learning/xy-wing/index)
     - 三分支匹配法 / [XYZ-Wing][] `参考难度系数`4.4
       > [练习](https://www.12634.com/learning/xyz-wing/index)
-    - 四分支匹配法 / WXYZ-Wing `参考难度系数`4.6
+    - 四分支匹配法 / Bent Quads / WXYZ-Wing `参考难度系数`4.6
     - 五分支匹配法 / VWXYZ-Wing `参考难度系数`4.85
     - ~~六分支匹配法 / UVWXYZ-Wing~~
     - ~~七分支匹配法 / TUVWXYZ-Wing~~
@@ -211,6 +212,12 @@
     - 空矩形 / [Empty Rectangle][] `参考难度系数`4.8
     - 区块链 / Grouped AIC
     - 区块不连续环 / Grouped Disc. (Nice) Loop
+
+#### 烟花
+
+- 烟花 / [Fireworks]
+  - 三重烟花 / [Triple Firework]
+  - 四重烟花 / [Quadruple Firework]
 
 ## 骨灰级
 
@@ -600,9 +607,15 @@
 
 [Empty Rectangle]: http://www.sudokufans.org.cn/forums/topic/1053/?do=findComment&comment=4859
 
+[Fireworks]: 图谱/链/烟花/烟花.md
+
+[Triple Firework]: 图谱/链/烟花/三重烟花.md
+
+[Quadruple Firework]: 图谱/链/烟花/四重烟花.md
+
 [Remote Pairs]: http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=471
 
-[Almost Locked Pair]: http://www.sudokufans.org.cn/forums/topic/57/?do=findComment&comment=360
+[Almost Locked Pair]: 图谱/待定数组/欠一数组/欠一数对.md
 
 [毛刺数组]: https://zhuanlan.zhihu.com/p/33820355
 
