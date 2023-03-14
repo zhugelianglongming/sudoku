@@ -29,10 +29,17 @@
       }
     },
     {
-      "query": "tag:#Level/n",
+      "query": "tag:#Level/b",
       "color": {
         "a": 1,
         "rgb": 5431378
+      }
+    },
+    {
+      "query": "tag:#Level/a",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
       }
     }
   ],
@@ -46,6 +53,6 @@
   "repelStrength": 15.4459635416667,
   "linkStrength": 1,
   "linkDistance": 97,
-  "scale": 0.8205018420441825,
+  "scale": 0.5044572008139964,
   "close": true
 }
