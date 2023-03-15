@@ -118,7 +118,6 @@
 - 鱼 / 链列 / [Fish][]
   - 标准鱼
     - 二阶鱼 / 二链列 / ~~X翼~~ / [X-Wing][] `参考难度系数`3.2
-      > [练习](https://www.12634.com/learning/x-wing/index)
     - 三阶鱼 / 剑鱼 / 三链列 / [Swordfish][] `参考难度系数`3.8
     - 四阶鱼 / 水母 / 四链列 / [Jellyfish][] `参考难度系数`5.2
   - 带鳍鱼 / 外鳍鱼 / [Finned Fish][]
@@ -179,9 +178,7 @@
 - 标准链 / AIC / [Alternating Inference Chain][Common Types Chain] `参考难度系数`5.7+
   - [规则 Wing](https://zhuanlan.zhihu.com/p/33087864)
     - 双分支匹配法 / Y-Wing / [XY-Wing][] `参考难度系数`4.2
-      > [练习](https://www.12634.com/learning/xy-wing/index)
     - 三分支匹配法 / [XYZ-Wing][] `参考难度系数`4.4
-      > [练习](https://www.12634.com/learning/xyz-wing/index)
     - 四分支匹配法 / Bent Quads / WXYZ-Wing `参考难度系数`4.6
     - 五分支匹配法 / VWXYZ-Wing `参考难度系数`4.85
     - ~~六分支匹配法 / UVWXYZ-Wing~~
@@ -535,7 +532,7 @@
 
 [宫内鱼]: https://zhuanlan.zhihu.com/p/34808058
 
-[X-Wing]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5196
+[X-Wing]: 图谱/链/鱼/二阶鱼.md
 
 [Swordfish]: https://sunnieshine.gitbook.io/sudoku-tutorial/009-normal-fish#part-3-san-lian-lie-jian-yu-swordfish
 
