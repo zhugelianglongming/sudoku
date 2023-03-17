@@ -598,7 +598,7 @@
 
 [ALS的一般拓展结构]: https://zhuanlan.zhihu.com/p/33770218
 
-[X-Cycle]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5225
+[X-Cycle]: 图谱/链/鱼/复杂鱼/X-Cycle.md
 
 [Guardians]: http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=247
 
