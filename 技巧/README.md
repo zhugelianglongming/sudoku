@@ -200,6 +200,7 @@
     - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
   - 双值格链 / 双值格标准链 / [XY-Chain][] `参考难度系数`4.0+
     - 远程数对 / [Remote Pairs][] `参考难度系数`4.5+
+    - ~~[Y-Wing Chains](https://www.sudokuwiki.org/Y_Wing_Chains)~~
   - 首尾异数链 / 首尾异数标准链 / [XY-X-Chain][Common Types Chain] `参考难度系数`5.7+
   - 自噬链 / [Cannibalistic AIC][Common Types Chain]
   - 不连续环 / [Discontinuous (Nice) Loop][Common Types Chain] `参考难度系数`5.7+
