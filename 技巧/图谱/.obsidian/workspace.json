@@ -16,8 +16,26 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "b27ffda7ebdc288e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "技巧画布.canvas",
+                "viewState": {
+                  "x": 300,
+                  "y": -140.4160998114226,
+                  "zoom": -1.6338721012021027
+                }
+              },
+              "pinned": true
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -46,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "视角",
+                "query": "tag:#Level/2/数量/2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -92,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技巧画布.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技巧画布.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技巧画布.canvas"
+              }
             }
           },
           {
@@ -141,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -158,43 +179,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "750e8ad12eb79598",
+  "active": "b27ffda7ebdc288e",
   "lastOpenFiles": [
+    "Template/【Tpl】技巧.md",
     "染色法/复合色链.md",
-    "链/鱼/复杂鱼/复杂鱼.md",
-    "链/鱼/复杂鱼/X环.md",
-    "染色法/色链.md",
+    "技巧画布.canvas",
+    "欠一数组.md",
+    "链/标准链/远程数对.md",
+    "数组/隐性数组/隐性四数组.md",
+    "数组/数对.md",
+    "数组/显性数组/显性数对.md",
+    "数组/隐性数组/隐性数对.md",
+    "数组/隐性数组/隐性数组.md",
+    "数组/隐性数组/隐性三数组.md",
+    "数组/显性数组/显性四数组.md",
+    "数组/显性数组/显性数组.md",
+    "数组/显性数组/显性三数组.md",
+    "数组/数组.md",
+    "链/标准链/双值格链.md",
+    "待定数组/欠一数组/欠一数对.md",
     "染色法/色分.md",
+    "链/鱼/复杂鱼/复杂鱼.md",
+    "染色法/色链.md",
+    "链/鱼/复杂鱼/X环.md",
+    "共轭对.md",
+    "结构/区块.md",
+    "链/标准链/规则Wing/双分支匹配法.md",
+    "结构/关系/关系.md",
     "链/鱼/标准鱼/二阶鱼.md",
     "链/鱼/标准鱼/标准鱼.md",
-    "关系/关系.md",
     "染色法",
     "链/鱼/复杂鱼",
     "链/鱼/标准鱼",
-    "四阶鱼.md",
-    "链/鱼/标准鱼/三阶鱼.md",
-    "数组/数组.md",
-    "链/标准链/规则Wing/双分支匹配法.md",
-    "链/标准链/规则Wing/三分支匹配法.md",
-    "链/标准链/规则Wing/四分支匹配法.md",
-    "数组/显性数组/显性四数组.md",
-    "链/烟花/四重烟花.md",
-    "链/烟花/三重烟花.md",
-    "链/烟花/烟花.md",
     "链/鱼",
-    "Template/【Tpl】技巧.md",
     "Template",
     "链/烟花",
-    "待定数组/欠一数组/欠一数对.md",
     "待定数组/欠一数组",
     "待定数组",
-    "区块摒除.md",
-    "行列区块摒除.md",
-    "宫区块摒除.md",
     "Pasted image 20230314154611.png",
-    "区块.md",
-    "数组/显性数组/显性数组.md",
-    "数组/显性数组/显性数对.md",
     "链/标准链/规则Wing",
     "链/标准链"
   ]

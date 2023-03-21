@@ -36,6 +36,6 @@
 
 ## 标签
 
-#Level/d
+- #Level/d
 
 > [SudokuWiki.org - X-Cycles](https://www.sudokuwiki.org/X_Cycles)

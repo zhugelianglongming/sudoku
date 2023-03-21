@@ -587,7 +587,7 @@
 
 [X-Chain]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5226
 
-[XY-Chain]: http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=210
+[XY-Chain]: 图谱/链/标准链/双值格链.md
 
 [W-Wing]: http://www.sudokufans.org.cn/forums/topic/83/?do=findComment&comment=625
 
@@ -611,7 +611,7 @@
 
 [Quadruple Firework]: 图谱/链/烟花/四重烟花.md
 
-[Remote Pairs]: http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=471
+[Remote Pairs]: 图谱/链/标准链/远程数对.md
 
 [Almost Locked Pair]: 图谱/待定数组/欠一数组/欠一数对.md
 

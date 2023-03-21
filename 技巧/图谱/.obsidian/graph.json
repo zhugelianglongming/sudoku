@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "tag:#Level/b1",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
     }
   ],
   "collapse-display": false,
@@ -77,10 +84,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 2.70711263020833,
   "collapse-forces": false,
-  "centerStrength": 0.840169270833333,
+  "centerStrength": 0.600179036458333,
   "repelStrength": 15.4459635416667,
   "linkStrength": 1,
   "linkDistance": 97,
-  "scale": 0.7940586382786211,
-  "close": true
+  "scale": 0.3100910269701664,
+  "close": false
 }

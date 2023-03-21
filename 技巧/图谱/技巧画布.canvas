@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"type":"group","label":"数组","id":"54586bfc7b770707","x":-600,"y":-80,"width":1800,"height":1340},
+		{"type":"file","file":"数组/数对.md","id":"c8fdb817c6abab6c","x":-140,"y":-40,"width":400,"height":400,"color":"2"},
+		{"type":"file","file":"数组/隐性数组/隐性数对.md","id":"84f0b95b673f2d44","x":-140,"y":400,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"数组/数组.md","id":"2efc0502614c190a","x":-580,"y":-40,"width":400,"height":400,"color":"1"},
+		{"type":"file","file":"数组/隐性数组/隐性数组.md","id":"cdcc2a093a086220","x":-580,"y":400,"width":400,"height":400,"color":"3"},
+		{"type":"file","file":"数组/显性数组/显性数组.md","id":"17ca93e244ec9a07","x":-580,"y":840,"width":400,"height":400,"color":"3"},
+		{"type":"file","file":"数组/显性数组/显性数对.md","id":"64f85616fe179aa4","x":-140,"y":840,"width":400,"height":400,"color":"4"},
+		{"type":"file","file":"数组/隐性数组/隐性三数组.md","id":"57a4efcbe8f0ff01","x":300,"y":400,"width":400,"height":400,"color":"4"},
+		{"id":"746622ae6b8273fa","x":740,"y":400,"width":400,"height":400,"color":"4","type":"file","file":"数组/隐性数组/隐性四数组.md"},
+		{"id":"79c3d82ffa91cfdc","x":300,"y":840,"width":400,"height":400,"color":"4","type":"file","file":"数组/显性数组/显性三数组.md"},
+		{"id":"0e6b0e168ba9e815","x":740,"y":840,"width":400,"height":400,"color":"4","type":"file","file":"数组/显性数组/显性四数组.md"},
+		{"id":"61234cb591d3be6f","x":-1560,"y":-40,"width":400,"height":400,"type":"file","file":"待定数组/欠一数组/欠一数对.md"},
+		{"id":"f6924789fe7159a1","x":-840,"y":-920,"width":400,"height":400,"type":"file","file":"链/标准链/远程数对.md"}
+	],
+	"edges":[
+		{"id":"0d5336f578a773d4","fromNode":"61234cb591d3be6f","fromSide":"top","toNode":"f6924789fe7159a1","toSide":"bottom"},
+		{"id":"e3651699a0e6ed92","fromNode":"c8fdb817c6abab6c","fromSide":"top","toNode":"f6924789fe7159a1","toSide":"bottom"},
+		{"id":"c8696aa31e465329","fromNode":"84f0b95b673f2d44","fromSide":"right","toNode":"57a4efcbe8f0ff01","toSide":"left"},
+		{"id":"fb6842b78a2a2105","fromNode":"57a4efcbe8f0ff01","fromSide":"right","toNode":"746622ae6b8273fa","toSide":"left"},
+		{"id":"d29cdd7f6008b912","fromNode":"64f85616fe179aa4","fromSide":"right","toNode":"79c3d82ffa91cfdc","toSide":"left"},
+		{"id":"37129b57aa56c5b9","fromNode":"79c3d82ffa91cfdc","fromSide":"right","toNode":"0e6b0e168ba9e815","toSide":"left"}
+	]
+}
