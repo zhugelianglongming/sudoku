@@ -76,6 +76,13 @@
         "a": 1,
         "rgb": 14701138
       }
+    },
+    {
+      "query": "tag:#Level/d2",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": false,

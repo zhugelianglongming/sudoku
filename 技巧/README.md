@@ -55,15 +55,10 @@
 - 摒除法 / 排除法 / [Hidden Single]
   - 宫摒除 / [Hidden Single in Box][] `参考难度系数`1.2
   - 行列摒除 / [Hidden Single in Row/Column] `参考难度系数`1.5
-  > 练习
-  >
-  > - 微信小程序：联网数独
-  > - 网页：[三思](https://www.12634.com/learning/hs/index)
 
 ### 唯余法
 
 - 唯余法 / 唯一数 / 唯一法 / Last Value / [Naked Single][] `参考难度系数`2.3
-  > [练习](http://www.sudokufans.org.cn/tools/finder.php)
 
 ## 初级
 
@@ -72,10 +67,8 @@
 - 区块摒除 / [Locked Candidates][]
   - 宫区块摒除法 / [Pointing][]
     - 直观宫区块摒除法 / [Direct Pointing] `参考难度系数`1.7
-      > [练习](https://www.12634.com/learning/pointing/index)
   - 行列区块摒除法 / [Claiming][]
     - 直观列区块摒除法 / [Direct Claiming] `参考难度系数`1.9
-      > [练习](https://www.12634.com/learning/claiming/index)
   - 组合区块 / [Cascading Locked Candidates][] `参考难度系数`2.8
 
 ## 中级
@@ -85,11 +78,8 @@
 - 隐性数组 / [Hidden Subset][]
   - 隐性数对 / [Hidden Pair][]
     - 直观隐性数对 / [Direct Hidden Pair][] `参考难度系数`3.4
-      > [练习](https://www.12634.com/learning/direct-hidden-pair/index)
-      > [练习](https://www.12634.com/learning/hidden-pair/index)
   - 隐性三数组 / 隐性三数集 / [Hidden Triple][]
     - 直观隐性三数集 / [Direct Hidden Triple][] `参考难度系数`4.0
-      > [练习](https://www.12634.com/learning/hidden-triplet/index)
   - 隐性四数组 / [Hidden Quadruple][] `参考难度系数`5.4
 
 ### 显性数组
@@ -97,9 +87,7 @@
 - 显性数组 / [Naked Subset][]
   - 一般显性数组
     - 显性数对 / [Naked Pair][] `参考难度系数`3.0
-      > [练习](https://www.12634.com/learning/naked-pair/index)
     - 显性三数组 / 显性三数集 / [Naked Triple][] `参考难度系数`3.6
-      > [练习](https://www.12634.com/learning/naked-triplet/index)
     - 显性四数组 / [Naked Quadruple][] `参考难度系数`5.0
   - 死锁数组 / 割补数组 / [Locked Subset][]
     - 死锁数对 `参考难度系数`2.0
@@ -401,10 +389,10 @@
 ### 涂色法
 
 - 涂色法 / [Coloring](https://zhuanlan.zhihu.com/p/34187700)
-  - 色链 / Simple Coloring Type 1
-  - 色分 / 分色法 / Simple Coloring Type 2
-  - 复合色链 / Multi Coloring
-  - 进阶涂色 / 三维美杜莎 / 3D Medusa / Advanced Coloring
+  - [色链] / Simple Coloring Type 1
+  - [色分] / 分色法 / Simple Coloring Type 2
+  - 复合色链 / [Multi Coloring]
+  - 三维美杜莎 / 进阶涂色 / [3D Medusa] / Advanced Coloring
 
 ### 袋鼠
 
@@ -423,7 +411,7 @@
     - 交叉飞鱼导弹 / [Mutant JE](https://zhuanlan.zhihu.com/p/35821903)
   - 高级飞鱼导弹 / Senior Exocet / [SE](https://zhuanlan.zhihu.com/p/35868227)
     - 高级标准飞鱼导弹 / Senior Basic Exocet
-    - 高级宫内飞鱼导弹 / Senior Franken Exocetda
+    - 高级宫内飞鱼导弹 / Senior Franken Exocet
     - 高级交叉飞鱼导弹 / Senior Mutant Exocet
   - 复合飞鱼导弹 / [Double JE](https://zhuanlan.zhihu.com/p/35576944)
 - 袋鼠飞鱼导弹 / [假飞鱼导弹](https://zhuanlan.zhihu.com/p/35952793)
@@ -533,7 +521,7 @@
 
 [宫内鱼]: https://zhuanlan.zhihu.com/p/34808058
 
-[X-Wing]: 图谱/链/鱼/二阶鱼.md
+[X-Wing]: 图谱/链/鱼/标准鱼/二阶鱼.md
 
 [Swordfish]: https://sunnieshine.gitbook.io/sudoku-tutorial/009-normal-fish#part-3-san-lian-lie-jian-yu-swordfish
 
@@ -624,3 +612,11 @@
 [Forcing AR]: https://zhuanlan.zhihu.com/p/34393585
 
 [Domino Loop]: http://www.sudokufans.org.cn/forums/topic/1660/
+
+[色链]: 图谱/染色法/色链.md
+
+[色分]: 图谱/染色法/色分.md
+
+[Multi Coloring]: 图谱/染色法/复合色链.md
+
+[3D Medusa]: 图谱/染色法/三维美杜莎.md

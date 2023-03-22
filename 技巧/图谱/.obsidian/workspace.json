@@ -27,15 +27,14 @@
                 "file": "技巧画布.canvas",
                 "viewState": {
                   "x": 300,
-                  "y": -140.4160998114226,
+                  "y": 487.0643752525592,
                   "zoom": -1.6338721012021027
                 }
               },
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Level/2/数量/2",
+                "query": "摒除法",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +88,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技巧画布.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +125,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技巧画布.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +146,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "技巧画布.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -179,35 +175,34 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b27ffda7ebdc288e",
+  "active": "750e8ad12eb79598",
   "lastOpenFiles": [
-    "Template/【Tpl】技巧.md",
-    "染色法/复合色链.md",
     "技巧画布.canvas",
+    "Level1/摒除法.md",
+    "区块摒除.md",
+    "Level1/唯余法.md",
+    "数组/显性数组/显性三数组.md",
+    "数组/显性数组/显性数对.md",
+    "数组/隐性数组/隐性三数组.md",
+    "数组/隐性数组/隐性数对.md",
+    "染色法/复合色链.md",
+    "染色法/三维美杜莎.md",
+    "染色法/色链.md",
+    "染色法/色分.md",
+    "Template/【Tpl】技巧.md",
     "欠一数组.md",
     "链/标准链/远程数对.md",
     "数组/隐性数组/隐性四数组.md",
     "数组/数对.md",
-    "数组/显性数组/显性数对.md",
-    "数组/隐性数组/隐性数对.md",
     "数组/隐性数组/隐性数组.md",
-    "数组/隐性数组/隐性三数组.md",
     "数组/显性数组/显性四数组.md",
     "数组/显性数组/显性数组.md",
-    "数组/显性数组/显性三数组.md",
     "数组/数组.md",
     "链/标准链/双值格链.md",
     "待定数组/欠一数组/欠一数对.md",
-    "染色法/色分.md",
     "链/鱼/复杂鱼/复杂鱼.md",
-    "染色法/色链.md",
     "链/鱼/复杂鱼/X环.md",
     "共轭对.md",
-    "结构/区块.md",
-    "链/标准链/规则Wing/双分支匹配法.md",
-    "结构/关系/关系.md",
-    "链/鱼/标准鱼/二阶鱼.md",
-    "链/鱼/标准鱼/标准鱼.md",
     "染色法",
     "链/鱼/复杂鱼",
     "链/鱼/标准鱼",
