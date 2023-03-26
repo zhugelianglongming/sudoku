@@ -26,16 +26,15 @@
               "state": {
                 "file": "技巧画布.canvas",
                 "viewState": {
-                  "x": 1500,
-                  "y": -1120,
-                  "zoom": -3.0801948407863002
+                  "x": 1280.5,
+                  "y": -1240,
+                  "zoom": -2.972808090847977
                 }
               },
               "pinned": true
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +108,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "技巧画布.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +124,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "技巧画布.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +145,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "技巧画布.canvas"
-              }
+              "state": {}
             }
           },
           {
@@ -162,7 +157,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -179,11 +174,18 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b27ffda7ebdc288e",
+  "active": "750e8ad12eb79598",
   "lastOpenFiles": [
+    "技巧画布.canvas",
+    "链/鱼/标准鱼/二阶鱼.md",
+    "链/鱼/带鳍鱼/带鳍二阶鱼.md",
+    "链/鱼/复杂鱼/复杂鱼.md",
+    "链/鱼/复杂鱼/X环.md",
+    "链/烟花/四重烟花.md",
+    "链/鱼/标准鱼/标准鱼.md",
+    "链/鱼/带鳍鱼",
     "链/超标准链/超链+ALS/ALS+双强链/双RCC拓展.md",
     "链/超标准链/超链+ALS/ALS+双强链/ALS+双强链.md",
-    "技巧画布.canvas",
     "链/环/标准环.md",
     "结构/严格共享候选数.md",
     "链/超标准链/超链+ALS/ALS+双分支匹配法.md",
@@ -206,17 +208,10 @@
     "结构/关系/关系.md",
     "链/强制链组/单元强制链组",
     "链/强制链组",
-    "链/鱼/复杂鱼/X环.md",
-    "染色法/三维美杜莎.md",
-    "链/标准链/双值格链.md",
-    "链/标准链/远程数对.md",
     "链/环",
-    "Level1/摒除法.md",
-    "区块摒除.md",
     "染色法",
     "链/鱼/复杂鱼",
     "链/鱼/标准鱼",
-    "链/鱼",
     "Pasted image 20230314154611.png"
   ]
 }

@@ -97,6 +97,13 @@
         "a": 1,
         "rgb": 5431378
       }
+    },
+    {
+      "query": "tag:#Level/c1",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
     }
   ],
   "collapse-display": false,
@@ -109,6 +116,6 @@
   "repelStrength": 15.4459635416667,
   "linkStrength": 1,
   "linkDistance": 97,
-  "scale": 0.6028763428170033,
+  "scale": 0.4632003979877033,
   "close": false
 }
