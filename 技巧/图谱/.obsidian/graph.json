@@ -36,7 +36,7 @@
       }
     },
     {
-      "query": "tag:#Level/a",
+      "query": "tag:#Level/3",
       "color": {
         "a": 1,
         "rgb": 5431473
@@ -83,6 +83,20 @@
         "a": 1,
         "rgb": 14725458
       }
+    },
+    {
+      "query": "tag:#Level/4",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Level/5",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
@@ -95,6 +109,6 @@
   "repelStrength": 15.4459635416667,
   "linkStrength": 1,
   "linkDistance": 97,
-  "scale": 0.3100910269701664,
+  "scale": 0.6028763428170033,
   "close": false
 }

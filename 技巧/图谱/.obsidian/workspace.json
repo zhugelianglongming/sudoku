@@ -26,15 +26,16 @@
               "state": {
                 "file": "技巧画布.canvas",
                 "viewState": {
-                  "x": 300,
-                  "y": 487.0643752525592,
-                  "zoom": -1.6338721012021027
+                  "x": 1500,
+                  "y": -1120,
+                  "zoom": -3.0801948407863002
                 }
               },
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "摒除法",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -109,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技巧画布.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技巧画布.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技巧画布.canvas"
+              }
             }
           },
           {
@@ -175,44 +179,44 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "750e8ad12eb79598",
+  "active": "b27ffda7ebdc288e",
   "lastOpenFiles": [
+    "链/超标准链/超链+ALS/ALS+双强链/双RCC拓展.md",
+    "链/超标准链/超链+ALS/ALS+双强链/ALS+双强链.md",
     "技巧画布.canvas",
+    "链/环/标准环.md",
+    "结构/严格共享候选数.md",
+    "链/超标准链/超链+ALS/ALS+双分支匹配法.md",
+    "链/超标准链/超链+ALS/ALS+双强链",
+    "结构/定区域准集合数组.md",
+    "结构/毛边结构.md",
+    "结构/毛刺鱼.md",
+    "结构/三毛刺结构.md",
+    "结构/区块.md",
+    "结构/毛刺数组.md",
+    "链/标准链/规则Wing/双分支匹配法.md",
+    "链/超标准链/超链+ALS",
+    "链/超标准链",
+    "定集合准区域数组.md",
+    "数组/数组.md",
+    "链/强制链组/单元强制链组/单元格强制链组.md",
+    "结构/关系/弱关系.md",
+    "结构/关系/强关系.md",
+    "结构/关系/共轭对.md",
+    "结构/关系/关系.md",
+    "链/强制链组/单元强制链组",
+    "链/强制链组",
+    "链/鱼/复杂鱼/X环.md",
+    "染色法/三维美杜莎.md",
+    "链/标准链/双值格链.md",
+    "链/标准链/远程数对.md",
+    "链/环",
     "Level1/摒除法.md",
     "区块摒除.md",
-    "Level1/唯余法.md",
-    "数组/显性数组/显性三数组.md",
-    "数组/显性数组/显性数对.md",
-    "数组/隐性数组/隐性三数组.md",
-    "数组/隐性数组/隐性数对.md",
-    "染色法/复合色链.md",
-    "染色法/三维美杜莎.md",
-    "染色法/色链.md",
-    "染色法/色分.md",
-    "Template/【Tpl】技巧.md",
-    "欠一数组.md",
-    "链/标准链/远程数对.md",
-    "数组/隐性数组/隐性四数组.md",
-    "数组/数对.md",
-    "数组/隐性数组/隐性数组.md",
-    "数组/显性数组/显性四数组.md",
-    "数组/显性数组/显性数组.md",
-    "数组/数组.md",
-    "链/标准链/双值格链.md",
-    "待定数组/欠一数组/欠一数对.md",
-    "链/鱼/复杂鱼/复杂鱼.md",
-    "链/鱼/复杂鱼/X环.md",
-    "共轭对.md",
     "染色法",
     "链/鱼/复杂鱼",
     "链/鱼/标准鱼",
     "链/鱼",
-    "Template",
-    "链/烟花",
-    "待定数组/欠一数组",
-    "待定数组",
-    "Pasted image 20230314154611.png",
-    "链/标准链/规则Wing",
-    "链/标准链"
+    "Pasted image 20230314154611.png"
   ]
 }
