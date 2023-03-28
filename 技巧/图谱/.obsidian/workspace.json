@@ -28,13 +28,14 @@
                 "viewState": {
                   "x": 1280.5,
                   "y": -1240,
-                  "zoom": -2.972808090847977
+                  "zoom": -2.5510620941028654
                 }
               },
               "pinned": true
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -63,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "四阶",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -108,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "技巧画布.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "技巧画布.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +148,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "技巧画布.canvas"
+              }
             }
           },
           {
@@ -174,11 +179,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "750e8ad12eb79598",
+  "active": "b27ffda7ebdc288e",
   "lastOpenFiles": [
-    "技巧画布.canvas",
-    "链/鱼/标准鱼/二阶鱼.md",
     "链/鱼/带鳍鱼/带鳍二阶鱼.md",
+    "链/鱼/带鳍鱼/带鳍三阶鱼.md",
+    "链/鱼/标准鱼/三阶鱼.md",
+    "链/鱼/标准鱼/四阶鱼.md",
+    "链/鱼/标准鱼/二阶鱼.md",
+    "技巧画布.canvas",
     "链/鱼/复杂鱼/复杂鱼.md",
     "链/鱼/复杂鱼/X环.md",
     "链/烟花/四重烟花.md",
@@ -204,8 +212,6 @@
     "链/强制链组/单元强制链组/单元格强制链组.md",
     "结构/关系/弱关系.md",
     "结构/关系/强关系.md",
-    "结构/关系/共轭对.md",
-    "结构/关系/关系.md",
     "链/强制链组/单元强制链组",
     "链/强制链组",
     "链/环",
