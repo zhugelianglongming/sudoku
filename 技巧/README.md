@@ -441,7 +441,7 @@
 
 ### Template
 
-- [Template](http://hodoku.sourceforge.net/en/tech_last.php#ts)
+- [Template][Template skill] / Pattern Overlay Method
   - Template Set
   - Template Delete
 
@@ -620,3 +620,5 @@
 [Multi Coloring]: 图谱/染色法/复合色链.md
 
 [3D Medusa]: 图谱/染色法/三维美杜莎.md
+
+[Template skill]: http://hodoku.sourceforge.net/en/tech_last.php#ts

@@ -27,11 +27,59 @@
                 "file": "技巧画布.canvas",
                 "viewState": {
                   "x": 1280.5,
-                  "y": -1240,
-                  "zoom": -2.5510620941028654
+                  "y": -1902.6217479768345,
+                  "zoom": -2.6885656178528006
                 }
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "5ff2a580f63604d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "链/鱼/标准鱼/三阶鱼.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ed71949922f6e133",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "链/鱼/宫内鱼/宫内三阶鱼.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "59fe0ba20c170c5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "链/鱼/标准鱼/二阶鱼.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c5c20a6bd0b958a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Template.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -162,7 +210,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -181,16 +229,20 @@
   },
   "active": "b27ffda7ebdc288e",
   "lastOpenFiles": [
-    "链/鱼/带鳍鱼/带鳍二阶鱼.md",
-    "链/鱼/带鳍鱼/带鳍三阶鱼.md",
+    "链/鱼/宫内鱼/宫内三阶鱼.md",
+    "链/鱼/标准鱼/标准鱼.md",
     "链/鱼/标准鱼/三阶鱼.md",
-    "链/鱼/标准鱼/四阶鱼.md",
-    "链/鱼/标准鱼/二阶鱼.md",
+    "链/鱼/鱼.md",
+    "Template.md",
     "技巧画布.canvas",
     "链/鱼/复杂鱼/复杂鱼.md",
+    "链/鱼/标准鱼/二阶鱼.md",
+    "链/鱼/宫内鱼",
+    "链/鱼/带鳍鱼/带鳍二阶鱼.md",
+    "链/鱼/带鳍鱼/带鳍三阶鱼.md",
+    "链/鱼/标准鱼/四阶鱼.md",
     "链/鱼/复杂鱼/X环.md",
     "链/烟花/四重烟花.md",
-    "链/鱼/标准鱼/标准鱼.md",
     "链/鱼/带鳍鱼",
     "链/超标准链/超链+ALS/ALS+双强链/双RCC拓展.md",
     "链/超标准链/超链+ALS/ALS+双强链/ALS+双强链.md",
@@ -209,15 +261,11 @@
     "链/超标准链",
     "定集合准区域数组.md",
     "数组/数组.md",
-    "链/强制链组/单元强制链组/单元格强制链组.md",
-    "结构/关系/弱关系.md",
-    "结构/关系/强关系.md",
     "链/强制链组/单元强制链组",
     "链/强制链组",
     "链/环",
     "染色法",
     "链/鱼/复杂鱼",
-    "链/鱼/标准鱼",
     "Pasted image 20230314154611.png"
   ]
 }
