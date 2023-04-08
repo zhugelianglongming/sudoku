@@ -26,60 +26,12 @@
               "state": {
                 "file": "技巧画布.canvas",
                 "viewState": {
-                  "x": 1280.5,
-                  "y": -1902.6217479768345,
-                  "zoom": -2.6885656178528006
+                  "x": 1801,
+                  "y": -3275.211415390251,
+                  "zoom": -2.3287465915039602
                 }
               },
               "pinned": true
-            }
-          },
-          {
-            "id": "5ff2a580f63604d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "链/鱼/标准鱼/三阶鱼.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed71949922f6e133",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "链/鱼/宫内鱼/宫内三阶鱼.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "59fe0ba20c170c5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "链/鱼/标准鱼/二阶鱼.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c5c20a6bd0b958a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Template.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ],
@@ -229,14 +181,18 @@
   },
   "active": "b27ffda7ebdc288e",
   "lastOpenFiles": [
+    "链/区块组链/空矩形.md",
+    "链/鱼/复杂鱼/复杂鱼.md",
+    "技巧画布.canvas",
+    "链/区块组链/未命名",
+    "链/区块组链",
+    "待定数组/均衡性数组/均衡性数对.md",
+    "Template.md",
+    "链/鱼/标准鱼/二阶鱼.md",
     "链/鱼/宫内鱼/宫内三阶鱼.md",
     "链/鱼/标准鱼/标准鱼.md",
     "链/鱼/标准鱼/三阶鱼.md",
     "链/鱼/鱼.md",
-    "Template.md",
-    "技巧画布.canvas",
-    "链/鱼/复杂鱼/复杂鱼.md",
-    "链/鱼/标准鱼/二阶鱼.md",
     "链/鱼/宫内鱼",
     "链/鱼/带鳍鱼/带鳍二阶鱼.md",
     "链/鱼/带鳍鱼/带鳍三阶鱼.md",
@@ -256,16 +212,11 @@
     "结构/三毛刺结构.md",
     "结构/区块.md",
     "结构/毛刺数组.md",
-    "链/标准链/规则Wing/双分支匹配法.md",
     "链/超标准链/超链+ALS",
     "链/超标准链",
-    "定集合准区域数组.md",
-    "数组/数组.md",
     "链/强制链组/单元强制链组",
     "链/强制链组",
     "链/环",
-    "染色法",
-    "链/鱼/复杂鱼",
     "Pasted image 20230314154611.png"
   ]
 }

@@ -155,8 +155,8 @@
       - 无公共数型 / 基本融合版本 `参考难度系数`4.8+
       - 共享公共数型 / 带有交互数字的融合版本 `参考难度系数`4.9+
       - 独占公共数型 / 自噬SDC / Cannibalistic SDC `参考难度系数`4.9+
-  - [均衡性数组][]
-    - 均衡性数对 / Aligned Pair Exclusion `参考难度系数`6.2
+  - [均衡性数组][] / Subset Exclusion
+    - 均衡性数对 / Aligned Pair Exclusion / APE `参考难度系数`6.2
     - 均衡性三数组 / Aligned Triple Exclusion `参考难度系数`7.5
 
 ### 链（基础）
