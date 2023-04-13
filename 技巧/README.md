@@ -55,15 +55,10 @@
 - 摒除法 / 排除法 / [Hidden Single]
   - 宫摒除 / [Hidden Single in Box][] `参考难度系数`1.2
   - 行列摒除 / [Hidden Single in Row/Column] `参考难度系数`1.5
-  > 练习
-  >
-  > - 微信小程序：联网数独
-  > - 网页：[三思](https://www.12634.com/learning/hs/index)
 
 ### 唯余法
 
 - 唯余法 / 唯一数 / 唯一法 / Last Value / [Naked Single][] `参考难度系数`2.3
-  > [练习](http://www.sudokufans.org.cn/tools/finder.php)
 
 ## 初级
 
@@ -72,10 +67,8 @@
 - 区块摒除 / [Locked Candidates][]
   - 宫区块摒除法 / [Pointing][]
     - 直观宫区块摒除法 / [Direct Pointing] `参考难度系数`1.7
-      > [练习](https://www.12634.com/learning/pointing/index)
   - 行列区块摒除法 / [Claiming][]
     - 直观列区块摒除法 / [Direct Claiming] `参考难度系数`1.9
-      > [练习](https://www.12634.com/learning/claiming/index)
   - 组合区块 / [Cascading Locked Candidates][] `参考难度系数`2.8
 
 ## 中级
@@ -85,11 +78,8 @@
 - 隐性数组 / [Hidden Subset][]
   - 隐性数对 / [Hidden Pair][]
     - 直观隐性数对 / [Direct Hidden Pair][] `参考难度系数`3.4
-      > [练习](https://www.12634.com/learning/direct-hidden-pair/index)
-      > [练习](https://www.12634.com/learning/hidden-pair/index)
   - 隐性三数组 / 隐性三数集 / [Hidden Triple][]
     - 直观隐性三数集 / [Direct Hidden Triple][] `参考难度系数`4.0
-      > [练习](https://www.12634.com/learning/hidden-triplet/index)
   - 隐性四数组 / [Hidden Quadruple][] `参考难度系数`5.4
 
 ### 显性数组
@@ -97,9 +87,7 @@
 - 显性数组 / [Naked Subset][]
   - 一般显性数组
     - 显性数对 / [Naked Pair][] `参考难度系数`3.0
-      > [练习](https://www.12634.com/learning/naked-pair/index)
     - 显性三数组 / 显性三数集 / [Naked Triple][] `参考难度系数`3.6
-      > [练习](https://www.12634.com/learning/naked-triplet/index)
     - 显性四数组 / [Naked Quadruple][] `参考难度系数`5.0
   - 死锁数组 / 割补数组 / [Locked Subset][]
     - 死锁数对 `参考难度系数`2.0
@@ -118,7 +106,6 @@
 - 鱼 / 链列 / [Fish][]
   - 标准鱼
     - 二阶鱼 / 二链列 / ~~X翼~~ / [X-Wing][] `参考难度系数`3.2
-      > [练习](https://www.12634.com/learning/x-wing/index)
     - 三阶鱼 / 剑鱼 / 三链列 / [Swordfish][] `参考难度系数`3.8
     - 四阶鱼 / 水母 / 四链列 / [Jellyfish][] `参考难度系数`5.2
   - 带鳍鱼 / 外鳍鱼 / [Finned Fish][]
@@ -168,8 +155,8 @@
       - 无公共数型 / 基本融合版本 `参考难度系数`4.8+
       - 共享公共数型 / 带有交互数字的融合版本 `参考难度系数`4.9+
       - 独占公共数型 / 自噬SDC / Cannibalistic SDC `参考难度系数`4.9+
-  - [均衡性数组][]
-    - 均衡性数对 / Aligned Pair Exclusion `参考难度系数`6.2
+  - [均衡性数组][] / Subset Exclusion
+    - 均衡性数对 / Aligned Pair Exclusion / APE `参考难度系数`6.2
     - 均衡性三数组 / Aligned Triple Exclusion `参考难度系数`7.5
 
 ### 链（基础）
@@ -179,9 +166,7 @@
 - 标准链 / AIC / [Alternating Inference Chain][Common Types Chain] `参考难度系数`5.7+
   - [规则 Wing](https://zhuanlan.zhihu.com/p/33087864)
     - 双分支匹配法 / Y-Wing / [XY-Wing][] `参考难度系数`4.2
-      > [练习](https://www.12634.com/learning/xy-wing/index)
     - 三分支匹配法 / [XYZ-Wing][] `参考难度系数`4.4
-      > [练习](https://www.12634.com/learning/xyz-wing/index)
     - 四分支匹配法 / Bent Quads / WXYZ-Wing `参考难度系数`4.6
     - 五分支匹配法 / VWXYZ-Wing `参考难度系数`4.85
     - ~~六分支匹配法 / UVWXYZ-Wing~~
@@ -203,6 +188,7 @@
     - [Group X-Chain](http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5227)
   - 双值格链 / 双值格标准链 / [XY-Chain][] `参考难度系数`4.0+
     - 远程数对 / [Remote Pairs][] `参考难度系数`4.5+
+    - ~~[Y-Wing Chains](https://www.sudokuwiki.org/Y_Wing_Chains)~~
   - 首尾异数链 / 首尾异数标准链 / [XY-X-Chain][Common Types Chain] `参考难度系数`5.7+
   - 自噬链 / [Cannibalistic AIC][Common Types Chain]
   - 不连续环 / [Discontinuous (Nice) Loop][Common Types Chain] `参考难度系数`5.7+
@@ -403,10 +389,10 @@
 ### 涂色法
 
 - 涂色法 / [Coloring](https://zhuanlan.zhihu.com/p/34187700)
-  - 色链 / Simple Coloring Type 1
-  - 色分 / 分色法 / Simple Coloring Type 2
-  - 复合色链 / Multi Coloring
-  - 进阶涂色 / 三维美杜莎 / 3D Medusa / Advanced Coloring
+  - [色链] / Simple Coloring Type 1
+  - [色分] / 分色法 / Simple Coloring Type 2
+  - 复合色链 / [Multi Coloring]
+  - 三维美杜莎 / 进阶涂色 / [3D Medusa] / Advanced Coloring
 
 ### 袋鼠
 
@@ -425,7 +411,7 @@
     - 交叉飞鱼导弹 / [Mutant JE](https://zhuanlan.zhihu.com/p/35821903)
   - 高级飞鱼导弹 / Senior Exocet / [SE](https://zhuanlan.zhihu.com/p/35868227)
     - 高级标准飞鱼导弹 / Senior Basic Exocet
-    - 高级宫内飞鱼导弹 / Senior Franken Exocetda
+    - 高级宫内飞鱼导弹 / Senior Franken Exocet
     - 高级交叉飞鱼导弹 / Senior Mutant Exocet
   - 复合飞鱼导弹 / [Double JE](https://zhuanlan.zhihu.com/p/35576944)
 - 袋鼠飞鱼导弹 / [假飞鱼导弹](https://zhuanlan.zhihu.com/p/35952793)
@@ -455,7 +441,7 @@
 
 ### Template
 
-- [Template](http://hodoku.sourceforge.net/en/tech_last.php#ts)
+- [Template][Template skill] / Pattern Overlay Method
   - Template Set
   - Template Delete
 
@@ -535,7 +521,7 @@
 
 [宫内鱼]: https://zhuanlan.zhihu.com/p/34808058
 
-[X-Wing]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5196
+[X-Wing]: 图谱/链/鱼/标准鱼/二阶鱼.md
 
 [Swordfish]: https://sunnieshine.gitbook.io/sudoku-tutorial/009-normal-fish#part-3-san-lian-lie-jian-yu-swordfish
 
@@ -589,7 +575,7 @@
 
 [X-Chain]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5226
 
-[XY-Chain]: http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=210
+[XY-Chain]: 图谱/链/标准链/双值格链.md
 
 [W-Wing]: http://www.sudokufans.org.cn/forums/topic/83/?do=findComment&comment=625
 
@@ -601,7 +587,7 @@
 
 [ALS的一般拓展结构]: https://zhuanlan.zhihu.com/p/33770218
 
-[X-Cycle]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5225
+[X-Cycle]: 图谱/链/鱼/复杂鱼/X环.md
 
 [Guardians]: http://www.sudokufans.org.cn/forums/topic/38/?do=findComment&comment=247
 
@@ -613,7 +599,7 @@
 
 [Quadruple Firework]: 图谱/链/烟花/四重烟花.md
 
-[Remote Pairs]: http://www.sudokufans.org.cn/forums/topic/42/?do=findComment&comment=471
+[Remote Pairs]: 图谱/链/标准链/远程数对.md
 
 [Almost Locked Pair]: 图谱/待定数组/欠一数组/欠一数对.md
 
@@ -626,3 +612,13 @@
 [Forcing AR]: https://zhuanlan.zhihu.com/p/34393585
 
 [Domino Loop]: http://www.sudokufans.org.cn/forums/topic/1660/
+
+[色链]: 图谱/染色法/色链.md
+
+[色分]: 图谱/染色法/色分.md
+
+[Multi Coloring]: 图谱/染色法/复合色链.md
+
+[3D Medusa]: 图谱/染色法/三维美杜莎.md
+
+[Template skill]: http://hodoku.sourceforge.net/en/tech_last.php#ts
