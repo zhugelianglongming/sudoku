@@ -1,13 +1,6 @@
 # 抖音挑战排行榜
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## 目录
-
-- [参加方式](#%E5%8F%82%E5%8A%A0%E6%96%B9%E5%BC%8F)
-- [排行榜](#%E6%8E%92%E8%A1%8C%E6%A6%9C)
-  - [双人组队赛](#%E5%8F%8C%E4%BA%BA%E7%BB%84%E9%98%9F%E8%B5%9B)
-    - [标准数独](#%E6%A0%87%E5%87%86%E6%95%B0%E7%8B%AC)
-    - [非标数独](#%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

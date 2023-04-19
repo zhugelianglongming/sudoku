@@ -1,39 +1,6 @@
 # 9 宫混合类非标数独索引
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## 目录
-
-- [9选6](#9%E9%80%896)
-- [0-9](#0-9)
-- [159](#159)
-- [四则运算](#%E5%9B%9B%E5%88%99%E8%BF%90%E7%AE%97)
-  - [加法](#%E5%8A%A0%E6%B3%95)
-    - [杀手](#%E6%9D%80%E6%89%8B)
-  - [减法](#%E5%87%8F%E6%B3%95)
-  - [乘法](#%E4%B9%98%E6%B3%95)
-  - [黑白点](#%E9%BB%91%E7%99%BD%E7%82%B9)
-  - [N和差](#n%E5%92%8C%E5%B7%AE)
-- [奇偶](#%E5%A5%87%E5%81%B6)
-- [熵](#%E7%86%B5)
-- [数比](#%E6%95%B0%E6%AF%94)
-- [连续](#%E8%BF%9E%E7%BB%AD)
-  - [全标连续](#%E5%85%A8%E6%A0%87%E8%BF%9E%E7%BB%AD)
-  - [半标连续](#%E5%8D%8A%E6%A0%87%E8%BF%9E%E7%BB%AD)
-- [Renban](#renban)
-- [分段和](#%E5%88%86%E6%AE%B5%E5%92%8C)
-- [边框和](#%E8%BE%B9%E6%A1%86%E5%92%8C)
-- [前X数和](#%E5%89%8Dx%E6%95%B0%E5%92%8C)
-- [对角](#%E5%AF%B9%E8%A7%92)
-- [窗口](#%E7%AA%97%E5%8F%A3)
-- [锯齿](#%E9%94%AF%E9%BD%BF)
-- [二人转](#%E4%BA%8C%E4%BA%BA%E8%BD%AC)
-- [摩天楼](#%E6%91%A9%E5%A4%A9%E6%A5%BC)
-  - [摩天和](#%E6%91%A9%E5%A4%A9%E5%92%8C)
-- [马](#%E9%A9%AC)
-- [风车](#%E9%A3%8E%E8%BD%A6)
-- [跨宫数对](#%E8%B7%A8%E5%AE%AB%E6%95%B0%E5%AF%B9)
-- [额外区域](#%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F)
-- [克隆](#%E5%85%8B%E9%9A%86)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

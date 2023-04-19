@@ -1,16 +1,6 @@
 # 数独资源
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## 目录
-
-- [查看方式](#%E6%9F%A5%E7%9C%8B%E6%96%B9%E5%BC%8F)
-  - [GitHub](#github)
-  - [脑图](#%E8%84%91%E5%9B%BE)
-  - [Gitbook](#gitbook)
-  - [Obsidian](#obsidian)
-- [收录](#%E6%94%B6%E5%BD%95)
-  - [站点](#%E7%AB%99%E7%82%B9)
-  - [微信小程序](#%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 

@@ -2,10 +2,6 @@
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## 目录
-
-- [原理](#%E5%8E%9F%E7%90%86)
-  - [技巧转换](#%E6%8A%80%E5%B7%A7%E8%BD%AC%E6%8D%A2)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
