@@ -18,6 +18,13 @@ repos:
       - id: double-quote-string-fixer
       - id: fix-encoding-pragma
 
+  - repo: https://github.com/zhugelianglongming/doctoc
+    rev: v0.1.1.alpha # based on tag
+    hooks:
+      - id: doctoc
+        args:
+          - --delete
+
   - repo: https://github.com/igorshubovych/markdownlint-cli
     rev: v0.33.0
     hooks:
