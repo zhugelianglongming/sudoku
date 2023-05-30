@@ -160,8 +160,15 @@
   },
   "active": "edbe09fd3d5bcbf5",
   "lastOpenFiles": [
-    "未命名.md",
+    "技巧/图谱/技巧画布.canvas",
+    "技巧/图谱/Template/【Tpl】技巧.md",
+    "技巧/图谱/Template",
     "非标数独/9宫/候选类/奇偶类/砖墙.md",
+    "images/sudoku/砖墙.jpeg",
+    "update_summary.py",
+    "ranking.md",
+    "images/挑战20x20.png",
+    "未命名.md",
     "技巧/图谱/链/标准链/规则Wing/双分支匹配法.md",
     "images/技巧",
     "技巧/图谱/数组/隐性数组.md",
@@ -184,18 +191,12 @@
     "技巧/图谱/Level2/隐性数组.md",
     "技巧/图谱/Level2/超标准链.md",
     "技巧/图谱/Level2/标准链.md",
-    "技巧/图谱/Level2/显性数组.md",
-    "技巧/图谱/Level2/带鳍鱼.md",
-    "技巧/图谱/Level2/宫内鱼.md",
     "技巧/图谱/结构",
     "技巧/图谱/数组",
     "技巧/图谱/关系",
-    "技巧/图谱/Template",
     "技巧/图谱/Level3",
     "技巧/图谱/Level2",
     "技巧/图谱/Level1",
-    "技巧/图谱",
-    "技巧/数独技巧/结构",
-    "images/挑战20x20.png"
+    "技巧/图谱"
   ]
 }
