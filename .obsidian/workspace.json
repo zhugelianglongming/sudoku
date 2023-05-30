@@ -46,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Str",
+                "query": "砖墙",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,8 +62,17 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6b19895fcae219bf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,6 +131,14 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "2826c019eb054248",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -132,6 +149,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -140,8 +158,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "fc5fba11b51c3c58",
+  "active": "edbe09fd3d5bcbf5",
   "lastOpenFiles": [
+    "未命名.md",
+    "非标数独/9宫/候选类/奇偶类/砖墙.md",
     "技巧/图谱/链/标准链/规则Wing/双分支匹配法.md",
     "images/技巧",
     "技巧/图谱/数组/隐性数组.md",
@@ -167,8 +187,6 @@
     "技巧/图谱/Level2/显性数组.md",
     "技巧/图谱/Level2/带鳍鱼.md",
     "技巧/图谱/Level2/宫内鱼.md",
-    "技巧/图谱/Level2/交叉鱼.md",
-    "技巧/图谱/Level1/链.md",
     "技巧/图谱/结构",
     "技巧/图谱/数组",
     "技巧/图谱/关系",
