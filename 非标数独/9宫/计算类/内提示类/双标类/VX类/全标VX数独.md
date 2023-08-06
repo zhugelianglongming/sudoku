@@ -7,6 +7,7 @@
 - [题型名](#%E9%A2%98%E5%9E%8B%E5%90%8D)
 - [题库](#%E9%A2%98%E5%BA%93)
   - [在线题库](#%E5%9C%A8%E7%BA%BF%E9%A2%98%E5%BA%93)
+  - [微信小程序](#%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -35,6 +36,10 @@
 - [三思数独]
 - [独·数之道](http://www.sudokufans.org.cn/lx/game.index.php?type=vxa) 【需要登录】
 - [今日数独]【选题不便】
+
+### 微信小程序
+
+- 三思数独
 
 [1~9填充]: ../../../../../../rules/rules.md#1to9填充
 
