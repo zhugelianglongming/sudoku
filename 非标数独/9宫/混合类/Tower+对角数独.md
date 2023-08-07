@@ -1,0 +1,42 @@
+# Tower+对角数独
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## 目录
+
+- [规则](#%E8%A7%84%E5%88%99)
+  - [标签](#%E6%A0%87%E7%AD%BE)
+- [题型名](#%E9%A2%98%E5%9E%8B%E5%90%8D)
+- [题库](#%E9%A2%98%E5%BA%93)
+  - [微信小程序](#%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+![题](../../../images/sudoku/Tower+对角数独.png)
+
+## 规则
+
+| 序号  |  限制区域   | 限制规则                                 |
+|:---:|:-------:|:-------------------------------------|
+|  1  |    行    | [1~9填充]                              |
+|  2  |    列    | [1~9填充]                              |
+|  3  |   对角线   | [1~9填充]                              |
+|  4  | 提示数（盘外） | 提示数 `M`：该（观测位，向盘内方向）获得的[摩天楼观测数]为 `M` |
+
+### 标签
+
+- #斜线/对角线
+- #比大小/摩天楼
+
+## 题型名
+
+- 摩天楼对角
+
+## 题库
+
+### 微信小程序
+
+- 三思数独
+
+[1~9填充]: ../../../rules/rules.md#1to9填充
+
+[摩天楼观测数]: ../../../rules/rules.md#摩天楼观测数

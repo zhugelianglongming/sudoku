@@ -21,12 +21,18 @@
 ## 题型名
 
 - Towers
+- 摩天楼
 
 ## 题库
 
 ### 在线题库
 
 - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/towers.html)
+
+### 微信小程序
+
+- 三思数独
+  - 摩天楼
 
 ## 技巧
 
@@ -41,6 +47,9 @@
 ## 扩展题型
 
 - [摩天楼数独.md](摩天楼数独.md)
+- [Tower+对角数独](../混合类/Tower+对角数独.md)
+- [Tower+花园+对角数独](../混合类/Tower+花园+对角数独.md)
 
 [1~9填充]: ../../../rules/rules.md#1to9填充
+
 [摩天楼观测数]: ../../../rules/rules.md#摩天楼观测数

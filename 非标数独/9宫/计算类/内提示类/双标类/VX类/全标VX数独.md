@@ -30,6 +30,10 @@
 - [独·数之道](http://www.sudokufans.org.cn/lx/game.index.php?type=vxa) 【需要登录】
 - [今日数独]【选题不便】
 
+### 微信小程序
+
+- 三思数独
+
 [1~9填充]: ../../../../../../rules/rules.md#1to9填充
 
 [共边邻格]: ../../../../../../rules/rules.md#共边邻格
