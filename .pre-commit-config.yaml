@@ -1,0 +1,32 @@
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v4.4.0
+    hooks:
+      - id: check-yaml
+      - id: end-of-file-fixer
+        exclude: |
+          (?x)^(
+              .obsidian/.*|
+              技巧/图谱/.obsidian/.*|
+              技巧/图谱/.*.canvas
+          )$
+      - id: trailing-whitespace
+      - id: check-ast
+      - id: check-builtin-literals
+      - id: check-docstring-first
+      - id: debug-statements
+      - id: double-quote-string-fixer
+      - id: fix-encoding-pragma
+
+  - repo: https://github.com/zhugelianglongming/doctoc
+    rev: v0.1.1.alpha # based on tag
+    hooks:
+      - id: doctoc
+        args:
+          - --delete
+
+  - repo: https://github.com/igorshubovych/markdownlint-cli
+    rev: v0.35.0
+    hooks:
+      - id: markdownlint
+      - id: markdownlint-fix

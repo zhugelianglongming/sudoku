@@ -1,0 +1,16 @@
+# Mac
+.DS_Store
+*/.DS_Store
+
+# Goland
+.idea/
+
+# Python
+venv/
+
+# npm
+node_modules/
+
+# Obsidian
+.obsidian/
+技巧/图谱/.obsidian/plugins/recent-files-obsidian/data.json
