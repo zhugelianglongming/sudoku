@@ -103,6 +103,7 @@
 > 复制右侧链接，可在微信中直接打开小程序
 
 - 三思数独 `#小程序://三思数独/gUu4UIUAgfF0AOq`
+- 君欢数独 `#小程序://君欢数独/iY4sKTQlFFkVYkc`
 - 鳄鱼数独 `#小程序://鳄鱼数独/LZm0WknUKhpMrbc`
 - 肯肯数谜数独 `#小程序://肯肯数谜数独/肯肯数独/6JRdmdOXDFZGOHD`
 - 口袋数独 `#小程序://口袋数独/VjGS3AhQ0Oy9Ufk`
