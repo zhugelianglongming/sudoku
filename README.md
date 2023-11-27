@@ -59,7 +59,6 @@
 - [独·数之道](http://www.sudokufans.org.cn/)
 - [今日数独](https://cn.sudoku.today/)
 - [康思](https://www.conceptispuzzles.com/zh/index.aspx)
-- [欧泊颗](https://p.oubk.com/)
 - [三思](https://www.12634.com/)
 - [杀手数独](https://cn.puzzle-killer-sudoku.com/)
 - [数独在线](https://sudoku-cn.com/)
@@ -92,6 +91,7 @@
 > 复制右侧链接，可在微信中直接打开小程序
 
 - 三思数独 `#小程序://三思数独/gUu4UIUAgfF0AOq`
+- 君欢数独 `#小程序://君欢数独/iY4sKTQlFFkVYkc`
 - 鳄鱼数独 `#小程序://鳄鱼数独/LZm0WknUKhpMrbc`
 - 肯肯数谜数独 `#小程序://肯肯数谜数独/肯肯数独/6JRdmdOXDFZGOHD`
 - 口袋数独 `#小程序://口袋数独/VjGS3AhQ0Oy9Ufk`
