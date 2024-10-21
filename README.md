@@ -85,6 +85,7 @@
 - [Fun With Puzzles](https://www.funwithpuzzles.com/)
 - [Futoshiki](https://cn.puzzle-futoshiki.com/)
 - [Grandmaster Puzzles](https://www.gmpuzzles.com/)
+- [GridPuzzle](https://cn.gridpuzzle.com/)
 - [Logic Masters Deutschland e.V.](https://logic-masters.de/)
 - [KenKen](https://www.kenkenpuzzle.com/)
 - [Killer Sudoku Online](https://www.killersudokuonline.com/)
