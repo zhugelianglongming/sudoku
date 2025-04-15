@@ -84,6 +84,7 @@
 - [Sudoku.com](https://sudoku.com/zh)
 - [SudokuWiki.org](https://www.sudokuwiki.org/Main_Page)
 - [Sudoku Kingdom](https://sudokukingdom.com/)
+- [SudokuPad](https://sudokupad.app/)
 - [Sudoku Puzzle](https://cn.sudokupuzzle.org/)
 - [variantsudoku.top](http://variantsudoku.top/puzzles)
 
