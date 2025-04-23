@@ -200,14 +200,18 @@
   },
   "active": "c5a220e2239c9c6d",
   "lastOpenFiles": [
+    "技巧/图谱/技巧画布.canvas",
+    "技巧/图谱/Template/【Tpl】技巧.md",
+    "技巧/图谱/Template",
+    "images/sudoku/锯齿+无缘数独.png",
+    "update_summary.py",
+    "ranking.md",
+    "images/挑战20x20.png",
     "非标数独/9宫/额外区域类/绝对区域/额外宫类/对角线数独.md",
     "非标数独/9宫/计算类/内提示类/杀手数独.md",
     "工具/解题工具.md",
     "工具/出题工具.md",
     "README.md",
-    "非标数独/9宫/混合类/锯齿+无缘数独.md",
-    "技巧/图谱/技巧画布.canvas",
-    "技巧/图谱/Template/【Tpl】技巧.md",
-    "技巧/图谱/Template"
+    "非标数独/9宫/混合类/锯齿+无缘数独.md"
   ]
 }
