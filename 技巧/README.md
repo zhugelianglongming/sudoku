@@ -12,6 +12,7 @@
 - [中级](#%E4%B8%AD%E7%BA%A7)
   - [隐性数组](#%E9%9A%90%E6%80%A7%E6%95%B0%E7%BB%84)
   - [显性数组](#%E6%98%BE%E6%80%A7%E6%95%B0%E7%BB%84)
+  - [割补](#%E5%89%B2%E8%A1%A5)
 - [高级](#%E9%AB%98%E7%BA%A7)
   - [区块数组](#%E5%8C%BA%E5%9D%97%E6%95%B0%E7%BB%84)
   - [鱼](#%E9%B1%BC)
@@ -52,9 +53,11 @@
 
 ### 摒除法
 
-- 摒除法 / 排除法 / [Hidden Single]
-  - 宫摒除 / [Hidden Single in Box][] `参考难度系数`1.2
-  - 行列摒除 / [Hidden Single in Row/Column] `参考难度系数`1.5
+- 摒除法 / 排除法 / Hidden Single / [Crosshatching][]
+  - 宫摒除 / Hidden Single in Box / [Crosshatching in Block][] `参考难度系数`1.2
+  - 行列摒除 / Hidden Single in Row/Column `参考难度系数`1.5
+    - 行摒除 / Hidden Single in Row / [Crosshatching in Row][]
+    - 列摒除 / Hidden Single in Column / [Crosshatching in Column][]
 
 ### 唯余法
 
@@ -64,7 +67,7 @@
 
 ### 区块摒除
 
-- 区块摒除 / [Locked Candidates][]
+- 区块摒除 / [Locked Candidates][] / LC
   - 宫区块摒除法 / [Pointing][]
     - 直观宫区块摒除法 / [Direct Pointing] `参考难度系数`1.7
   - 行列区块摒除法 / [Claiming][]
@@ -92,6 +95,10 @@
   - 死锁数组 / 割补数组 / [Locked Subset][]
     - 死锁数对 `参考难度系数`2.0
     - 死锁三数组 `参考难度系数`2.5
+
+### 割补
+
+- 割补 / Law of Leftover / [LoL][]
 
 ## 高级
 
@@ -473,37 +480,39 @@
 >
 > - [标准数独技巧教程](https://www.bilibili.com/read/readlist/rl291187)
 
-[Hidden Single]: https://sunnieshine.gitbook.io/sudoku-tutorial/002-hidden-single
+[Crosshatching]: https://sudoku.kazusa.tech/direct-technique/01-crosshatching
 
-[Hidden Single in Box]: https://sunnieshine.gitbook.io/sudoku-tutorial/002-hidden-single#part-1-gong-pai-chu-hidden-single-in-block
+[Crosshatching in Block]: https://sudoku.kazusa.tech/direct-technique/01-crosshatching#crosshatching-in-block
 
-[Hidden Single in Row/Column]: https://sunnieshine.gitbook.io/sudoku-tutorial/002-hidden-single#part-2-hang-lie-pai-chu-hidden-single-in-line
+[Crosshatching in Row]: https://sudoku.kazusa.tech/direct-technique/01-crosshatching#crosshatching-in-row
 
-[Naked Single]: https://sunnieshine.gitbook.io/sudoku-tutorial/003-naked-single
+[Crosshatching in Column]: https://sudoku.kazusa.tech/direct-technique/01-crosshatching#crosshatching-in-column
+
+[Naked Single]: https://sudoku.kazusa.tech/direct-technique/02-naked-single
 
 [Locked Candidates]: https://sunnieshine.gitbook.io/sudoku-tutorial/004-locked-candidates
 
-[Pointing]: https://sunnieshine.gitbook.io/sudoku-tutorial/008-candidate-introduction#21-gong-qu-kuai-pointing
+[Pointing]: https://sudoku.kazusa.tech/partial-marking-technique/02-direct-locked-candidates#pointing
 
 [Direct Pointing]: https://sunnieshine.gitbook.io/sudoku-tutorial/004-locked-candidates#part-1-gong-qu-kuai-pointing
 
-[Claiming]: https://sunnieshine.gitbook.io/sudoku-tutorial/008-candidate-introduction#22-hang-lie-qu-kuai-claiming
+[Claiming]: https://sudoku.kazusa.tech/partial-marking-technique/02-direct-locked-candidates#claiming
 
 [Direct Claiming]: https://sunnieshine.gitbook.io/sudoku-tutorial/004-locked-candidates#part-2-hang-lie-pai-chu-claiming
 
-[Cascading Locked Candidates]: https://sunnieshine.gitbook.io/sudoku-tutorial/004-locked-candidates#part-3-zu-he-qu-kuai-ji-lian-qu-kuai-cascading-locked-candidates
+[Cascading Locked Candidates]: https://sudoku.kazusa.tech/partial-marking-technique/02-direct-locked-candidates#cascading-locked-candidates
 
 [Hidden Subset]: https://sunnieshine.gitbook.io/sudoku-tutorial/005-hidden-subsets
 
-[Hidden Pair]: https://sunnieshine.gitbook.io/sudoku-tutorial/008-candidate-introduction#321-yin-xing-shu-dui-hidden-pair
+[Hidden Pair]: https://sudoku.kazusa.tech/partial-marking-technique/03-direct-subset/01-direct-hidden-subset#hidden-pair
 
 [Direct Hidden Pair]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5178
 
-[Hidden Triple]: https://sunnieshine.gitbook.io/sudoku-tutorial/008-candidate-introduction#322-yin-xing-san-shu-zu-hidden-triple
+[Hidden Triple]: https://sudoku.kazusa.tech/partial-marking-technique/03-direct-subset/01-direct-hidden-subset#hidden-triple
 
 [Direct Hidden Triple]: https://sunnieshine.gitbook.io/sudoku-tutorial/005-hidden-subsets#part-2-yin-xing-san-shu-zu-hidden-triple
 
-[Hidden Quadruple]: https://sunnieshine.gitbook.io/sudoku-tutorial/005-hidden-subsets#part-3-yin-xing-si-shu-zu-hidden-quadruple
+[Hidden Quadruple]: https://sudoku.kazusa.tech/partial-marking-technique/03-direct-subset/01-direct-hidden-subset#hidden-quadruple
 
 [Naked Subset]: https://sunnieshine.gitbook.io/sudoku-tutorial/006-naked-subsets
 
@@ -511,11 +520,13 @@
 
 [Naked Pair]: http://www.sudokufans.org.cn/forums/topic/69/?do=findComment&comment=5193
 
-[Naked Triple]: https://sunnieshine.gitbook.io/sudoku-tutorial/006-naked-subsets#part-2-xian-xing-san-shu-zu-naked-triple
+[Naked Triple]: https://sudoku.kazusa.tech/partial-marking-technique/03-direct-subset/02-direct-naked-subset#naked-triple
 
-[Naked Quadruple]: https://sunnieshine.gitbook.io/sudoku-tutorial/006-naked-subsets#part-3-xian-xing-si-shu-zu-naked-quadruple
+[Naked Quadruple]: https://sudoku.kazusa.tech/partial-marking-technique/03-direct-subset/02-direct-naked-subset#naked-quadruple
 
 [Locked Subset]: https://sunnieshine.gitbook.io/sudoku-tutorial/006-naked-subsets#part-7-si-suo-shu-zu-he-ge-bu-shu-zu-locked-subset
+
+[LoL]: https://sudoku.kazusa.tech/partial-marking-technique/01-law-of-leftover
 
 [Fish]: https://sunnieshine.gitbook.io/sudoku-tutorial/009-normal-fish
 
