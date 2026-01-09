@@ -48,9 +48,33 @@
               "icon": "lucide-file",
               "title": "窗口+对角数独"
             }
+          },
+          {
+            "id": "d86419201be136bc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.8.10"
+            }
+          },
+          {
+            "id": "70cf1da22f2f1ce8",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.9.12"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -189,6 +213,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:创建新数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -198,7 +223,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c5a220e2239c9c6d",
+  "active": "70cf1da22f2f1ce8",
   "lastOpenFiles": [
     "技巧/图谱/技巧画布.canvas",
     "技巧/图谱/Template/【Tpl】技巧.md",
