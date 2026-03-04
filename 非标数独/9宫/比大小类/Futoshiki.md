@@ -31,7 +31,7 @@
 
 - [不等式](https://cn.puzzle-futoshiki.com/futoshiki-9x9-hard/)
 - [KrazyDad](https://krazydad.com/play/futoshiki/?kind=9x9)
-- [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/unequal.html)
+- [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/unequal.html#9dr%23927968793950629)
 
 ## 扩展题型
 

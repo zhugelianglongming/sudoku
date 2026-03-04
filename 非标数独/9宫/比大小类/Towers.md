@@ -37,7 +37,7 @@
 
 ### 在线题库
 
-- [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/towers.html)
+- [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/js/towers.html#9de%23815446358898581)
 
 ### 微信小程序
 

@@ -72,9 +72,23 @@
               "icon": "lucide-book-up",
               "title": "版本说明 1.9.12"
             }
+          },
+          {
+            "id": "c37bd929d833b1dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技巧/图谱/Level1/唯余法.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "唯余法"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -213,7 +227,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:创建新数据库": false,
+      "bases:新建数据库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -223,20 +237,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "70cf1da22f2f1ce8",
+  "active": "c37bd929d833b1dd",
   "lastOpenFiles": [
+    "技巧/图谱/Level1/摒除法.md",
+    "技巧/图谱/Level1/毛刺结构.md",
+    "技巧/图谱/Level2/标准链.md",
+    "技巧/图谱/Level3/带鳍交叉鱼.md",
+    "技巧/图谱/Level3/带鳍宫内鱼.md",
+    "技巧/图谱/Level3/超链置隐性数组.md",
+    "技巧/图谱/Level3/超链置显性数组.md",
+    "技巧/图谱/Level2/交叉鱼.md",
+    "技巧/图谱/Level2/宫内鱼.md",
+    "技巧/图谱/Level2/带鳍鱼.md",
+    "技巧/图谱/Level2/超标准链.md",
+    "技巧/图谱/Level1/唯余法.md",
+    "技巧/图谱/Level1/链.md",
     "技巧/图谱/技巧画布.canvas",
+    "技巧/图谱/均衡性数组.md",
+    "技巧/图谱/多米诺链.md",
+    "技巧/图谱/多米诺环.md",
+    "技巧/图谱/多度SdC.md",
+    "技巧/图谱/袋鼠飞鱼导弹.md",
     "技巧/图谱/Template/【Tpl】技巧.md",
+    "技巧/图谱/数组/显性数组/显性四数组.md",
+    "技巧/图谱/数组/显性数组/显性三数组.md",
+    "技巧/图谱/数组/显性数组/显性数组.md",
+    "技巧/图谱/数组/显性数组/显性数对.md",
+    "技巧/图谱/链/鱼/标准鱼/标准鱼.md",
+    "技巧/图谱/待定数组/均衡性数组/均衡性数对.md",
     "技巧/图谱/Template",
     "images/sudoku/锯齿+无缘数独.png",
     "update_summary.py",
     "ranking.md",
-    "images/挑战20x20.png",
-    "非标数独/9宫/额外区域类/绝对区域/额外宫类/对角线数独.md",
-    "非标数独/9宫/计算类/内提示类/杀手数独.md",
-    "工具/解题工具.md",
-    "工具/出题工具.md",
-    "README.md",
-    "非标数独/9宫/混合类/锯齿+无缘数独.md"
+    "images/挑战20x20.png"
   ]
 }
