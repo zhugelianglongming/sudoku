@@ -116,5 +116,6 @@
 - 数独谜题 `#小程序://数独谜题/5EMzvlmHZpwu0Pl`
 - 数独天地 `#小程序://数独天地/YBEeJaP6IJVoipx`
 - 数独星空 `#小程序://数独星空/TYOXr9SLNGQlDmx`
+- 土豆数独 `#小程序://土豆数独/J7FZGYTcKsZGpUG`
 - 我爱玩数独 `#小程序://玩数独/fUS6ycOThsmz4jB`
 - ~~变形数独 `#小程序://变形数独/高端数独/3QQ2xclTUJ6u2bc`~~
