@@ -25,7 +25,7 @@
     - [四海归一](http://www.sudokufans.org.cn/lx/8f.index.php)
     - [连体数独](http://www.sudokufans.org.cn/lx/dou.index.php)
     - [双胞锯齿数独](http://www.sudokufans.org.cn/lx/game.index.php?type=j2)
-- [武士数独] 【选题不便】
+- [武士数独]
   - 三叠数独
   - 蝴蝶数独
   - 花数独
