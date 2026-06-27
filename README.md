@@ -8,6 +8,7 @@
   - [脑图](#%E8%84%91%E5%9B%BE)
   - [Gitbook](#gitbook)
   - [Obsidian](#obsidian)
+- [付费版](#%E4%BB%98%E8%B4%B9%E7%89%88)
 - [收录](#%E6%94%B6%E5%BD%95)
   - [站点](#%E7%AB%99%E7%82%B9)
   - [微信小程序](#%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
@@ -56,6 +57,10 @@
 - 点击`查看关系图谱`
 
 ![数独题型关系图谱](images/obsidian.png)
+
+## 付费版
+
+- [Gitee](https://gitee.com/zhugelianglongming/sudoku_pro)
 
 ## 收录
 
