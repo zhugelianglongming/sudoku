@@ -11,7 +11,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-![题](../../../../../images/sudoku/彩虹数独.png)
+![题](../../../../../images/sudoku/Spectradoku.png)
 
 ## 规则
 
