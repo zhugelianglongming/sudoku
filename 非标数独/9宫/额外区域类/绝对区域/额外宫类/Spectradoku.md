@@ -1,4 +1,5 @@
 # Spectradoku
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## 目录
@@ -37,3 +38,5 @@
 ### 在线题库
 
 - [Spectradoku](https://spectradoku.com/)
+
+[1~9填充]: ../../../../../rules/rules.md#1to9填充
