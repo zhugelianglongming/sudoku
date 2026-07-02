@@ -1,0 +1,39 @@
+# Spectradoku
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## 目录
+
+- [规则](#%E8%A7%84%E5%88%99)
+  - [标签](#%E6%A0%87%E7%AD%BE)
+- [题型名](#%E9%A2%98%E5%9E%8B%E5%90%8D)
+- [题库](#%E9%A2%98%E5%BA%93)
+  - [在线题库](#%E5%9C%A8%E7%BA%BF%E9%A2%98%E5%BA%93)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+![题](../../../../../images/sudoku/彩虹数独.png)
+
+## 规则
+
+| 序号  | 限制区域 | 限制规则    | 备注            |
+|:---:|:----:|:--------|---------------|
+|  1  |  行   | [1~9填充] |               |
+|  2  |  列   | [1~9填充] |               |
+|  3  |  宫   | [1~9填充] |               |
+|  4  | 彩色宫  | [1~9填充] | 盘面染色，每种颜色是一个宫 |
+
+### 标签
+
+- #额外宫
+
+## 题型名
+
+- 彩虹数独
+- 双重正交数独
+- Double Orthogonal Sudoku
+
+## 题库
+
+### 在线题库
+
+- [Spectradoku](https://spectradoku.com/)

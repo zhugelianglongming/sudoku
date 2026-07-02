@@ -12,6 +12,7 @@
 - [收录](#%E6%94%B6%E5%BD%95)
   - [站点](#%E7%AB%99%E7%82%B9)
   - [微信小程序](#%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F)
+  - [抖音小程序](#%E6%8A%96%E9%9F%B3%E5%B0%8F%E7%A8%8B%E5%BA%8F)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -95,6 +96,7 @@
 - [KenKen](https://www.kenkenpuzzle.com/)
 - [Killer Sudoku Online](https://www.killersudokuonline.com/)
 - [KrazyDad](https://krazydad.com/)
+- [Spectradoku](https://spectradoku.com/)
 - [Simon Tatham's Portable Puzzle Collection](https://www.chiark.greenend.org.uk/~sgtatham/puzzles/)
 - [Str8ts](https://www.str8ts.com/Main_Page)
 - [SUDOKU.HK](https://sudoku.hk/)
@@ -110,6 +112,7 @@
 > 复制右侧链接，可在微信中直接打开小程序
 
 - 三思数独 `#小程序://三思数独/gUu4UIUAgfF0AOq`
+- 数独与激情 `#小程序://数独与激情/6QDzE09HekqS7Ax`
 - 君欢数独 `#小程序://君欢数独/iY4sKTQlFFkVYkc`
 - 鳄鱼数独 `#小程序://鳄鱼数独/LZm0WknUKhpMrbc`
 - 聪明格算独 `#小程序://聪明格算独/Fk7PgTZa0ojTWQI`
@@ -125,3 +128,7 @@
 - 土豆数独 `#小程序://土豆数独/J7FZGYTcKsZGpUG`
 - 我爱玩数独 `#小程序://玩数独/fUS6ycOThsmz4jB`
 - ~~变形数独 `#小程序://变形数独/高端数独/3QQ2xclTUJ6u2bc`~~
+
+### 抖音小程序
+
+- 数独与激情
