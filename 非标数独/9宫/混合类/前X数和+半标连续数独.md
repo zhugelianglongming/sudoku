@@ -35,4 +35,4 @@
 
 [前X和]: ../../../rules/rules.md#前X和
 
-[今日数独]: https://cn.sudoku.today/g-hybrid-sudoku-consecutive-pairs-sum-frame/
+[今日数独]: https://cn.sudoku.today/g-hybrid-sudoku-x-sums-consecutive/
