@@ -1,78 +1,86 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## 目录
+
+- [6 宫](#6-%E5%AE%AB)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 6 宫
 
-* 候选类
-  * [6邻数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%80%99%E9%80%89%E7%B1%BB/6%E9%82%BB%E6%95%B0%E7%8B%AC.md)
-  * [双色蛋糕数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%80%99%E9%80%89%E7%B1%BB/%E5%8F%8C%E8%89%B2%E8%9B%8B%E7%B3%95%E6%95%B0%E7%8B%AC.md)
-  * [摆盘数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%80%99%E9%80%89%E7%B1%BB/%E6%91%86%E7%9B%98%E6%95%B0%E7%8B%AC.md)
-  * [轮转数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%80%99%E9%80%89%E7%B1%BB/%E8%BD%AE%E8%BD%AC%E6%95%B0%E7%8B%AC.md)
-  * [互描数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%80%99%E9%80%89%E7%B1%BB/%E4%BA%92%E6%8F%8F%E6%95%B0%E7%8B%AC.md)
-* 异形类
-  * [锯齿数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%BC%82%E5%BD%A2%E7%B1%BB/%E9%94%AF%E9%BD%BF%E6%95%B0%E7%8B%AC.md)
-  * [Chain数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%BC%82%E5%BD%A2%E7%B1%BB/Chain%E6%95%B0%E7%8B%AC.md)
-  * [缺一门数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%BC%82%E5%BD%A2%E7%B1%BB/%E7%BC%BA%E4%B8%80%E9%97%A8%E6%95%B0%E7%8B%AC.md)
-  * [未知宫数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%BC%82%E5%BD%A2%E7%B1%BB/%E6%9C%AA%E7%9F%A5%E5%AE%AB%E6%95%B0%E7%8B%AC.md)
-  * [破碎数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%BC%82%E5%BD%A2%E7%B1%BB/%E7%A0%B4%E7%A2%8E%E6%95%B0%E7%8B%AC.md)
-  * [TightFit数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%BC%82%E5%BD%A2%E7%B1%BB/TightFit%E6%95%B0%E7%8B%AC.md)
-* 比大小类
-  * [数比数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E6%95%B0%E6%AF%94%E6%95%B0%E7%8B%AC.md)
-  * [内排序数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E5%86%85%E6%8E%92%E5%BA%8F%E6%95%B0%E7%8B%AC.md)
-  * [摩天楼数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E6%91%A9%E5%A4%A9%E6%A5%BC%E6%95%B0%E7%8B%AC.md)
-  * [摩天挡住了](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E6%91%A9%E5%A4%A9%E6%8C%A1%E4%BD%8F%E4%BA%86.md)
-  * [镜面摩天楼](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E9%95%9C%E9%9D%A2%E6%91%A9%E5%A4%A9%E6%A5%BC.md)
-  * [表面数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E8%A1%A8%E9%9D%A2%E6%95%B0%E7%8B%AC.md)
-  * [之间数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E4%B9%8B%E9%97%B4%E6%95%B0%E7%8B%AC.md)
-  * [较大数箭头数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E8%BE%83%E5%A4%A7%E6%95%B0%E7%AE%AD%E5%A4%B4%E6%95%B0%E7%8B%AC.md)
-  * [递增数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E9%80%92%E5%A2%9E%E6%95%B0%E7%8B%AC.md)
-  * [爆头箭数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E7%88%86%E5%A4%B4%E7%AE%AD%E6%95%B0%E7%8B%AC.md)
-  * [中位数数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E4%B8%AD%E4%BD%8D%E6%95%B0%E6%95%B0%E7%8B%AC.md)
-  * [堡垒数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E5%A0%A1%E5%9E%92%E6%95%B0%E7%8B%AC.md)
-* 计算类
-  * [三角和数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E4%B8%89%E8%A7%92%E5%92%8C%E6%95%B0%E7%8B%AC.md)
-  * [五六数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E4%BA%94%E5%85%AD%E6%95%B0%E7%8B%AC.md)
-  * [六一数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%85%AD%E4%B8%80%E6%95%B0%E7%8B%AC.md)
-  * [杀手数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E6%9D%80%E6%89%8B%E6%95%B0%E7%8B%AC.md)
-  * [骰子数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E9%AA%B0%E5%AD%90%E6%95%B0%E7%8B%AC.md)
-  * [LED数码管数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/LED%E6%95%B0%E7%A0%81%E7%AE%A1%E6%95%B0%E7%8B%AC.md)
-  * [寻6数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%AF%BB6%E6%95%B0%E7%8B%AC.md)
-  * [同性边框和](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%90%8C%E6%80%A7%E8%BE%B9%E6%A1%86%E5%92%8C.md)
-  * [对对5数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%AF%B9%E5%AF%B95%E6%95%B0%E7%8B%AC.md)
-  * [等差数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E7%AD%89%E5%B7%AE%E6%95%B0%E7%8B%AC.md)
-  * 连续类
-    * [全标连续数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E8%BF%9E%E7%BB%AD%E7%B1%BB/%E5%85%A8%E6%A0%87%E8%BF%9E%E7%BB%AD%E6%95%B0%E7%8B%AC.md)
-    * [全标斜连续数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E8%BF%9E%E7%BB%AD%E7%B1%BB/%E5%85%A8%E6%A0%87%E6%96%9C%E8%BF%9E%E7%BB%AD%E6%95%B0%E7%8B%AC.md)
-    * [斐波那契连续数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E8%BF%9E%E7%BB%AD%E7%B1%BB/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E8%BF%9E%E7%BB%AD%E6%95%B0%E7%8B%AC.md)
-  * 黑白点类
-    * [黑白点数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E9%BB%91%E7%99%BD%E7%82%B9%E7%B1%BB/%E9%BB%91%E7%99%BD%E7%82%B9%E6%95%B0%E7%8B%AC.md)
-  * 外提示
-    * [X位和数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%A4%96%E6%8F%90%E7%A4%BA/X%E4%BD%8D%E5%92%8C%E6%95%B0%E7%8B%AC.md)
-    * [9选6X位和数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%A4%96%E6%8F%90%E7%A4%BA/9%E9%80%896X%E4%BD%8D%E5%92%8C%E6%95%B0%E7%8B%AC.md)
-    * [X位差数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%A4%96%E6%8F%90%E7%A4%BA/X%E4%BD%8D%E5%B7%AE%E6%95%B0%E7%8B%AC.md)
-    * [X在X和数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%A4%96%E6%8F%90%E7%A4%BA/X%E5%9C%A8X%E5%92%8C%E6%95%B0%E7%8B%AC.md)
-    * [花N和数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%A4%96%E6%8F%90%E7%A4%BA/%E8%8A%B1N%E5%92%8C%E6%95%B0%E7%8B%AC.md)
-  * 内提示
-    * 单标
-      * [寻对数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%86%85%E6%8F%90%E7%A4%BA/%E5%8D%95%E6%A0%87/%E5%AF%BB%E5%AF%B9%E6%95%B0%E7%8B%AC.md)
-      * [寻位数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%86%85%E6%8F%90%E7%A4%BA/%E5%8D%95%E6%A0%87/%E5%AF%BB%E4%BD%8D%E6%95%B0%E7%8B%AC.md)
-    * [9选6箭头数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%86%85%E6%8F%90%E7%A4%BA/9%E9%80%896%E7%AE%AD%E5%A4%B4%E6%95%B0%E7%8B%AC.md)
-    * [肯肯数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%86%85%E6%8F%90%E7%A4%BA/%E8%82%AF%E8%82%AF%E6%95%B0%E7%8B%AC.md)
-* 额外区域类
-  * [斜线数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E6%96%9C%E7%BA%BF%E6%95%B0%E7%8B%AC.md)
-  * [斜线重复数](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E6%96%9C%E7%BA%BF%E9%87%8D%E5%A4%8D%E6%95%B0.md)
-  * [胶囊数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E8%83%B6%E5%9B%8A%E6%95%B0%E7%8B%AC.md)
-  * [回文数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E5%9B%9E%E6%96%87%E6%95%B0%E7%8B%AC.md)
-  * 额外宫类
-    * [单对角数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E9%A2%9D%E5%A4%96%E5%AE%AB%E7%B1%BB/%E5%8D%95%E5%AF%B9%E8%A7%92%E6%95%B0%E7%8B%AC.md)
-    * [对角线数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E9%A2%9D%E5%A4%96%E5%AE%AB%E7%B1%BB/%E5%AF%B9%E8%A7%92%E7%BA%BF%E6%95%B0%E7%8B%AC.md)
-    * [V 线数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E9%A2%9D%E5%A4%96%E5%AE%AB%E7%B1%BB/V%E7%BA%BF%E6%95%B0%E7%8B%AC.md)
-    * [百分比数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E9%A2%9D%E5%A4%96%E5%AE%AB%E7%B1%BB/%E7%99%BE%E5%88%86%E6%AF%94%E6%95%B0%E7%8B%AC.md)
-    * [额外区域数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E9%A2%9D%E5%A4%96%E5%AE%AB%E7%B1%BB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E6%95%B0%E7%8B%AC.md)
-* 混合类
-  * [减边摩天和](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/%E5%87%8F%E8%BE%B9%E6%91%A9%E5%A4%A9%E5%92%8C.md)
-  * [奇偶+杀手数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/%E5%A5%87%E5%81%B6+%E6%9D%80%E6%89%8B%E6%95%B0%E7%8B%AC.md)
-  * [9选6+VX 数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+VX%E6%95%B0%E7%8B%AC.md)
-  * [9选6+全标连续](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+%E5%85%A8%E6%A0%87%E8%BF%9E%E7%BB%AD.md)
-  * [9选6+前 X 和](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+%E5%89%8DX%E5%92%8C.md)
-  * [9选6+奇偶雷](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+%E5%A5%87%E5%81%B6%E9%9B%B7.md)
-  * [9选6+小杀手](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+%E5%B0%8F%E6%9D%80%E6%89%8B.md)
-  * [9选6+积十位](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+%E7%A7%AF%E5%8D%81%E4%BD%8D.md)
-  * [9选6+黑白点](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+%E9%BB%91%E7%99%BD%E7%82%B9.md)
+- 候选类
+  - [6邻数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%80%99%E9%80%89%E7%B1%BB/6%E9%82%BB%E6%95%B0%E7%8B%AC.md)
+  - [双色蛋糕数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%80%99%E9%80%89%E7%B1%BB/%E5%8F%8C%E8%89%B2%E8%9B%8B%E7%B3%95%E6%95%B0%E7%8B%AC.md)
+  - [摆盘数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%80%99%E9%80%89%E7%B1%BB/%E6%91%86%E7%9B%98%E6%95%B0%E7%8B%AC.md)
+  - [轮转数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%80%99%E9%80%89%E7%B1%BB/%E8%BD%AE%E8%BD%AC%E6%95%B0%E7%8B%AC.md)
+  - [互描数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%80%99%E9%80%89%E7%B1%BB/%E4%BA%92%E6%8F%8F%E6%95%B0%E7%8B%AC.md)
+- 异形类
+  - [锯齿数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%BC%82%E5%BD%A2%E7%B1%BB/%E9%94%AF%E9%BD%BF%E6%95%B0%E7%8B%AC.md)
+  - [Chain数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%BC%82%E5%BD%A2%E7%B1%BB/Chain%E6%95%B0%E7%8B%AC.md)
+  - [缺一门数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%BC%82%E5%BD%A2%E7%B1%BB/%E7%BC%BA%E4%B8%80%E9%97%A8%E6%95%B0%E7%8B%AC.md)
+  - [未知宫数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%BC%82%E5%BD%A2%E7%B1%BB/%E6%9C%AA%E7%9F%A5%E5%AE%AB%E6%95%B0%E7%8B%AC.md)
+  - [破碎数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%BC%82%E5%BD%A2%E7%B1%BB/%E7%A0%B4%E7%A2%8E%E6%95%B0%E7%8B%AC.md)
+  - [TightFit数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E5%BC%82%E5%BD%A2%E7%B1%BB/TightFit%E6%95%B0%E7%8B%AC.md)
+- 比大小类
+  - [数比数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E6%95%B0%E6%AF%94%E6%95%B0%E7%8B%AC.md)
+  - [内排序数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E5%86%85%E6%8E%92%E5%BA%8F%E6%95%B0%E7%8B%AC.md)
+  - [摩天楼数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E6%91%A9%E5%A4%A9%E6%A5%BC%E6%95%B0%E7%8B%AC.md)
+  - [摩天挡住了](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E6%91%A9%E5%A4%A9%E6%8C%A1%E4%BD%8F%E4%BA%86.md)
+  - [镜面摩天楼](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E9%95%9C%E9%9D%A2%E6%91%A9%E5%A4%A9%E6%A5%BC.md)
+  - [表面数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E8%A1%A8%E9%9D%A2%E6%95%B0%E7%8B%AC.md)
+  - [之间数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E4%B9%8B%E9%97%B4%E6%95%B0%E7%8B%AC.md)
+  - [较大数箭头数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E8%BE%83%E5%A4%A7%E6%95%B0%E7%AE%AD%E5%A4%B4%E6%95%B0%E7%8B%AC.md)
+  - [递增数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E9%80%92%E5%A2%9E%E6%95%B0%E7%8B%AC.md)
+  - [爆头箭数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E7%88%86%E5%A4%B4%E7%AE%AD%E6%95%B0%E7%8B%AC.md)
+  - [中位数数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E4%B8%AD%E4%BD%8D%E6%95%B0%E6%95%B0%E7%8B%AC.md)
+  - [堡垒数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%AF%94%E5%A4%A7%E5%B0%8F%E7%B1%BB/%E5%A0%A1%E5%9E%92%E6%95%B0%E7%8B%AC.md)
+- 计算类
+  - [三角和数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E4%B8%89%E8%A7%92%E5%92%8C%E6%95%B0%E7%8B%AC.md)
+  - [五六数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E4%BA%94%E5%85%AD%E6%95%B0%E7%8B%AC.md)
+  - [六一数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%85%AD%E4%B8%80%E6%95%B0%E7%8B%AC.md)
+  - [杀手数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E6%9D%80%E6%89%8B%E6%95%B0%E7%8B%AC.md)
+  - [骰子数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E9%AA%B0%E5%AD%90%E6%95%B0%E7%8B%AC.md)
+  - [LED数码管数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/LED%E6%95%B0%E7%A0%81%E7%AE%A1%E6%95%B0%E7%8B%AC.md)
+  - [寻6数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%AF%BB6%E6%95%B0%E7%8B%AC.md)
+  - [同性边框和](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%90%8C%E6%80%A7%E8%BE%B9%E6%A1%86%E5%92%8C.md)
+  - [对对5数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%AF%B9%E5%AF%B95%E6%95%B0%E7%8B%AC.md)
+  - [等差数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E7%AD%89%E5%B7%AE%E6%95%B0%E7%8B%AC.md)
+  - 连续类
+    - [全标连续数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E8%BF%9E%E7%BB%AD%E7%B1%BB/%E5%85%A8%E6%A0%87%E8%BF%9E%E7%BB%AD%E6%95%B0%E7%8B%AC.md)
+    - [全标斜连续数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E8%BF%9E%E7%BB%AD%E7%B1%BB/%E5%85%A8%E6%A0%87%E6%96%9C%E8%BF%9E%E7%BB%AD%E6%95%B0%E7%8B%AC.md)
+    - [斐波那契连续数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E8%BF%9E%E7%BB%AD%E7%B1%BB/%E6%96%90%E6%B3%A2%E9%82%A3%E5%A5%91%E8%BF%9E%E7%BB%AD%E6%95%B0%E7%8B%AC.md)
+  - 黑白点类
+    - [黑白点数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E9%BB%91%E7%99%BD%E7%82%B9%E7%B1%BB/%E9%BB%91%E7%99%BD%E7%82%B9%E6%95%B0%E7%8B%AC.md)
+  - 外提示
+    - [X位和数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%A4%96%E6%8F%90%E7%A4%BA/X%E4%BD%8D%E5%92%8C%E6%95%B0%E7%8B%AC.md)
+    - [9选6X位和数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%A4%96%E6%8F%90%E7%A4%BA/9%E9%80%896X%E4%BD%8D%E5%92%8C%E6%95%B0%E7%8B%AC.md)
+    - [X位差数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%A4%96%E6%8F%90%E7%A4%BA/X%E4%BD%8D%E5%B7%AE%E6%95%B0%E7%8B%AC.md)
+    - [X在X和数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%A4%96%E6%8F%90%E7%A4%BA/X%E5%9C%A8X%E5%92%8C%E6%95%B0%E7%8B%AC.md)
+    - [花N和数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%A4%96%E6%8F%90%E7%A4%BA/%E8%8A%B1N%E5%92%8C%E6%95%B0%E7%8B%AC.md)
+  - 内提示
+    - 单标
+      - [寻对数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%86%85%E6%8F%90%E7%A4%BA/%E5%8D%95%E6%A0%87/%E5%AF%BB%E5%AF%B9%E6%95%B0%E7%8B%AC.md)
+      - [寻位数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%86%85%E6%8F%90%E7%A4%BA/%E5%8D%95%E6%A0%87/%E5%AF%BB%E4%BD%8D%E6%95%B0%E7%8B%AC.md)
+    - [9选6箭头数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%86%85%E6%8F%90%E7%A4%BA/9%E9%80%896%E7%AE%AD%E5%A4%B4%E6%95%B0%E7%8B%AC.md)
+    - [肯肯数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E8%AE%A1%E7%AE%97%E7%B1%BB/%E5%86%85%E6%8F%90%E7%A4%BA/%E8%82%AF%E8%82%AF%E6%95%B0%E7%8B%AC.md)
+- 额外区域类
+  - [斜线数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E6%96%9C%E7%BA%BF%E6%95%B0%E7%8B%AC.md)
+  - [斜线重复数](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E6%96%9C%E7%BA%BF%E9%87%8D%E5%A4%8D%E6%95%B0.md)
+  - [胶囊数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E8%83%B6%E5%9B%8A%E6%95%B0%E7%8B%AC.md)
+  - [回文数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E5%9B%9E%E6%96%87%E6%95%B0%E7%8B%AC.md)
+  - 额外宫类
+    - [单对角数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E9%A2%9D%E5%A4%96%E5%AE%AB%E7%B1%BB/%E5%8D%95%E5%AF%B9%E8%A7%92%E6%95%B0%E7%8B%AC.md)
+    - [对角线数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E9%A2%9D%E5%A4%96%E5%AE%AB%E7%B1%BB/%E5%AF%B9%E8%A7%92%E7%BA%BF%E6%95%B0%E7%8B%AC.md)
+    - [V 线数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E9%A2%9D%E5%A4%96%E5%AE%AB%E7%B1%BB/V%E7%BA%BF%E6%95%B0%E7%8B%AC.md)
+    - [百分比数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E9%A2%9D%E5%A4%96%E5%AE%AB%E7%B1%BB/%E7%99%BE%E5%88%86%E6%AF%94%E6%95%B0%E7%8B%AC.md)
+    - [额外区域数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E7%B1%BB/%E9%A2%9D%E5%A4%96%E5%AE%AB%E7%B1%BB/%E9%A2%9D%E5%A4%96%E5%8C%BA%E5%9F%9F%E6%95%B0%E7%8B%AC.md)
+- 混合类
+  - [减边摩天和](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/%E5%87%8F%E8%BE%B9%E6%91%A9%E5%A4%A9%E5%92%8C.md)
+  - [奇偶+杀手数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/%E5%A5%87%E5%81%B6+%E6%9D%80%E6%89%8B%E6%95%B0%E7%8B%AC.md)
+  - [9选6+VX 数独](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+VX%E6%95%B0%E7%8B%AC.md)
+  - [9选6+全标连续](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+%E5%85%A8%E6%A0%87%E8%BF%9E%E7%BB%AD.md)
+  - [9选6+前 X 和](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+%E5%89%8DX%E5%92%8C.md)
+  - [9选6+奇偶雷](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+%E5%A5%87%E5%81%B6%E9%9B%B7.md)
+  - [9选6+小杀手](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+%E5%B0%8F%E6%9D%80%E6%89%8B.md)
+  - [9选6+积十位](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+%E7%A7%AF%E5%8D%81%E4%BD%8D.md)
+  - [9选6+黑白点](https://github.com/zhugelianglongming/sudoku/blob/main/%E9%9D%9E%E6%A0%87%E6%95%B0%E7%8B%AC/6%E5%AE%AB/%E6%B7%B7%E5%90%88%E7%B1%BB/9%E9%80%896+%E9%BB%91%E7%99%BD%E7%82%B9.md)
