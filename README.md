@@ -97,6 +97,7 @@
 * [Str8ts](https://www.str8ts.com/Main_Page)
 * [SUDOKU.HK](https://sudoku.hk/)
 * [Sudoku.com](https://sudoku.com/zh)
+* [Sudoku·AD](https://sudoku.ad/)
 * [SudokuWiki.org](https://www.sudokuwiki.org/Main_Page)
 * [Sudoku Kingdom](https://sudokukingdom.com/)
 * [SudokuPad](https://sudokupad.app/)
